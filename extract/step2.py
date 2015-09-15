@@ -232,10 +232,17 @@ lib_list = {
 
 not_tagged = []
 
+dep_max_list = {}
+
 input = open(input_d, 'r')
 output = open(output_d, 'w')
 for line in input:
     i = json.loads(line)
+    if len(i['pp'][0].split('/')) <= 4:
+        if i['pp'][0] in dep_max_list:
+            dep_max_list[i['pp'][0]] += i['dep_num']
+        else:
+            dep_max_list[i['pp'][0]] = i['dep_num']
     o = {'lib': ""}
     paths = i[u'pp']
     paths.reverse()
@@ -258,9 +265,14 @@ for line in input:
             o['paths'] = paths
         o['dep_num'] = i['dep_num']
         not_tagged.append(o)
-        if i['dep_num'] > 2000 and i['dep_num'] <= 5000:
-            print o
+        # if i['dep_num'] > 2000 and i['dep_num'] <= 5000:
+        #     print o
     output.write(json.dumps(o)+'\n')
+
+out = open('../raw_data/top_libs.txt', 'w')
+for i in sorted(dep_max_list.items(), key=lambda u: u[1], reverse=True):
+    out.write(json.dumps(i) + '\n')
+out.close()
 
 '''
 cnt = 0
@@ -270,6 +282,7 @@ for i in sorted(not_tagged, key=lambda u: u['dep_num'], reverse=True):
         break
     print i
     '''
+
 
 input.close()
 output.close()
