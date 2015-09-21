@@ -168,6 +168,7 @@ def get_hash(apk_path):
             return find_feature(package, start, mid)
 
     print "--Packages--"
+
     def find_features(package):
         if package[3] != "":
             print package[3]
@@ -297,7 +298,7 @@ def main_func(path):
 if __name__ == '__main__':
     if len(sys.argv) <= 1:
         print "No Apk File Name.\nTry to detect 'Yo.apk' for test."
-        main_func("~/Downloads/Yo.apk")
+        main_func("~/Downloads/coco.apk")
     else:
         print os.path.basename(sys.argv[1])
         main_func(sys.argv[1])
