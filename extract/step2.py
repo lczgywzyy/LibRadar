@@ -178,7 +178,7 @@ lib_list = {
     "com/revmob": "ad;Revmob",
     "com/kakao/talk": "sn;Kakao;韩国最著名的社交平台",
     "com/viewpagerindicator": "da;Android Viewpagerindicator Widget",
-    "org/kxml2": "da:Kxml2;XML解析工具",#解析xml
+    "org/kxml2": "da;Kxml2;XML解析工具",#解析xml
     "gnu/mapping": "da;GNU Mapping",
     "android/widget": "ui;android widget",
     "com/mobfox": "da;mobfox",
