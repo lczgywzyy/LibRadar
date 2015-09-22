@@ -19,8 +19,8 @@ input = open(input_d, 'r')
 output = open(output_d, 'w')
 for line in input:
     i = json.loads(line)
-    if "paths" in i:
-        del i["paths"]
+    if "ps" in i:
+        del i["ps"]
     output.write(json.dumps(i)+'\n')
 
 '''

@@ -39,8 +39,8 @@ lib_list = {
     "android/support/v4": "Android Support v4",
     "android/support/v7": "Android Support v7",
     "android/support/v13": "Android Support v13",
-    "xamarin": "1;Xamarin;C# Android应用开发包",
-    "opentk": "1;OpenTK;The Open Toolkit Library",
+    "xamarin": "Xamarin;C# Android应用开发包",
+    "opentk": "OpenTK;The Open Toolkit Library",
     "org/jsoup": "Jsoup;JSOUP Java HTML Parser",
     "com/ansca/corona": "Corona",
     "jsr166y": "JSR-166y Java",
@@ -248,7 +248,7 @@ lib_list = {
     "com/nineoldandroids": "Nine Old Androids;开源Android动画库",
     "v2/com/playhaven": "PlayHaven Mobile Ads",
     "com/playhaven": "PlayHaven Mobile Ads",
-    "Appinventor": "appinventor",
+    "appinventor": "Appinventor",
     "com/google/appinventor": "Google Appinventor",
     "org/simpleframework": "simple framework",
     "com/amap": "Alibaba Amap;高德地图",
@@ -290,19 +290,20 @@ for line in input:
         for lib in lib_list:
             if lib in s_lower:
                 o['lib'] = lib_list[lib]
+                o['pn'] = lib # package name
                 break
         if o['lib'] != "":
             break
-    o['s_path'] = s_path
-    o['b_hash'] = i['b_hash']
-    o['b_total_num'] = i['b_total_num']
-    o['b_total_call'] = i['b_total_call']
+    o['sp'] = s_path  # sp: s_path
+    o['bh'] = i['b_hash']  # bh: b_hash
+    o['btn'] = i['b_total_num']     # btn: b_total_num
+    o['btc'] = i['b_total_call']   # btc: b_total_call
+    o['dn'] = i['dep_num'] # dn:dep_num
     if o['lib'] == "":
         if len(paths) > 10:
-            o['paths'] = paths[:10]
+            o['ps'] = paths[:10]    # ps: paths
         else:
-            o['paths'] = paths
-        o['dep_num'] = i['dep_num']
+            o['ps'] = paths
         not_tagged.append(o)
         # if i['dep_num'] > 2000 and i['dep_num'] <= 5000:
         #     print o

@@ -24,37 +24,37 @@ for line in input:
 
 
 def compare_d(a, b):
-    if a['b_total_num'] < b['b_total_num']:
+    if a['btn'] < b['btn']:
         return -1
-    elif a['b_total_num'] > b['b_total_num']:
+    elif a['btn'] > b['btn']:
         return 1
     else:
-        if a['b_total_call'] < b['b_total_call']:
+        if a['btc'] < b['btc']:
             return -2
-        elif a['b_total_call'] > b['b_total_call']:
+        elif a['btc'] > b['btc']:
             return 2
         else:
-            if a['b_hash'] < b['b_hash']:
+            if a['bh'] < b['bh']:
                 return -3
-            elif a['b_hash'] > b['b_hash']:
+            elif a['bh'] > b['bh']:
                 return 3
             else:
-                if a['s_path'] < b['s_path']:
+                if a['sp'] < b['sp']:
                     return -4
-                elif a['s_path'] > b['s_path']:
+                elif a['sp'] > b['sp']:
                     return 4
                 else:
                     return 0
 
 cnt = 0
-cur = {"b_total_call": 0, "b_hash": 0, "s_path": "", "lib": "", "b_total_num": 0}
+cur = {"btc": 0, "bh": 0, "sp": "", "lib": "", "pn": "", "btn": 0}
 for i in sorted(not_tagged, cmp=compare_d, reverse=True):
     # 这个判断可以去除很多重复。
     # 比如 android 和 android/support 同时存在而且各种都在的时候
     # 可以删去android
     # 这个和最开始设置Status 5 的原理一致，但是实现方式不太一样。
     # Status 5 的最终操作失败，可以用这种方式补足。
-    if cur['b_total_call'] == i['b_total_call'] and cur['b_hash'] == i['b_hash'] and cur['b_total_num'] == i['b_total_num']:
+    if cur['btc'] == i['btc'] and cur['bh'] == i['bh'] and cur['btn'] == i['btn']:
         continue
     output.write(json.dumps(i) + '\n')
     cur = i

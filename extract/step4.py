@@ -19,7 +19,7 @@ input = open(input_d, 'r')
 output = open(output_d, 'w')
 for line in input:
     i = json.loads(line)
-    if '/a/' in i['s_path'] or '/A/' in i['s_path'] or '/b/' in i['s_path']:
+    if '/a/' in i['sp'] or '/A/' in i['sp'] or '/b/' in i['sp']:
         continue
     output.write(json.dumps(i)+'\n')
 
