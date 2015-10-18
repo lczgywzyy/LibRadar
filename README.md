@@ -40,7 +40,21 @@ If you want an online trial, just click [http://radar.pkuos.org/](http://radar.p
 
 ##Update History
 
-__version 1.1.7 (current version)__
+__version 1.2.1 (current version)__
+
+Remove lib code in smali files and zip them into a new file.
+
+__version 1.2.0__
+
+Modularity
+
+__version 1.1.9__
+
+1. Update Output Format.
+2. Add library type.
+3. Update library fingerprint data for better recognition.
+
+__version 1.1.7__
 
 1. Update library fingerprint data for better recognition.
 2. Put plenty data into final output.
