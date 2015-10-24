@@ -62,7 +62,7 @@ lib_list = {
     "android/support/v7": "da;Android Support v7;https://developer.android.com/reference/android/support/v7/app/package-summary.html",
     "android/support/v13": "da;Android Support v13;https://developer.android.com/reference/android/support/v13/app/package-summary.html",
     "xamarin": "da;Xamarin;https://xamarin.com/",
-    "opentk": "da;OpenTK;The Open Toolkit Library;www.opentk.com/",
+    "opentk": "da;The Open Toolkit Library;www.opentk.com/",
     "org/jsoup": "da;Jsoup;http://jsoup.org/",
     "com/ansca/corona": "da;Corona;https://docs.coronalabs.com/native/android/html/com/ansca/corona/package-summary.html",
     "jsr166y": "da;JSR-166y Java;http://g.oswego.edu/dl/concurrency-interest/",
@@ -291,6 +291,11 @@ not_tagged = []
 
 dep_max_list = {}
 
+
+for ii in lib_list:
+    if len(lib_list[ii].split(';')) > 3:
+        print ii
+        exit()
 input = open(input_d, 'r')
 output = open(output_d, 'w')
 for line in input:
