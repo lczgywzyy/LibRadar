@@ -292,12 +292,13 @@ not_tagged = []
 dep_max_list = {}
 
 
-for ii in lib_list:
-    if len(lib_list[ii].split(';')) > 3:
-        print ii
-        exit()
+#for ii in lib_list:
+#    if len(lib_list[ii].split(';')) > 3:
+#        print ii
+#        exit()
 input = open(input_d, 'r')
 output = open(output_d, 'w')
+key_list = sorted(lib_list.keys(), key=lambda lib_key: len(lib_key), reverse=True)
 for line in input:
     i = json.loads(line)
     if len(i['pp'][0].split('/')) <= 4:
@@ -310,10 +311,10 @@ for line in input:
     paths.reverse()
     for s_path in paths:
         s_lower = s_path.lower()
-        for lib in lib_list:
-            if lib in s_lower:
-                o['lib'] = lib_list[lib]
-                o['pn'] = lib # package name
+        for key in key_list:
+            if key in s_lower:
+                o['lib'] = lib_list[key]
+                o['pn'] = key       # package name
                 break
         if o['lib'] != "":
             break

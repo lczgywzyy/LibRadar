@@ -23,6 +23,8 @@ for line in input:
         continue
     if i['sp'] == 'com' or i['sp'] == 'android' or i['sp'] == 'org' or i['sp'] == 'android/support':
         continue
+    if i['sp'] == 'com/google':
+        continue
     output.write(json.dumps(i)+'\n')
 
 '''
