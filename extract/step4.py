@@ -21,6 +21,8 @@ for line in input:
     i = json.loads(line)
     if '/a/' in i['sp'] or '/A/' in i['sp'] or '/b/' in i['sp']:
         continue
+    if i['sp'] == 'com' or i['sp'] == 'android' or i['sp'] == 'org' or i['sp'] == 'android/support':
+        continue
     output.write(json.dumps(i)+'\n')
 
 '''
