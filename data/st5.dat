@@ -746,9 +746,9 @@
 {"dn": 7882, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlockRTL", "bh": 938416, "btc": 1665, "btn": 957, "pn": "com/actionbarsherlock"}
 {"dn": 450, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock", "bh": 238472, "btc": 1665, "btn": 957, "pn": "com/actionbarsherlock"}
 {"dn": 126, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock", "bh": 144545, "btc": 1665, "btn": 957, "pn": "com/actionbarsherlock"}
-{"dn": 376, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 18156, "btc": 4513, "btn": 956, "pn": "com/chartboost/sdk"}
-{"dn": 907, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 7239, "btc": 4507, "btn": 956, "pn": "com/chartboost/sdk"}
-{"dn": 325, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 7135, "btc": 4503, "btn": 956, "pn": "com/chartboost/sdk"}
+{"dn": 376, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 18156, "btc": 4513, "btn": 956, "pn": "com/chartboost"}
+{"dn": 907, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 7239, "btc": 4507, "btn": 956, "pn": "com/chartboost"}
+{"dn": 325, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 7135, "btc": 4503, "btn": 956, "pn": "com/chartboost"}
 {"dn": 164, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock", "bh": 929220, "btc": 1669, "btn": 956, "pn": "com/actionbarsherlock"}
 {"dn": 439, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock", "bh": 929219, "btc": 1668, "btn": 956, "pn": "com/actionbarsherlock"}
 {"dn": 10828, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock", "bh": 960907, "btc": 1667, "btn": 956, "pn": "com/actionbarsherlock"}
@@ -934,8 +934,8 @@
 {"dn": 12929, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 974503, "btc": 2029, "btn": 843, "pn": "android/support/v4"}
 {"dn": 923, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 974220, "btc": 2029, "btn": 843, "pn": "android/support/v4"}
 {"dn": 158, "lib": "da;Appcelerator;www.appcelerator.org/", "sp": "org/appcelerator", "bh": 584426, "btc": 1705, "btn": 843, "pn": "org/appcelerator"}
-{"dn": 1344, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/c", "bh": 274391, "btc": 4256, "btn": 842, "pn": "com/chartboost/sdk"}
-{"dn": 375, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 274287, "btc": 4252, "btn": 842, "pn": "com/chartboost/sdk"}
+{"dn": 1344, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/c", "bh": 274391, "btc": 4256, "btn": 842, "pn": "com/chartboost"}
+{"dn": 375, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 274287, "btc": 4252, "btn": 842, "pn": "com/chartboost"}
 {"dn": 250, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 973356, "btc": 2025, "btn": 841, "pn": "android/support/v4"}
 {"dn": 171, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 972426, "btc": 2005, "btn": 841, "pn": "android/support/v4"}
 {"dn": 259, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http", "bh": 783876, "btc": 1863, "btn": 839, "pn": "org/apache/http"}
@@ -1192,7 +1192,7 @@
 {"dn": 127, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 385360, "btc": 2976, "btn": 747, "pn": "android/support/v4"}
 {"dn": 105, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 162470, "btc": 2393, "btn": 747, "pn": "com/facebook"}
 {"dn": 368, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 147134, "btc": 2391, "btn": 747, "pn": "com/facebook"}
-{"dn": 261, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 434779, "btc": 2719, "btn": 746, "pn": "com/chartboost/sdk"}
+{"dn": 261, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 434779, "btc": 2719, "btn": 746, "pn": "com/chartboost"}
 {"dn": 115, "lib": "", "sp": "com/texterity/android/CoatingsWorld", "bh": 225143, "btc": 2015, "btn": 746}
 {"dn": 720, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/android/publish", "bh": 880401, "btc": 1492, "btn": 746, "pn": "com/startapp"}
 {"dn": 1827, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/android/publish", "bh": 845072, "btc": 1477, "btn": 746, "pn": "com/startapp"}
@@ -1201,14 +1201,14 @@
 {"dn": 109, "lib": "", "sp": "com/google/android", "bh": 528416, "btc": 3085, "btn": 745}
 {"dn": 162, "lib": "", "sp": "com/google/android", "bh": 166809, "btc": 3000, "btn": 745}
 {"dn": 400, "lib": "da;Apache Log4j;http://logging.apache.org/log4j/2.x/", "sp": "org/apache/log4j", "bh": 286485, "btc": 1581, "btn": 745, "pn": "org/apache/log4j"}
-{"dn": 102, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 489063, "btc": 2751, "btn": 744, "pn": "com/chartboost/sdk"}
+{"dn": 102, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 489063, "btc": 2751, "btn": 744, "pn": "com/chartboost"}
 {"dn": 1073, "lib": "", "sp": "com/google/android", "bh": 567020, "btc": 1993, "btn": 744}
 {"dn": 171, "lib": "", "sp": "com/google/android", "bh": 196375, "btc": 3010, "btn": 743}
-{"dn": 118, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 469771, "btc": 2746, "btn": 743, "pn": "com/chartboost/sdk"}
-{"dn": 545, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 451980, "btc": 2739, "btn": 742, "pn": "com/chartboost/sdk"}
+{"dn": 118, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 469771, "btc": 2746, "btn": 743, "pn": "com/chartboost"}
+{"dn": 545, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 451980, "btc": 2739, "btn": 742, "pn": "com/chartboost"}
 {"dn": 679, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/ui", "bh": 242560, "btc": 1899, "btn": 742, "pn": "ti/modules/titanium"}
 {"dn": 312, "lib": "ma;Parse.com;https://parse.com/docs/cn/android/guide", "sp": "com/parse", "bh": 424454, "btc": 2739, "btn": 741, "pn": "com/parse"}
-{"dn": 393, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 432688, "btc": 2734, "btn": 741, "pn": "com/chartboost/sdk"}
+{"dn": 393, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 432688, "btc": 2734, "btn": 741, "pn": "com/chartboost"}
 {"dn": 152, "lib": "", "sp": "com/adobe", "bh": 246736, "btc": 2055, "btn": 741}
 {"dn": 157, "lib": "", "sp": "com/adobe", "bh": 229697, "btc": 2048, "btn": 741}
 {"dn": 593, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/ui", "bh": 225579, "btc": 1896, "btn": 741, "pn": "ti/modules/titanium"}
@@ -1645,9 +1645,9 @@
 {"dn": 341, "lib": "da;Apache Cordova;https://cordova.apache.org/", "sp": "org/apache/cordova", "bh": 304039, "btc": 3972, "btn": 631, "pn": "org/apache/cordova"}
 {"dn": 9367, "lib": "da;Apache Cordova;https://cordova.apache.org/", "sp": "org/apache/cordova", "bh": 307119, "btc": 3967, "btn": 631, "pn": "org/apache/cordova"}
 {"dn": 62740, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 624760, "btc": 2528, "btn": 631, "pn": "android/support/v4"}
-{"dn": 670, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 695640, "btc": 2482, "btn": 631, "pn": "com/chartboost/sdk"}
-{"dn": 511, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 676669, "btc": 2478, "btn": 631, "pn": "com/chartboost/sdk"}
-{"dn": 282, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 664478, "btc": 2457, "btn": 631, "pn": "com/chartboost/sdk"}
+{"dn": 670, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 695640, "btc": 2482, "btn": 631, "pn": "com/chartboost"}
+{"dn": 511, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 676669, "btc": 2478, "btn": 631, "pn": "com/chartboost"}
+{"dn": 282, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 664478, "btc": 2457, "btn": 631, "pn": "com/chartboost"}
 {"dn": 356, "lib": "ge;OpenFeint;", "sp": "com/openfeint/internal", "bh": 424917, "btc": 1306, "btn": 631, "pn": "com/openfeint"}
 {"dn": 726, "lib": "ut;Papaya;en.papayamobile.com/", "sp": "com/papaya/si", "bh": 704727, "btc": 4737, "btn": 630, "pn": "com/papaya"}
 {"dn": 336, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 616980, "btc": 2524, "btn": 630, "pn": "android/support/v4"}
@@ -1781,7 +1781,7 @@
 {"dn": 294, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4", "bh": 213806, "btc": 2505, "btn": 600, "pn": "android/support/v4"}
 {"dn": 283, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4", "bh": 705936, "btc": 2232, "btn": 600, "pn": "android/support/v4"}
 {"dn": 294, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/ui", "bh": 959222, "btc": 1807, "btn": 600, "pn": "ti/modules/titanium"}
-{"dn": 297, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 694626, "btc": 1800, "btn": 600, "pn": "com/chartboost/sdk"}
+{"dn": 297, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 694626, "btc": 1800, "btn": 600, "pn": "com/chartboost"}
 {"dn": 136, "lib": "", "sp": "com/wSoccerLiveStream", "bh": 650670, "btc": 1257, "btn": 600}
 {"dn": 106, "lib": "ad;AdSDK;", "sp": "com/adsdk/sdk", "bh": 426813, "btc": 1702, "btn": 599, "pn": "com/adsdk"}
 {"dn": 501, "lib": "", "sp": "com/wAndroidLatestNews", "bh": 646046, "btc": 1255, "btn": 599}
@@ -1791,7 +1791,7 @@
 {"dn": 246, "lib": "da;Android Support v7;https://developer.android.com/reference/android/support/v7/app/package-summary.html", "sp": "android/support/v7/internal/view/menu", "bh": 491375, "btc": 1250, "btn": 598, "pn": "android/support/v7"}
 {"dn": 195, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/internal", "bh": 650578, "btc": 5492, "btn": 597, "pn": "com/google/android/gms"}
 {"dn": 128, "lib": "", "sp": "com/nd/android/pandareader/common", "bh": 381972, "btc": 1962, "btn": 597}
-{"dn": 556, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 659842, "btc": 1793, "btn": 597, "pn": "com/chartboost/sdk"}
+{"dn": 556, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 659842, "btc": 1793, "btn": 597, "pn": "com/chartboost"}
 {"dn": 21178, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 458683, "btc": 2427, "btn": 596, "pn": "android/support/v4"}
 {"dn": 480, "lib": "da;Kawa for Android;https://www.gnu.org/software/kawa/Building-for-Android.html", "sp": "com/wBabiesKawaiiinFreeFall", "bh": 656741, "btc": 1271, "btn": 596, "pn": "kawa"}
 {"dn": 138, "lib": "sn;Maximono;Maximono.com", "sp": "com/maximono", "bh": 656740, "btc": 1270, "btn": 596, "pn": "com/maximono"}
@@ -1807,7 +1807,7 @@
 {"dn": 5825, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 235421, "btc": 1707, "btn": 594, "pn": "com/facebook"}
 {"dn": 183, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/view", "bh": 150085, "btc": 1478, "btn": 594, "pn": "android/support/v4"}
 {"dn": 115, "lib": "da;Baidu APP SDK;developer.baidu.com/", "sp": "com/baidu/android", "bh": 207004, "btc": 2847, "btn": 593, "pn": "com/baidu/android"}
-{"dn": 423, "lib": "", "sp": "com/chartboost", "bh": 632932, "btc": 1785, "btn": 593}
+{"dn": 423, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost", "bh": 632932, "btc": 1785, "btn": 593, "pn": "com/chartboost"}
 {"dn": 191, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 232722, "btc": 1709, "btn": 593, "pn": "com/facebook"}
 {"dn": 3863, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 232720, "btc": 1707, "btn": 593, "pn": "com/facebook"}
 {"dn": 1382, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 232719, "btc": 1706, "btn": 593, "pn": "com/facebook"}
@@ -1833,8 +1833,8 @@
 {"dn": 143, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4", "bh": 786750, "btc": 2429, "btn": 588, "pn": "android/support/v4"}
 {"dn": 278, "lib": "", "sp": "com/koushikdutta", "bh": 991647, "btc": 1276, "btn": 588}
 {"dn": 128, "lib": "", "sp": "com/nd/android/pandareader/bookread/ndb", "bh": 55565, "btc": 2247, "btn": 587}
-{"dn": 4193, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 609858, "btc": 1776, "btn": 587, "pn": "com/chartboost/sdk"}
-{"dn": 101, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 609771, "btc": 1776, "btn": 587, "pn": "com/chartboost/sdk"}
+{"dn": 4193, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 609858, "btc": 1776, "btn": 587, "pn": "com/chartboost"}
+{"dn": 101, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 609771, "btc": 1776, "btn": 587, "pn": "com/chartboost"}
 {"dn": 135, "lib": "", "sp": "com/tripomatic", "bh": 456784, "btc": 1465, "btn": 587}
 {"dn": 230, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms", "bh": 170223, "btc": 1848, "btn": 586, "pn": "com/google/android/gms"}
 {"dn": 333, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 52556, "btc": 1615, "btn": 586, "pn": "com/facebook"}
@@ -1842,9 +1842,9 @@
 {"dn": 499, "lib": "", "sp": "com/burstly/lib/component/networkcomponent", "bh": 496005, "btc": 1032, "btn": 585}
 {"dn": 604, "lib": "", "sp": "com/qfyuhn/kfhkwz55165", "bh": 750591, "btc": 4486, "btn": 584}
 {"dn": 134, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws", "bh": 790603, "btc": 2328, "btn": 584, "pn": "com/amazonaws"}
-{"dn": 3394, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 575074, "btc": 1769, "btn": 584, "pn": "com/chartboost/sdk"}
-{"dn": 117, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 574989, "btc": 1769, "btn": 584, "pn": "com/chartboost/sdk"}
-{"dn": 634, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 579388, "btc": 1739, "btn": 584, "pn": "com/chartboost/sdk"}
+{"dn": 3394, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 575074, "btc": 1769, "btn": 584, "pn": "com/chartboost"}
+{"dn": 117, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 574989, "btc": 1769, "btn": 584, "pn": "com/chartboost"}
+{"dn": 634, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 579388, "btc": 1739, "btn": 584, "pn": "com/chartboost"}
 {"dn": 566, "lib": "ad;AdSDK;", "sp": "com/adsdk/sdk", "bh": 360888, "btc": 1723, "btn": 584, "pn": "com/adsdk"}
 {"dn": 141, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 31396, "btc": 1620, "btn": 584, "pn": "com/facebook"}
 {"dn": 207, "lib": "", "sp": "com/heyzap", "bh": 258057, "btc": 1253, "btn": 584}
@@ -1879,12 +1879,12 @@
 {"dn": 116, "lib": "", "sp": "com/heyzap", "bh": 228505, "btc": 1242, "btn": 576}
 {"dn": 117, "lib": "", "sp": "com/heyzap", "bh": 147265, "btc": 1188, "btn": 576}
 {"dn": 141, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/internal", "bh": 593867, "btc": 5021, "btn": 575, "pn": "com/google/android/gms"}
-{"dn": 130, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 484673, "btc": 1702, "btn": 575, "pn": "com/chartboost/sdk"}
+{"dn": 130, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 484673, "btc": 1702, "btn": 575, "pn": "com/chartboost"}
 {"dn": 233, "lib": "", "sp": "mp/lib", "bh": 584678, "btc": 4226, "btn": 574}
-{"dn": 838, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 464309, "btc": 1804, "btn": 574, "pn": "com/chartboost/sdk"}
+{"dn": 838, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 464309, "btc": 1804, "btn": 574, "pn": "com/chartboost"}
 {"dn": 504, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/ui/widget", "bh": 907831, "btc": 1241, "btn": 574, "pn": "ti/modules/titanium"}
 {"dn": 251, "lib": "ut;Aviary photo editing SDK;https://developers.aviary.com/docs/android", "sp": "com/aviary/android/feather/widget", "bh": 245279, "btc": 2997, "btn": 573, "pn": "com/aviary"}
-{"dn": 1337, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 461378, "btc": 1803, "btn": 573, "pn": "com/chartboost/sdk"}
+{"dn": 1337, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 461378, "btc": 1803, "btn": 573, "pn": "com/chartboost"}
 {"dn": 139, "lib": "", "sp": "com/vungle/publisher", "bh": 194277, "btc": 1668, "btn": 573}
 {"dn": 296, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook", "bh": 145918, "btc": 1657, "btn": 573, "pn": "com/facebook"}
 {"dn": 1115, "lib": "ui;urbanairship;https://www.urbanairship.com/", "sp": "com/urbanairship", "bh": 621516, "btc": 1447, "btn": 573, "pn": "com/urbanairship"}
@@ -1918,7 +1918,7 @@
 {"dn": 291, "lib": "da;Conduit App;apps.conduit.com/", "sp": "com/conduit/app/pages", "bh": 627880, "btc": 1010, "btn": 568, "pn": "com/conduit/app"}
 {"dn": 862, "lib": "ad;AdSDK;", "sp": "com/adsdk/sdk", "bh": 250816, "btc": 1939, "btn": 567, "pn": "com/adsdk"}
 {"dn": 223, "lib": "", "sp": "com/appbuilder", "bh": 147196, "btc": 1919, "btn": 567}
-{"dn": 135, "lib": "", "sp": "com/chartboost", "bh": 454399, "btc": 1703, "btn": 567}
+{"dn": 135, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost", "bh": 454399, "btc": 1703, "btn": 567, "pn": "com/chartboost"}
 {"dn": 226, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/impl/client/cache", "bh": 328322, "btc": 1689, "btn": 567, "pn": "org/apache/http"}
 {"dn": 15412, "lib": "ma;Flurry;flurry.com", "sp": "com/flurry/org", "bh": 176969, "btc": 1529, "btn": 567, "pn": "com/flurry"}
 {"dn": 325, "lib": "ma;Flurry;flurry.com", "sp": "com/flurry/org", "bh": 163477, "btc": 1473, "btn": 567, "pn": "com/flurry"}
@@ -1941,7 +1941,7 @@
 {"dn": 142, "lib": "", "sp": "com/shopgate/android/controller", "bh": 503603, "btc": 2016, "btn": 564}
 {"dn": 284, "lib": "", "sp": "com/shopgate/android/controller", "bh": 481855, "btc": 2009, "btn": 564}
 {"dn": 119, "lib": "", "sp": "com/shopgate/android/controller", "bh": 442565, "btc": 1996, "btn": 564}
-{"dn": 316, "lib": "", "sp": "com/chartboost", "bh": 486462, "btc": 1743, "btn": 564}
+{"dn": 316, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost", "bh": 486462, "btc": 1743, "btn": 564, "pn": "com/chartboost"}
 {"dn": 298, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/internal", "bh": 426730, "btc": 5046, "btn": 563, "pn": "com/google/android/gms"}
 {"dn": 2818, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/internal", "bh": 434021, "btc": 5029, "btn": 563, "pn": "com/google/android/gms"}
 {"dn": 7440, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 651930, "btc": 2356, "btn": 563, "pn": "android/support/v4"}
@@ -1949,7 +1949,7 @@
 {"dn": 5401, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 650160, "btc": 2353, "btn": 563, "pn": "android/support/v4"}
 {"dn": 427, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 650157, "btc": 2353, "btn": 563, "pn": "android/support/v4"}
 {"dn": 317, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/app", "bh": 733356, "btc": 2254, "btn": 563, "pn": "android/support/v4"}
-{"dn": 320, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 483531, "btc": 1742, "btn": 563, "pn": "com/chartboost/sdk"}
+{"dn": 320, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 483531, "btc": 1742, "btn": 563, "pn": "com/chartboost"}
 {"dn": 498, "lib": "ui;urbanairship;https://www.urbanairship.com/", "sp": "com/urbanairship", "bh": 643409, "btc": 1421, "btn": 563, "pn": "com/urbanairship"}
 {"dn": 205, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/ui/widget", "bh": 677809, "btc": 1229, "btn": 563, "pn": "ti/modules/titanium"}
 {"dn": 229, "lib": "", "sp": "net/app_c/cloud/sdk", "bh": 984514, "btc": 5316, "btn": 562}
@@ -1998,8 +1998,8 @@
 {"dn": 213, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/ui/widget", "bh": 608153, "btc": 1218, "btn": 555, "pn": "ti/modules/titanium"}
 {"dn": 198, "lib": "ad;Appflood;appflood.com", "sp": "com/appflood", "bh": 966605, "btc": 1088, "btn": 555, "pn": "com/appflood"}
 {"dn": 113, "lib": "ad;Appflood;appflood.com", "sp": "com/appflood", "bh": 962967, "btc": 1087, "btn": 555, "pn": "com/appflood"}
-{"dn": 5982, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 373191, "btc": 1678, "btn": 554, "pn": "com/chartboost/sdk"}
-{"dn": 619, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 373110, "btc": 1678, "btn": 554, "pn": "com/chartboost/sdk"}
+{"dn": 5982, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 373191, "btc": 1678, "btn": 554, "pn": "com/chartboost"}
+{"dn": 619, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 373110, "btc": 1678, "btn": 554, "pn": "com/chartboost"}
 {"dn": 108, "lib": "", "sp": "net/daum/adam", "bh": 673031, "btc": 1392, "btn": 554}
 {"dn": 313, "lib": "ut;anywheresoftware;", "sp": "anywheresoftware/b4a/objects", "bh": 834728, "btc": 1245, "btn": 554, "pn": "anywheresoftware"}
 {"dn": 1522, "lib": "ge;Unity3D;https://unity3d.com/", "sp": "com/unity3d/player", "bh": 258565, "btc": 1209, "btn": 554, "pn": "com/unity3d"}
@@ -2320,8 +2320,8 @@
 {"dn": 148, "lib": "da;Appbrain;www.appbrain.com/", "sp": "com/appbrain", "bh": 390476, "btc": 1693, "btn": 505, "pn": "com/appbrain"}
 {"dn": 118, "lib": "da;Appbrain;www.appbrain.com/", "sp": "com/appbrain", "bh": 379776, "btc": 1691, "btn": 505, "pn": "com/appbrain"}
 {"dn": 566, "lib": "", "sp": "crittercism/android", "bh": 922908, "btc": 1666, "btn": 505}
-{"dn": 4497, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 121815, "btc": 1605, "btn": 505, "pn": "com/chartboost/sdk"}
-{"dn": 103, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 121736, "btc": 1605, "btn": 505, "pn": "com/chartboost/sdk"}
+{"dn": 4497, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 121815, "btc": 1605, "btn": 505, "pn": "com/chartboost"}
+{"dn": 103, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 121736, "btc": 1605, "btn": 505, "pn": "com/chartboost"}
 {"dn": 1251, "lib": "pa;SquareUp;https://squareup.com", "sp": "com/squareup", "bh": 594919, "btc": 1394, "btn": 505, "pn": "com/squareup"}
 {"dn": 128, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d", "bh": 409642, "btc": 1256, "btn": 505, "pn": "org/cocos2d"}
 {"dn": 199, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d", "bh": 398538, "btc": 1249, "btn": 505, "pn": "org/cocos2d"}
@@ -2330,9 +2330,9 @@
 {"dn": 152, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons", "bh": 213992, "btc": 2257, "btn": 504, "pn": "org/apache/commons"}
 {"dn": 153, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4", "bh": 824274, "btc": 2250, "btn": 504, "pn": "android/support/v4"}
 {"dn": 5317, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms", "bh": 412747, "btc": 1990, "btn": 504, "pn": "com/google/android/gms"}
-{"dn": 4066, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 94367, "btc": 1600, "btn": 504, "pn": "com/chartboost/sdk"}
-{"dn": 147, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 94290, "btc": 1600, "btn": 504, "pn": "com/chartboost/sdk"}
-{"dn": 635, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 98681, "btc": 1570, "btn": 504, "pn": "com/chartboost/sdk"}
+{"dn": 4066, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 94367, "btc": 1600, "btn": 504, "pn": "com/chartboost"}
+{"dn": 147, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 94290, "btc": 1600, "btn": 504, "pn": "com/chartboost"}
+{"dn": 635, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 98681, "btc": 1570, "btn": 504, "pn": "com/chartboost"}
 {"dn": 241, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson", "bh": 936975, "btc": 1297, "btn": 504, "pn": "com/fasterxml"}
 {"dn": 204, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/utils", "bh": 136935, "btc": 1860, "btn": 503, "pn": "com/biznessapps"}
 {"dn": 190, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/utils", "bh": 93649, "btc": 1852, "btn": 503, "pn": "com/biznessapps"}
@@ -2352,13 +2352,13 @@
 {"dn": 244, "lib": "ut;anywheresoftware;", "sp": "anywheresoftware/b4a/objects", "bh": 234659, "btc": 1205, "btn": 502, "pn": "anywheresoftware"}
 {"dn": 443, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing", "bh": 890297, "btc": 959, "btn": 502, "pn": "com/google/zxing"}
 {"dn": 283, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons", "bh": 47157, "btc": 1763, "btn": 501, "pn": "org/apache/commons"}
-{"dn": 323, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 111494, "btc": 1594, "btn": 501, "pn": "com/chartboost/sdk"}
+{"dn": 323, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 111494, "btc": 1594, "btn": 501, "pn": "com/chartboost"}
 {"dn": 169, "lib": "da;Android Support v7;https://developer.android.com/reference/android/support/v7/app/package-summary.html", "sp": "android/support/v7/internal/widget", "bh": 405524, "btc": 1296, "btn": 501, "pn": "android/support/v7"}
 {"dn": 198, "lib": "", "sp": "com/thoughtworks/xstream", "bh": 720427, "btc": 1092, "btn": 501}
 {"dn": 157, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/client", "bh": 362159, "btc": 1067, "btn": 501, "pn": "org/apache/http"}
 {"dn": 107, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/client", "bh": 252580, "btc": 1060, "btn": 501, "pn": "org/apache/http"}
 {"dn": 170, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/utils", "bh": 88022, "btc": 1852, "btn": 500, "pn": "com/biznessapps"}
-{"dn": 138, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 59629, "btc": 1576, "btn": 500, "pn": "com/chartboost/sdk"}
+{"dn": 138, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 59629, "btc": 1576, "btn": 500, "pn": "com/chartboost"}
 {"dn": 593, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/impl/client", "bh": 762540, "btc": 1540, "btn": 500, "pn": "org/apache/http"}
 {"dn": 127, "lib": "", "sp": "org/geometerplus/android/fbreader", "bh": 520349, "btc": 1443, "btn": 500}
 {"dn": 353, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d", "bh": 349934, "btc": 1235, "btn": 500, "pn": "org/cocos2d"}
@@ -2434,7 +2434,7 @@
 {"dn": 148, "lib": "", "sp": "com/google/android", "bh": 130174, "btc": 2636, "btn": 491}
 {"dn": 304, "lib": "da;Qoppa Software;https://www.qoppa.com/", "sp": "com/qoppa/android/pdf", "bh": 500610, "btc": 2044, "btn": 491, "pn": "com/qoppa"}
 {"dn": 527, "lib": "", "sp": "com/tapcontext", "bh": 258561, "btc": 1677, "btn": 491}
-{"dn": 2209, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 974946, "btc": 1639, "btn": 491, "pn": "com/chartboost/sdk"}
+{"dn": 2209, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 974946, "btc": 1639, "btn": 491, "pn": "com/chartboost"}
 {"dn": 153, "lib": "da;Mozilla;https://www.mozilla.org/", "sp": "org/mozilla/javascript", "bh": 227007, "btc": 1524, "btn": 491, "pn": "org/mozilla"}
 {"dn": 183, "lib": "", "sp": "com/odyssei", "bh": 782867, "btc": 1433, "btn": 491}
 {"dn": 294, "lib": "", "sp": "org/geometerplus/android", "bh": 435521, "btc": 1413, "btn": 491}
@@ -2620,8 +2620,8 @@
 {"dn": 690, "lib": "da;Appcelerator;www.appcelerator.org/", "sp": "org/appcelerator/titanium/util", "bh": 715051, "btc": 2258, "btn": 462, "pn": "org/appcelerator"}
 {"dn": 101, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4", "bh": 554321, "btc": 2051, "btn": 462, "pn": "android/support/v4"}
 {"dn": 156, "lib": "", "sp": "com/crashlytics/android", "bh": 822909, "btc": 1627, "btn": 462}
-{"dn": 6017, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/c", "bh": 901773, "btc": 1490, "btn": 462, "pn": "com/chartboost/sdk"}
-{"dn": 631, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 901697, "btc": 1490, "btn": 462, "pn": "com/chartboost/sdk"}
+{"dn": 6017, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/c", "bh": 901773, "btc": 1490, "btn": 462, "pn": "com/chartboost"}
+{"dn": 631, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/impl", "bh": 901697, "btc": 1490, "btn": 462, "pn": "com/chartboost"}
 {"dn": 104, "lib": "", "sp": "com/adobe", "bh": 79402, "btc": 1431, "btn": 462}
 {"dn": 2421, "lib": "ad;Google Ads;https://www.google.com/ads/", "sp": "com/google/ads", "bh": 752582, "btc": 1394, "btn": 462, "pn": "com/google/ads"}
 {"dn": 2041, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/android/publish", "bh": 115193, "btc": 1258, "btn": 462, "pn": "com/startapp"}
@@ -2979,7 +2979,7 @@
 {"dn": 126, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson/databind", "bh": 451334, "btc": 1089, "btn": 417, "pn": "com/fasterxml"}
 {"dn": 103, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/client", "bh": 981597, "btc": 898, "btn": 417, "pn": "org/apache/http"}
 {"dn": 150, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/client", "bh": 937844, "btc": 896, "btn": 417, "pn": "org/apache/http"}
-{"dn": 852, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 646584, "btc": 879, "btn": 417, "pn": "com/chartboost/sdk"}
+{"dn": 852, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 646584, "btc": 879, "btn": 417, "pn": "com/chartboost"}
 {"dn": 113631, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/view/accessibility", "bh": 930147, "btc": 561, "btn": 417, "pn": "android/support/v4"}
 {"dn": 3856, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/view/accessibility", "bh": 930129, "btc": 561, "btn": 417, "pn": "android/support/v4"}
 {"dn": 204, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/view/accessibility", "bh": 930069, "btc": 558, "btn": 417, "pn": "android/support/v4"}
@@ -3555,14 +3555,14 @@
 {"dn": 176, "lib": "da;ACRA;", "sp": "org/acra", "bh": 651365, "btc": 1283, "btn": 349, "pn": "org/acra"}
 {"dn": 1324, "lib": "", "sp": "com/testflightapp/acra", "bh": 646424, "btc": 1278, "btn": 349}
 {"dn": 143, "lib": "", "sp": "pl/magot/vetch", "bh": 170059, "btc": 1193, "btn": 349}
-{"dn": 173, "lib": "", "sp": "net/hockeyapp/android", "bh": 182389, "btc": 1147, "btn": 349}
+{"dn": 173, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android", "bh": 182389, "btc": 1147, "btn": 349, "pn": "net/hockeyapp/android"}
 {"dn": 205, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j", "bh": 919162, "btc": 1094, "btn": 349, "pn": "twitter4j"}
 {"dn": 125, "lib": "", "sp": "com/nd/android/pandareader/share", "bh": 284667, "btc": 942, "btn": 349}
 {"dn": 138, "lib": "", "sp": "com/nd/android/pandareader/share", "bh": 281949, "btc": 937, "btn": 349}
 {"dn": 311, "lib": "da;Appbrain;www.appbrain.com/", "sp": "com/appbrain", "bh": 538874, "btc": 899, "btn": 349, "pn": "com/appbrain"}
 {"dn": 307, "lib": "ad;apperhand;", "sp": "com/apperhand", "bh": 101880, "btc": 881, "btn": 349, "pn": "com/apperhand"}
 {"dn": 104, "lib": "", "sp": "roukiru/RLib", "bh": 466922, "btc": 726, "btn": 349}
-{"dn": 303, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 980188, "btc": 674, "btn": 349, "pn": "com/chartboost/sdk"}
+{"dn": 303, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 980188, "btc": 674, "btn": 349, "pn": "com/chartboost"}
 {"dn": 215, "lib": "ad;PlayHaven Mobile Ads;www.playhaven.com/", "sp": "com/playhaven", "bh": 978970, "btc": 637, "btn": 349, "pn": "com/playhaven"}
 {"dn": 302, "lib": "", "sp": "com/google/common/collect", "bh": 741106, "btc": 4099, "btn": 348}
 {"dn": 2312, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms", "bh": 764190, "btc": 1876, "btn": 348, "pn": "com/google/android/gms"}
@@ -3587,7 +3587,7 @@
 {"dn": 111, "lib": "", "sp": "com/handpet", "bh": 842525, "btc": 654, "btn": 347}
 {"dn": 768, "lib": "da;Mozilla;https://www.mozilla.org/", "sp": "org/mozilla", "bh": 518281, "btc": 1770, "btn": 346, "pn": "org/mozilla"}
 {"dn": 378, "lib": "", "sp": "com/pontiflex/mobile/webview", "bh": 137311, "btc": 1164, "btn": 346}
-{"dn": 735, "lib": "", "sp": "net/hockeyapp/android", "bh": 156535, "btc": 1140, "btn": 346}
+{"dn": 735, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android", "bh": 156535, "btc": 1140, "btn": 346, "pn": "net/hockeyapp/android"}
 {"dn": 141, "lib": "da;Appbrain;www.appbrain.com/", "sp": "com/appbrain", "bh": 666181, "btc": 952, "btn": 346, "pn": "com/appbrain"}
 {"dn": 121, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook/widget", "bh": 356915, "btc": 940, "btn": 346, "pn": "com/facebook"}
 {"dn": 374, "lib": "ad;apperhand;", "sp": "com/apperhand/device", "bh": 81916, "btc": 872, "btn": 346, "pn": "com/apperhand"}
@@ -3685,7 +3685,7 @@
 {"dn": 352, "lib": "", "sp": "org/osmdroid/views", "bh": 194616, "btc": 739, "btn": 338}
 {"dn": 201, "lib": "ut;Amazon;", "sp": "com/amazon/device/associates", "bh": 406773, "btc": 2270, "btn": 337, "pn": "com/amazon"}
 {"dn": 889, "lib": "da;OkHttp;https://github.com/square/okhttp", "sp": "com/squareup/okhttp", "bh": 785437, "btc": 1330, "btn": 337, "pn": "com/squareup/okhttp"}
-{"dn": 104, "lib": "", "sp": "net/hockeyapp/android", "bh": 65651, "btc": 1142, "btn": 337}
+{"dn": 104, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android", "bh": 65651, "btc": 1142, "btn": 337, "pn": "net/hockeyapp/android"}
 {"dn": 152, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/view", "bh": 5859, "btc": 941, "btn": 337, "pn": "android/support/v4"}
 {"dn": 929, "lib": "da;Codehaus;www.codehaus.org/", "sp": "org/codehaus/jackson/map", "bh": 378274, "btc": 869, "btn": 337, "pn": "org/codehaus"}
 {"dn": 115, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook/ads", "bh": 761381, "btc": 865, "btn": 337, "pn": "com/facebook"}
@@ -4534,8 +4534,8 @@
 {"dn": 238, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 908252, "btc": 934, "btn": 278, "pn": "android/support/v4"}
 {"dn": 180, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 863104, "btc": 934, "btn": 278, "pn": "android/support/v4"}
 {"dn": 482, "lib": "", "sp": "jp/basicinc/gamefeat/android/sdk", "bh": 344659, "btc": 853, "btn": 278}
-{"dn": 4459, "lib": "ut;Tapit;Tapit NFC\u6280\u672f", "sp": "com/tapit", "bh": 705938, "btc": 805, "btn": 278, "pn": "com/tapit"}
-{"dn": 443, "lib": "ut;Tapit;Tapit NFC\u6280\u672f", "sp": "com/tapit", "bh": 705930, "btc": 805, "btn": 278, "pn": "com/tapit"}
+{"dn": 4459, "lib": "ut;Tapit NFC\u6280\u672f;", "sp": "com/tapit", "bh": 705938, "btc": 805, "btn": 278, "pn": "com/tapit"}
+{"dn": 443, "lib": "ut;Tapit NFC\u6280\u672f;", "sp": "com/tapit", "bh": 705930, "btc": 805, "btn": 278, "pn": "com/tapit"}
 {"dn": 537, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite", "bh": 274615, "btc": 790, "btn": 278, "pn": "com/j256"}
 {"dn": 124, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite", "bh": 271516, "btc": 770, "btn": 278, "pn": "com/j256"}
 {"dn": 19753, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock/widget", "bh": 825549, "btc": 731, "btn": 278, "pn": "com/actionbarsherlock"}
@@ -4557,8 +4557,8 @@
 {"dn": 143, "lib": "", "sp": "com/wiyun/engine/nodes", "bh": 372329, "btc": 1099, "btn": 277}
 {"dn": 727, "lib": "ut;Papaya;en.papayamobile.com/", "sp": "com/papaya/view", "bh": 848004, "btc": 1060, "btn": 277, "pn": "com/papaya"}
 {"dn": 212, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/android/publish/h", "bh": 490605, "btc": 865, "btn": 277, "pn": "com/startapp"}
-{"dn": 4459, "lib": "ut;Tapit;Tapit NFC\u6280\u672f", "sp": "com/tapit/adview", "bh": 756308, "btc": 844, "btn": 277, "pn": "com/tapit"}
-{"dn": 443, "lib": "ut;Tapit;Tapit NFC\u6280\u672f", "sp": "com/tapit/adview", "bh": 756300, "btc": 844, "btn": 277, "pn": "com/tapit"}
+{"dn": 4459, "lib": "ut;Tapit NFC\u6280\u672f;", "sp": "com/tapit/adview", "bh": 756308, "btc": 844, "btn": 277, "pn": "com/tapit"}
+{"dn": 443, "lib": "ut;Tapit NFC\u6280\u672f;", "sp": "com/tapit/adview", "bh": 756300, "btc": 844, "btn": 277, "pn": "com/tapit"}
 {"dn": 293, "lib": "", "sp": "net/daum/adam/publisher/impl/b", "bh": 98853, "btc": 758, "btn": 277}
 {"dn": 207, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite", "bh": 234566, "btc": 754, "btn": 277, "pn": "com/j256"}
 {"dn": 143, "lib": "da;Appbrain;www.appbrain.com/", "sp": "com/appbrain", "bh": 778556, "btc": 696, "btn": 277, "pn": "com/appbrain"}
@@ -4883,7 +4883,7 @@
 {"dn": 213, "lib": "", "sp": "org/zywx/wbpalmstar/plugin/uexzxing/client/android", "bh": 933801, "btc": 600, "btn": 257}
 {"dn": 147, "lib": "", "sp": "com/purplebrain/adbuddiz/sdk", "bh": 777557, "btc": 571, "btn": 257}
 {"dn": 143, "lib": "", "sp": "com/qualcomm", "bh": 654869, "btc": 478, "btn": 257}
-{"dn": 115, "lib": "", "sp": "org/joda/time", "bh": 204440, "btc": 1128, "btn": 256}
+{"dn": 115, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 204440, "btc": 1128, "btn": 256, "pn": "org/joda/time"}
 {"dn": 141, "lib": "", "sp": "net", "bh": 521468, "btc": 1035, "btn": 256}
 {"dn": 118, "lib": "", "sp": "com/wooboo/adlib_android", "bh": 862993, "btc": 938, "btn": 256}
 {"dn": 162, "lib": "", "sp": "com/vividsolutions", "bh": 884751, "btc": 926, "btn": 256}
@@ -4981,8 +4981,8 @@
 {"dn": 121, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/analytics", "bh": 674743, "btc": 1138, "btn": 252, "pn": "com/google/android/gms"}
 {"dn": 159, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/analytics", "bh": 666913, "btc": 1138, "btn": 252, "pn": "com/google/android/gms"}
 {"dn": 131, "lib": "ad;adsmogo;www.adsmogo.com/", "sp": "com/adsmogo/util", "bh": 795459, "btc": 1068, "btn": 252, "pn": "com/adsmogo"}
-{"dn": 2125, "lib": "", "sp": "org/joda/time", "bh": 804353, "btc": 1007, "btn": 252}
-{"dn": 127, "lib": "", "sp": "org/joda/time", "bh": 804267, "btc": 1007, "btn": 252}
+{"dn": 2125, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 804353, "btc": 1007, "btn": 252, "pn": "org/joda/time"}
+{"dn": 127, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 804267, "btc": 1007, "btn": 252, "pn": "org/joda/time"}
 {"dn": 233, "lib": "", "sp": "com/oxmk/oxmk_02_26", "bh": 895550, "btc": 985, "btn": 252}
 {"dn": 453, "lib": "", "sp": "com/tsland/tsland_01_29_n", "bh": 878463, "btc": 977, "btn": 252}
 {"dn": 9082, "lib": "ma;Google Analytics;https://www.google.com/analytics/", "sp": "com/google/analytics/tracking/android", "bh": 466558, "btc": 899, "btn": 252, "pn": "com/google/analytics"}
@@ -5046,7 +5046,7 @@
 {"dn": 1042, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/backends/android/surfaceview", "bh": 607600, "btc": 1136, "btn": 248, "pn": "com/badlogic"}
 {"dn": 1289, "lib": "da;Umeng Common;http://dev.umeng.com/", "sp": "com/umeng/common/b", "bh": 109459, "btc": 1116, "btn": 248, "pn": "com/umeng/common"}
 {"dn": 138, "lib": "da;Umeng Common;http://dev.umeng.com/", "sp": "com/umeng/common/net", "bh": 109329, "btc": 1111, "btn": 248, "pn": "com/umeng/common"}
-{"dn": 1016, "lib": "", "sp": "org/joda/time", "bh": 776676, "btc": 1002, "btn": 248}
+{"dn": 1016, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 776676, "btc": 1002, "btn": 248, "pn": "org/joda/time"}
 {"dn": 12965, "lib": "ma;Google Analytics;https://www.google.com/analytics/", "sp": "com/google/analytics", "bh": 491842, "btc": 948, "btn": 248, "pn": "com/google/analytics"}
 {"dn": 129, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/services/s3", "bh": 639780, "btc": 914, "btn": 248, "pn": "com/amazonaws"}
 {"dn": 141, "lib": "ma;Google Analytics;https://www.google.com/analytics/", "sp": "com/google/analytics/tracking/android", "bh": 489252, "btc": 909, "btn": 248, "pn": "com/google/analytics"}
@@ -5159,7 +5159,7 @@
 {"dn": 115, "lib": "", "sp": "com/umeng/socom/net", "bh": 815808, "btc": 1049, "btn": 243}
 {"dn": 277, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/backends/android/surfaceview", "bh": 289410, "btc": 1018, "btn": 243, "pn": "com/badlogic"}
 {"dn": 366, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/backends/android/surfaceview", "bh": 264441, "btc": 1005, "btn": 243, "pn": "com/badlogic"}
-{"dn": 345, "lib": "", "sp": "org/joda/time", "bh": 761689, "btc": 993, "btn": 243}
+{"dn": 345, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 761689, "btc": 993, "btn": 243, "pn": "org/joda/time"}
 {"dn": 635, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/services/s3", "bh": 330818, "btc": 867, "btn": 243, "pn": "com/amazonaws"}
 {"dn": 189, "lib": "", "sp": "com/tapfortap", "bh": 423314, "btc": 842, "btn": 243}
 {"dn": 2222, "lib": "da;Loopj;https://github.com/loopj/android-async-http", "sp": "com/loopj/android/http", "bh": 952141, "btc": 678, "btn": 243, "pn": "com/loopj"}
@@ -5179,7 +5179,7 @@
 {"dn": 1627, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/backends/android/surfaceview", "bh": 568772, "btc": 1127, "btn": 242, "pn": "com/badlogic"}
 {"dn": 335, "lib": "", "sp": "com/airkast/tunekast3/controllers", "bh": 705257, "btc": 1111, "btn": 242}
 {"dn": 164, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/backends/android/surfaceview", "bh": 568278, "btc": 1108, "btn": 242, "pn": "com/badlogic"}
-{"dn": 1461, "lib": "", "sp": "org/joda/time", "bh": 790712, "btc": 994, "btn": 242}
+{"dn": 1461, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 790712, "btc": 994, "btn": 242, "pn": "org/joda/time"}
 {"dn": 102, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/services/s3", "bh": 474341, "btc": 838, "btn": 242, "pn": "com/amazonaws"}
 {"dn": 272, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/services/s3", "bh": 441184, "btc": 837, "btn": 242, "pn": "com/amazonaws"}
 {"dn": 422, "lib": "", "sp": "net/mz/callflakessdk/core", "bh": 987419, "btc": 835, "btn": 242}
@@ -5755,9 +5755,9 @@
 {"dn": 317, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/activities", "bh": 497796, "btc": 952, "btn": 222, "pn": "com/biznessapps"}
 {"dn": 262, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/activities", "bh": 424626, "btc": 946, "btn": 222, "pn": "com/biznessapps"}
 {"dn": 160, "lib": "", "sp": "com/sensedk", "bh": 564132, "btc": 912, "btn": 222}
-{"dn": 155, "lib": "", "sp": "org/joda/time", "bh": 730555, "btc": 906, "btn": 222}
+{"dn": 155, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 730555, "btc": 906, "btn": 222, "pn": "org/joda/time"}
 {"dn": 142, "lib": "", "sp": "com/amoad/amoadsdk", "bh": 492247, "btc": 904, "btn": 222}
-{"dn": 143, "lib": "", "sp": "org/joda/time", "bh": 711400, "btc": 903, "btn": 222}
+{"dn": 143, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time", "bh": 711400, "btc": 903, "btn": 222, "pn": "org/joda/time"}
 {"dn": 199, "lib": "ad;adsmogo;www.adsmogo.com/", "sp": "com/adsmogo/controller", "bh": 634336, "btc": 888, "btn": 222, "pn": "com/adsmogo"}
 {"dn": 130, "lib": "", "sp": "com/kenai/jbosh", "bh": 979132, "btc": 860, "btn": 222}
 {"dn": 316, "lib": "am;Google Play;https://play.google.com", "sp": "com/google/android/vending/expansion/downloader/impl", "bh": 396593, "btc": 709, "btn": 222, "pn": "com/google/android/vending"}
@@ -6009,7 +6009,7 @@
 {"dn": 169, "lib": "", "sp": "com/google/a", "bh": 259349, "btc": 795, "btn": 213}
 {"dn": 181, "lib": "ad;Inneractive;inner-active.com/", "sp": "com/inneractive/api/ads", "bh": 577250, "btc": 778, "btn": 213, "pn": "com/inneractive"}
 {"dn": 185, "lib": "", "sp": "com/integralblue/httpresponsecache/compat/libcore", "bh": 508732, "btc": 726, "btn": 213}
-{"dn": 631, "lib": "", "sp": "net/hockeyapp/android", "bh": 337104, "btc": 719, "btn": 213}
+{"dn": 631, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android", "bh": 337104, "btc": 719, "btn": 213, "pn": "net/hockeyapp/android"}
 {"dn": 164, "lib": "", "sp": "com/integralblue/httpresponsecache/compat/libcore", "bh": 489302, "btc": 706, "btn": 213}
 {"dn": 128, "lib": "", "sp": "com/nd/android/pandareader/bookread/ndb/view", "bh": 100862, "btc": 675, "btn": 213}
 {"dn": 362, "lib": "da;EPublib;www.siegmann.nl/epublib", "sp": "nl/siegmann/epublib", "bh": 5180, "btc": 630, "btn": 213, "pn": "nl/siegmann/epublib"}
@@ -7032,7 +7032,7 @@
 {"dn": 11083, "lib": "", "sp": "com/google/api/client/util", "bh": 285236, "btc": 462, "btn": 178}
 {"dn": 1178, "lib": "", "sp": "com/google/api/client/util", "bh": 285217, "btc": 462, "btn": 178}
 {"dn": 108, "lib": "", "sp": "com/modernluxury/ui/action", "bh": 150158, "btc": 454, "btn": 178}
-{"dn": 859, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/View", "bh": 389818, "btc": 432, "btn": 178, "pn": "com/chartboost/sdk"}
+{"dn": 859, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/View", "bh": 389818, "btc": 432, "btn": 178, "pn": "com/chartboost"}
 {"dn": 578, "lib": "", "sp": "nightStarry/liveWPcube", "bh": 537254, "btc": 429, "btn": 178}
 {"dn": 154, "lib": "", "sp": "rose3dLive", "bh": 537234, "btc": 429, "btn": 178}
 {"dn": 372, "lib": "ut;Nostra13 Image Loading;https://github.com/nostra13/Android-Universal-Image-Loader", "sp": "com/nostra13/universalimageloader/core", "bh": 292166, "btc": 426, "btn": 178, "pn": "com/nostra13"}
@@ -7164,7 +7164,7 @@
 {"dn": 124, "lib": "", "sp": "pm/ui/a", "bh": 806347, "btc": 632, "btn": 174}
 {"dn": 134, "lib": "da;Vercoop;www.vercoop.com/", "sp": "com/vercoop/app/more", "bh": 362024, "btc": 627, "btn": 174, "pn": "com/vercoop"}
 {"dn": 136, "lib": "da;Vercoop;www.vercoop.com/", "sp": "com/vercoop/app/more", "bh": 363218, "btc": 618, "btn": 174, "pn": "com/vercoop"}
-{"dn": 199, "lib": "", "sp": "com/googlecode/mp4parser", "bh": 982006, "btc": 577, "btn": 174}
+{"dn": 199, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser", "bh": 982006, "btc": 577, "btn": 174, "pn": "com/googlecode/mp4parser"}
 {"dn": 299, "lib": "", "sp": "org/osmdroid/views/overlay", "bh": 705136, "btc": 554, "btn": 174}
 {"dn": 22809, "lib": "da;Google Gson;https://github.com/google/gson", "sp": "com/google/gsonhtcmod/internal", "bh": 914958, "btc": 544, "btn": 174, "pn": "com/google/gson"}
 {"dn": 1197, "lib": "da;Google Gson;https://github.com/google/gson", "sp": "com/google/gsonlinxo/internal", "bh": 914957, "btc": 544, "btn": 174, "pn": "com/google/gson"}
@@ -7491,8 +7491,8 @@
 {"dn": 319, "lib": "ad;AdSDK;", "sp": "com/adsdk/sdk/mraid", "bh": 579661, "btc": 457, "btn": 165, "pn": "com/adsdk"}
 {"dn": 2594, "lib": "", "sp": "net/simonvt/menudrawer", "bh": 805755, "btc": 453, "btn": 165}
 {"dn": 111, "lib": "ad;Google Ads;https://www.google.com/ads/", "sp": "com/google/ads/util", "bh": 626070, "btc": 413, "btn": 165, "pn": "com/google/ads"}
-{"dn": 1046, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 755418, "btc": 408, "btn": 165, "pn": "com/chartboost/sdk"}
-{"dn": 131, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 755413, "btc": 408, "btn": 165, "pn": "com/chartboost/sdk"}
+{"dn": 1046, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 755418, "btc": 408, "btn": 165, "pn": "com/chartboost"}
+{"dn": 131, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk", "bh": 755413, "btc": 408, "btn": 165, "pn": "com/chartboost"}
 {"dn": 190, "lib": "", "sp": "com/google/api/client/http", "bh": 948536, "btc": 405, "btn": 165}
 {"dn": 636, "lib": "da;GreenDao;https://github.com/greenrobot/greenDAO", "sp": "de/greenrobot/dao", "bh": 445623, "btc": 395, "btn": 165, "pn": "de/greenrobot/dao"}
 {"dn": 4056, "lib": "ad;Inmobi;http://inmobi.com", "sp": "com/inmobi/androidsdk/impl", "bh": 759112, "btc": 360, "btn": 165, "pn": "com/inmobi"}
@@ -7588,8 +7588,8 @@
 {"dn": 530, "lib": "", "sp": "net/manageapps/browserscanner", "bh": 210664, "btc": 537, "btn": 161}
 {"dn": 769, "lib": "", "sp": "com/google/common/reflect", "bh": 686190, "btc": 500, "btn": 161}
 {"dn": 147, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/utils", "bh": 574904, "btc": 500, "btn": 161, "pn": "org/cocos2d"}
-{"dn": 642, "lib": "", "sp": "net/hockeyapp/android/internal", "bh": 927243, "btc": 486, "btn": 161}
-{"dn": 1801, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 703770, "btc": 466, "btn": 161, "pn": "com/chartboost/sdk"}
+{"dn": 642, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/internal", "bh": 927243, "btc": 486, "btn": 161, "pn": "net/hockeyapp/android"}
+{"dn": 1801, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 703770, "btc": 466, "btn": 161, "pn": "com/chartboost"}
 {"dn": 142, "lib": "da;Vercoop;www.vercoop.com/", "sp": "com/vercoop/app/fragment", "bh": 229682, "btc": 458, "btn": 161, "pn": "com/vercoop"}
 {"dn": 104, "lib": "", "sp": "org/apache/mina/util", "bh": 495537, "btc": 430, "btn": 161}
 {"dn": 479, "lib": "", "sp": "net/daum/adam/publisher/impl/b", "bh": 690691, "btc": 419, "btn": 161}
@@ -8016,7 +8016,7 @@
 {"dn": 139, "lib": "", "sp": "ua/org/microtech", "bh": 220541, "btc": 499, "btn": 149}
 {"dn": 139, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/http", "bh": 253262, "btc": 477, "btn": 149, "pn": "com/amazonaws"}
 {"dn": 109, "lib": "", "sp": "com/thoughtworks/xstream/core", "bh": 320793, "btc": 472, "btn": 149}
-{"dn": 402, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 668622, "btc": 433, "btn": 149, "pn": "com/chartboost/sdk"}
+{"dn": 402, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 668622, "btc": 433, "btn": 149, "pn": "com/chartboost"}
 {"dn": 123, "lib": "ma;Umeng feedback;dev.umeng.com/feedback", "sp": "com/umeng/fb", "bh": 250380, "btc": 410, "btn": 149, "pn": "com/umeng/fb"}
 {"dn": 292, "lib": "", "sp": "net/nend/android", "bh": 826402, "btc": 403, "btn": 149}
 {"dn": 101, "lib": "", "sp": "com/umeng/socialize/common", "bh": 742650, "btc": 383, "btn": 149}
@@ -8045,7 +8045,7 @@
 {"dn": 475, "lib": "", "sp": "com/mixpanel/android", "bh": 948560, "btc": 589, "btn": 148}
 {"dn": 107, "lib": "", "sp": "com/mobileroadie/app_451/tour", "bh": 275620, "btc": 541, "btn": 148}
 {"dn": 252, "lib": "da;BugSense;https://github.com/wrapp/bugsense-android", "sp": "com/bugsense/trace", "bh": 771107, "btc": 491, "btn": 148, "pn": "com/bugsense"}
-{"dn": 764, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 675353, "btc": 438, "btn": 148, "pn": "com/chartboost/sdk"}
+{"dn": 764, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 675353, "btc": 438, "btn": 148, "pn": "com/chartboost"}
 {"dn": 438, "lib": "", "sp": "jp/co/cayto/appc/sdk/android/utils", "bh": 952196, "btc": 421, "btn": 148}
 {"dn": 482, "lib": "", "sp": "com/google/android", "bh": 673677, "btc": 420, "btn": 148}
 {"dn": 126, "lib": "", "sp": "com/umeng/a", "bh": 853213, "btc": 413, "btn": 148}
@@ -8093,7 +8093,7 @@
 {"dn": 110, "lib": "", "sp": "com/analitics/api", "bh": 943804, "btc": 456, "btn": 147}
 {"dn": 116, "lib": "", "sp": "com/vpadn", "bh": 41229, "btc": 451, "btn": 147}
 {"dn": 147, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing", "bh": 642093, "btc": 450, "btn": 147, "pn": "com/google/zxing"}
-{"dn": 516, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 672075, "btc": 437, "btn": 147, "pn": "com/chartboost/sdk"}
+{"dn": 516, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 672075, "btc": 437, "btn": 147, "pn": "com/chartboost"}
 {"dn": 161, "lib": "", "sp": "net/oauth", "bh": 859647, "btc": 393, "btn": 147}
 {"dn": 182, "lib": "da;Loopj;https://github.com/loopj/android-async-http", "sp": "com/loopj/android/http", "bh": 49424, "btc": 392, "btn": 147, "pn": "com/loopj"}
 {"dn": 134, "lib": "", "sp": "com/revesoft/itelmobiledialer/phonebook", "bh": 230893, "btc": 378, "btn": 147}
@@ -8872,7 +8872,7 @@
 {"dn": 870, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson/databind/introspect", "bh": 251117, "btc": 806, "btn": 130, "pn": "com/fasterxml"}
 {"dn": 383, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/lang3/time", "bh": 125760, "btc": 721, "btn": 130, "pn": "org/apache/commons"}
 {"dn": 208, "lib": "", "sp": "org/zywx/wbpalmstar/widgetone", "bh": 166104, "btc": 714, "btn": 130}
-{"dn": 345, "lib": "", "sp": "org/joda/time/tz", "bh": 529802, "btc": 603, "btn": 130}
+{"dn": 345, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 529802, "btc": 603, "btn": 130, "pn": "org/joda/time"}
 {"dn": 649, "lib": "ad;Adtech;www.adtech.com/", "sp": "com/adtech/mobilesdk/view", "bh": 946771, "btc": 592, "btn": 130, "pn": "com/adtech"}
 {"dn": 716, "lib": "", "sp": "com/yoyogames/runner", "bh": 939616, "btc": 592, "btn": 130}
 {"dn": 101, "lib": "", "sp": "com/umeng/socialize/controller", "bh": 33003, "btc": 577, "btn": 130}
@@ -8935,7 +8935,7 @@
 {"dn": 101, "lib": "", "sp": "com/wsi/android/framework/map/overlay/rasterlayer", "bh": 663282, "btc": 661, "btn": 129}
 {"dn": 113, "lib": "", "sp": "org/apache/poi/ss/format", "bh": 289652, "btc": 643, "btn": 129}
 {"dn": 125, "lib": "", "sp": "com/igivings/wolfforthumc/openintents/calendarpicker/view", "bh": 874856, "btc": 608, "btn": 129}
-{"dn": 1466, "lib": "", "sp": "org/joda/time/tz", "bh": 556956, "btc": 604, "btn": 129}
+{"dn": 1466, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 556956, "btc": 604, "btn": 129, "pn": "org/joda/time"}
 {"dn": 891, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/nodes", "bh": 589117, "btc": 573, "btn": 129, "pn": "org/cocos2d"}
 {"dn": 354, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/nodes", "bh": 588287, "btc": 572, "btn": 129, "pn": "org/cocos2d"}
 {"dn": 148, "lib": "", "sp": "com/sec/android/ad/container", "bh": 473582, "btc": 557, "btn": 129}
@@ -9105,9 +9105,9 @@
 {"dn": 181, "lib": "", "sp": "org/mapsforge/android/maps/mapgenerator", "bh": 131542, "btc": 672, "btn": 126}
 {"dn": 169, "lib": "", "sp": "com/wsi/android/framework/map/overlay/rasterlayer", "bh": 652725, "btc": 649, "btn": 126}
 {"dn": 212, "lib": "", "sp": "com/qq", "bh": 921193, "btc": 622, "btn": 126}
-{"dn": 1020, "lib": "", "sp": "org/joda/time/tz", "bh": 544527, "btc": 605, "btn": 126}
-{"dn": 2131, "lib": "", "sp": "org/joda/time/tz", "bh": 541096, "btc": 604, "btn": 126}
-{"dn": 130, "lib": "", "sp": "org/joda/time/tz", "bh": 541054, "btc": 604, "btn": 126}
+{"dn": 1020, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 544527, "btc": 605, "btn": 126, "pn": "org/joda/time"}
+{"dn": 2131, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 541096, "btc": 604, "btn": 126, "pn": "org/joda/time"}
+{"dn": 130, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 541054, "btc": 604, "btn": 126, "pn": "org/joda/time"}
 {"dn": 190, "lib": "", "sp": "jp/basicinc/gamefeat/android/sdk/controller", "bh": 944819, "btc": 578, "btn": 126}
 {"dn": 106, "lib": "", "sp": "com/doomonafireball/betterpickers/recurrencepicker", "bh": 671232, "btc": 572, "btn": 126}
 {"dn": 128, "lib": "", "sp": "jp/basicinc/gamefeat/android/sdk/controller", "bh": 923914, "btc": 567, "btn": 126}
@@ -9194,7 +9194,7 @@
 {"dn": 115, "lib": "", "sp": "com/celltick/lockscreen/theme/Paris/statistics", "bh": 630228, "btc": 355, "btn": 125}
 {"dn": 125, "lib": "", "sp": "com/app028218110", "bh": 618653, "btc": 345, "btn": 125}
 {"dn": 130, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/activities", "bh": 742781, "btc": 336, "btn": 125, "pn": "com/biznessapps"}
-{"dn": 192, "lib": "", "sp": "net/hockeyapp/android/tasks", "bh": 666941, "btc": 327, "btn": 125}
+{"dn": 192, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/d", "bh": 666941, "btc": 327, "btn": 125, "pn": "net/hockeyapp/android"}
 {"dn": 7235, "lib": "da;Apache Cordova;https://cordova.apache.org/", "sp": "org/apache/cordova/inappbrowser", "bh": 746711, "btc": 326, "btn": 125, "pn": "org/apache/cordova"}
 {"dn": 112, "lib": "da;Apache Cordova;https://cordova.apache.org/", "sp": "org/apache/cordova/inappbrowser", "bh": 746704, "btc": 326, "btn": 125, "pn": "org/apache/cordova"}
 {"dn": 141, "lib": "", "sp": "com/sothree/slidinguppanel", "bh": 174287, "btc": 325, "btn": 125}
@@ -9226,8 +9226,8 @@
 {"dn": 2892, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/view/a", "bh": 718441, "btc": 229, "btn": 125, "pn": "android/support/v4"}
 {"dn": 173, "lib": "", "sp": "com/pbgsgroup/data", "bh": 845115, "btc": 228, "btn": 125}
 {"dn": 120, "lib": "", "sp": "com/christmassongs", "bh": 429682, "btc": 208, "btn": 125}
-{"dn": 6105, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/b", "bh": 397420, "btc": 200, "btn": 125, "pn": "com/chartboost/sdk"}
-{"dn": 644, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 397417, "btc": 200, "btn": 125, "pn": "com/chartboost/sdk"}
+{"dn": 6105, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/b", "bh": 397420, "btc": 200, "btn": 125, "pn": "com/chartboost"}
+{"dn": 644, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 397417, "btc": 200, "btn": 125, "pn": "com/chartboost"}
 {"dn": 135, "lib": "", "sp": "com/google/i18n/phonenumbers", "bh": 270392, "btc": 2230, "btn": 124}
 {"dn": 215, "lib": "", "sp": "rajawali/materials", "bh": 951702, "btc": 1060, "btn": 124}
 {"dn": 186, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/common/internal", "bh": 755743, "btc": 1048, "btn": 124, "pn": "com/google/android/gms"}
@@ -9241,7 +9241,7 @@
 {"dn": 214, "lib": "", "sp": "com/prime31", "bh": 674352, "btc": 671, "btn": 124}
 {"dn": 141, "lib": "", "sp": "com/magazinecloner/magclonerreader/g", "bh": 160627, "btc": 628, "btn": 124}
 {"dn": 169, "lib": "", "sp": "com/awt/gugong/download", "bh": 67437, "btc": 621, "btn": 124}
-{"dn": 168, "lib": "", "sp": "org/joda/time/tz", "bh": 500903, "btc": 602, "btn": 124}
+{"dn": 168, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 500903, "btc": 602, "btn": 124, "pn": "org/joda/time"}
 {"dn": 118, "lib": "", "sp": "com/adbox/behavior", "bh": 933440, "btc": 582, "btn": 124}
 {"dn": 101, "lib": "", "sp": "com/c", "bh": 894570, "btc": 543, "btn": 124}
 {"dn": 125, "lib": "", "sp": "com/smartadserver/android/library/controller", "bh": 440827, "btc": 466, "btn": 124}
@@ -9425,8 +9425,8 @@
 {"dn": 631, "lib": "", "sp": "com/shopgate/android/controller/a", "bh": 766293, "btc": 639, "btn": 121}
 {"dn": 857, "lib": "", "sp": "fi/iki/elonen", "bh": 933605, "btc": 620, "btn": 121}
 {"dn": 109, "lib": "", "sp": "org/bouncycastle/pqc", "bh": 465072, "btc": 611, "btn": 121}
-{"dn": 156, "lib": "", "sp": "org/joda/time/tz", "bh": 959753, "btc": 593, "btn": 121}
-{"dn": 155, "lib": "", "sp": "org/joda/time/tz", "bh": 959063, "btc": 592, "btn": 121}
+{"dn": 156, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 959753, "btc": 593, "btn": 121, "pn": "org/joda/time"}
+{"dn": 155, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 959063, "btc": 592, "btn": 121, "pn": "org/joda/time"}
 {"dn": 268, "lib": "da;ACRA;", "sp": "org/acra/b", "bh": 51306, "btc": 588, "btn": 121, "pn": "org/acra"}
 {"dn": 481, "lib": "da;Codehaus;www.codehaus.org/", "sp": "org/codehaus/jackson/map/deser", "bh": 862398, "btc": 580, "btn": 121, "pn": "org/codehaus"}
 {"dn": 1485, "lib": "da;Codehaus;www.codehaus.org/", "sp": "org/codehaus/jackson/map/deser", "bh": 853247, "btc": 576, "btn": 121, "pn": "org/codehaus"}
@@ -9458,7 +9458,7 @@
 {"dn": 211, "lib": "da;BugSense;https://github.com/wrapp/bugsense-android", "sp": "com/bugsense/trace", "bh": 483278, "btc": 336, "btn": 121, "pn": "com/bugsense"}
 {"dn": 128, "lib": "", "sp": "com/mobileroadie/Madonna/onboarding", "bh": 110155, "btc": 334, "btn": 121}
 {"dn": 114, "lib": "da;Github;https://github.com/", "sp": "com/github/siyamed/shapeimageview", "bh": 298958, "btc": 321, "btn": 121, "pn": "com/github"}
-{"dn": 750, "lib": "", "sp": "net/hockeyapp/android/tasks", "bh": 643290, "btc": 319, "btn": 121}
+{"dn": 750, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/d", "bh": 643290, "btc": 319, "btn": 121, "pn": "net/hockeyapp/android"}
 {"dn": 474, "lib": "", "sp": "com/scringo/features/quiz", "bh": 747450, "btc": 314, "btn": 121}
 {"dn": 211, "lib": "da;Appyet;www.appyet.com/", "sp": "com/appyet/h", "bh": 775111, "btc": 305, "btn": 121, "pn": "com/appyet"}
 {"dn": 252, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/android/publish/banner/banner3d", "bh": 626740, "btc": 302, "btn": 121, "pn": "com/startapp"}
@@ -9614,7 +9614,7 @@
 {"dn": 162, "lib": "ui;actionbarpulltorefresh;https://github.com/chrisbanes/ActionBar-PullToRefresh", "sp": "uk/co/senab/actionbarpulltorefresh/library", "bh": 12865, "btc": 203, "btn": 119, "pn": "uk/co/senab/actionbarpulltorefresh"}
 {"dn": 889, "lib": "da;Signpost Oauth;https://code.google.com/p/oauth-signpost/", "sp": "com/socialize/oauth/signpost", "bh": 563919, "btc": 199, "btn": 119, "pn": "oauth/signpost"}
 {"dn": 490, "lib": "ad;Revmob;https://www.revmobmobileadnetwork.com/", "sp": "com/revmob/ads", "bh": 492057, "btc": 195, "btn": 119, "pn": "com/revmob"}
-{"dn": 854, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 367912, "btc": 190, "btn": 119, "pn": "com/chartboost/sdk"}
+{"dn": 854, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 367912, "btc": 190, "btn": 119, "pn": "com/chartboost"}
 {"dn": 101, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/maps", "bh": 97834, "btc": 2813, "btn": 118, "pn": "com/google/android/gms"}
 {"dn": 49777, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/maps", "bh": 91584, "btc": 2809, "btn": 118, "pn": "com/google/android/gms"}
 {"dn": 1481, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/maps", "bh": 91454, "btc": 2804, "btn": 118, "pn": "com/google/android/gms"}
@@ -9741,7 +9741,7 @@
 {"dn": 106, "lib": "", "sp": "com/kakao/http", "bh": 953831, "btc": 324, "btn": 117}
 {"dn": 346, "lib": "", "sp": "org/androidannotations", "bh": 282421, "btc": 319, "btn": 117}
 {"dn": 331, "lib": "da;ACRA;", "sp": "org/acra/util", "bh": 560626, "btc": 318, "btn": 117, "pn": "org/acra"}
-{"dn": 124, "lib": "", "sp": "net/hockeyapp/android/tasks", "bh": 635643, "btc": 316, "btn": 117}
+{"dn": 124, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/d", "bh": 635643, "btc": 316, "btn": 117, "pn": "net/hockeyapp/android"}
 {"dn": 126, "lib": "da;Bolts Base Library;https://github.com/BoltsFramework/Bolts-Android", "sp": "bolts", "bh": 629685, "btc": 316, "btn": 117, "pn": "bolts"}
 {"dn": 12559, "lib": "", "sp": "com/qbiki/modules/savephoto", "bh": 796562, "btc": 311, "btn": 117}
 {"dn": 389, "lib": "", "sp": "com/qbiki/modules/savephoto", "bh": 796547, "btc": 311, "btn": 117}
@@ -9878,7 +9878,7 @@
 {"dn": 112, "lib": "", "sp": "ch/boye/httpclientandroidlib/conn", "bh": 173732, "btc": 295, "btn": 115}
 {"dn": 235, "lib": "da;Android Support v7;https://developer.android.com/reference/android/support/v7/app/package-summary.html", "sp": "android/support/v7/graphics", "bh": 754856, "btc": 287, "btn": 115, "pn": "android/support/v7"}
 {"dn": 104, "lib": "", "sp": "junit", "bh": 697033, "btc": 279, "btn": 115}
-{"dn": 2204, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 429051, "btc": 270, "btn": 115, "pn": "com/chartboost/sdk"}
+{"dn": 2204, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 429051, "btc": 270, "btn": 115, "pn": "com/chartboost"}
 {"dn": 505, "lib": "", "sp": "com/appMobi/appMobiLib/oauth", "bh": 601558, "btc": 257, "btn": 115}
 {"dn": 118, "lib": "", "sp": "com/appMobi/appMobiLib/oauth", "bh": 601454, "btc": 253, "btn": 115}
 {"dn": 132, "lib": "ut;Nine Old Androids;https://github.com/JakeWharton/NineOldAndroids", "sp": "com/nineoldandroids/view", "bh": 913788, "btc": 252, "btn": 115, "pn": "com/nineoldandroids"}
@@ -9958,7 +9958,7 @@
 {"dn": 459, "lib": "", "sp": "com/tapgage/publisherlibrary", "bh": 618873, "btc": 256, "btn": 114}
 {"dn": 188, "lib": "", "sp": "jp/adlantis/android/utils", "bh": 359132, "btc": 256, "btn": 114}
 {"dn": 127, "lib": "ui;Samsung Spen;developer.samsung.com/galaxy", "sp": "com/samsung/spen/a", "bh": 920301, "btc": 254, "btn": 114, "pn": "com/samsung/spen"}
-{"dn": 305, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/View", "bh": 687248, "btc": 253, "btn": 114, "pn": "com/chartboost/sdk"}
+{"dn": 305, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/View", "bh": 687248, "btc": 253, "btn": 114, "pn": "com/chartboost"}
 {"dn": 137, "lib": "am;Google Play;https://play.google.com", "sp": "com/android/vending/licensing", "bh": 481510, "btc": 251, "btn": 114, "pn": "com/android/vending"}
 {"dn": 424, "lib": "", "sp": "com/postcallmanager/android", "bh": 442155, "btc": 233, "btn": 114}
 {"dn": 354, "lib": "da;Conduit App;apps.conduit.com/", "sp": "com/conduit/app/ptr", "bh": 840560, "btc": 227, "btn": 114, "pn": "com/conduit/app"}
@@ -10025,7 +10025,7 @@
 {"dn": 4753, "lib": "da;Android Support v13;https://developer.android.com/reference/android/support/v13/app/package-summary.html", "sp": "android/support/v13/app", "bh": 209526, "btc": 245, "btn": 113, "pn": "android/support/v13"}
 {"dn": 344, "lib": "da;Android Support v13;https://developer.android.com/reference/android/support/v13/app/package-summary.html", "sp": "android/support/v13/app", "bh": 209434, "btc": 245, "btn": 113, "pn": "android/support/v13"}
 {"dn": 133, "lib": "am;Google Play;https://play.google.com", "sp": "com/android/vending", "bh": 480647, "btc": 240, "btn": 113, "pn": "com/android/vending"}
-{"dn": 311, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/NativeViews", "bh": 768636, "btc": 231, "btn": 113, "pn": "com/chartboost/sdk"}
+{"dn": 311, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/NativeViews", "bh": 768636, "btc": 231, "btn": 113, "pn": "com/chartboost"}
 {"dn": 249, "lib": "", "sp": "com/addthis/ui/activities", "bh": 583679, "btc": 231, "btn": 113}
 {"dn": 168, "lib": "da;subsplash;www.subsplash.com/", "sp": "com/subsplash/thechurchapp/handlers/video", "bh": 782544, "btc": 217, "btn": 113, "pn": "com/subsplash"}
 {"dn": 192, "lib": "", "sp": "com/wHowToStayErectLonger/Controllers", "bh": 491397, "btc": 201, "btn": 113}
@@ -10069,7 +10069,7 @@
 {"dn": 277, "lib": "am;Google Play;https://play.google.com", "sp": "com/android/vending", "bh": 470101, "btc": 248, "btn": 112, "pn": "com/android/vending"}
 {"dn": 5169, "lib": "da;Android Support v13;https://developer.android.com/reference/android/support/v13/app/package-summary.html", "sp": "android/support/v13/app", "bh": 171102, "btc": 243, "btn": 112, "pn": "android/support/v13"}
 {"dn": 272, "lib": "da;Android Support v13;https://developer.android.com/reference/android/support/v13/app/package-summary.html", "sp": "android/support/v13/app", "bh": 171012, "btc": 243, "btn": 112, "pn": "android/support/v13"}
-{"dn": 944, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Networking", "bh": 466216, "btc": 222, "btn": 112, "pn": "com/chartboost/sdk"}
+{"dn": 944, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Networking", "bh": 466216, "btc": 222, "btn": 112, "pn": "com/chartboost"}
 {"dn": 110, "lib": "", "sp": "com/tristit", "bh": 525397, "btc": 221, "btn": 112}
 {"dn": 297, "lib": "da;Scribe Java Lib;https://github.com/scribejava/scribejava", "sp": "org/scribe", "bh": 476841, "btc": 221, "btn": 112, "pn": "org/scribe"}
 {"dn": 146, "lib": "da;subsplash;www.subsplash.com/", "sp": "com/subsplash/thechurchapp/handlers/video", "bh": 779383, "btc": 216, "btn": 112, "pn": "com/subsplash"}
@@ -10288,7 +10288,7 @@
 {"dn": 208, "lib": "ut;Amazon;", "sp": "com/amazon/ags/html5/overlay", "bh": 612216, "btc": 284, "btn": 109, "pn": "com/amazon"}
 {"dn": 170, "lib": "", "sp": "com/amuzenet/appsbuilder012149", "bh": 898392, "btc": 282, "btn": 109}
 {"dn": 233, "lib": "", "sp": "com/drew", "bh": 593607, "btc": 272, "btn": 109}
-{"dn": 859, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/NativeViews", "bh": 794881, "btc": 270, "btn": 109, "pn": "com/chartboost/sdk"}
+{"dn": 859, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/NativeViews", "bh": 794881, "btc": 270, "btn": 109, "pn": "com/chartboost"}
 {"dn": 931, "lib": "da;Apache Log4j;http://logging.apache.org/log4j/2.x/", "sp": "org/apache/log4j/lf5/viewer/categoryexplorer", "bh": 502857, "btc": 262, "btn": 109, "pn": "org/apache/log4j"}
 {"dn": 140, "lib": "", "sp": "org/oscim/utils", "bh": 519226, "btc": 257, "btn": 109}
 {"dn": 238, "lib": "am;Google Play;https://play.google.com", "sp": "com/android/vending/licensing", "bh": 450943, "btc": 248, "btn": 109, "pn": "com/android/vending"}
@@ -10403,7 +10403,7 @@
 {"dn": 110, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/services/sqs", "bh": 435925, "btc": 585, "btn": 107, "pn": "com/amazonaws"}
 {"dn": 144, "lib": "", "sp": "pl/magot/vetch/ancal/views", "bh": 554112, "btc": 567, "btn": 107}
 {"dn": 115, "lib": "", "sp": "org/osmdroid/util", "bh": 503454, "btc": 564, "btn": 107}
-{"dn": 199, "lib": "", "sp": "com/coremedia/iso", "bh": 349270, "btc": 562, "btn": 107}
+{"dn": 199, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso", "bh": 349270, "btc": 562, "btn": 107, "pn": "com/coremedia/iso"}
 {"dn": 105, "lib": "", "sp": "org/osmdroid/util", "bh": 509034, "btc": 559, "btn": 107}
 {"dn": 342, "lib": "", "sp": "com/texterity/android/HorseIllustrated/adapters", "bh": 83226, "btc": 559, "btn": 107}
 {"dn": 345, "lib": "", "sp": "org/osmdroid/util", "bh": 506456, "btc": 558, "btn": 107}
@@ -10590,7 +10590,7 @@
 {"dn": 347, "lib": "", "sp": "uk/co/senab/photoview", "bh": 856350, "btc": 229, "btn": 105}
 {"dn": 558, "lib": "da;subsplash;www.subsplash.com/", "sp": "com/subsplash/thechurchapp/handlers/video", "bh": 741539, "btc": 209, "btn": 105, "pn": "com/subsplash"}
 {"dn": 578, "lib": "", "sp": "com/chute/sdk/c", "bh": 378474, "btc": 209, "btn": 105}
-{"dn": 303, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Networking", "bh": 445794, "btc": 199, "btn": 105, "pn": "com/chartboost/sdk"}
+{"dn": 303, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Networking", "bh": 445794, "btc": 199, "btn": 105, "pn": "com/chartboost"}
 {"dn": 103, "lib": "", "sp": "com/ngigroup/adsta", "bh": 417110, "btc": 183, "btn": 105}
 {"dn": 131, "lib": "ad;Revmob;https://www.revmobmobileadnetwork.com/", "sp": "com/revmob/ads", "bh": 387237, "btc": 145, "btn": 105, "pn": "com/revmob"}
 {"dn": 251, "lib": "da;Scribe Java Lib;https://github.com/scribejava/scribejava", "sp": "org/scribe", "bh": 332811, "btc": 138, "btn": 105, "pn": "org/scribe"}
@@ -10726,7 +10726,7 @@
 {"dn": 861, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock/internal/app", "bh": 627561, "btc": 169, "btn": 103, "pn": "com/actionbarsherlock"}
 {"dn": 10015, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlockRTL/internal/app", "bh": 605087, "btc": 166, "btn": 103, "pn": "com/actionbarsherlock"}
 {"dn": 871, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock/internal/app", "bh": 605061, "btc": 165, "btn": 103, "pn": "com/actionbarsherlock"}
-{"dn": 306, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 314505, "btc": 161, "btn": 103, "pn": "com/chartboost/sdk"}
+{"dn": 306, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 314505, "btc": 161, "btn": 103, "pn": "com/chartboost"}
 {"dn": 161, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 26152, "btc": 150, "btn": 103, "pn": "android/support/v4"}
 {"dn": 310, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/widget", "bh": 26100, "btc": 148, "btn": 103, "pn": "android/support/v4"}
 {"dn": 150, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock/internal/app", "bh": 836403, "btc": 147, "btn": 103, "pn": "com/actionbarsherlock"}
@@ -10954,7 +10954,7 @@
 {"dn": 319, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j/internal/http", "bh": 84062, "btc": 413, "btn": 100, "pn": "twitter4j"}
 {"dn": 21218, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing/client", "bh": 852258, "btc": 390, "btn": 100, "pn": "com/google/zxing"}
 {"dn": 1420, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing/client", "bh": 852250, "btc": 390, "btn": 100, "pn": "com/google/zxing"}
-{"dn": 199, "lib": "", "sp": "com/googlecode/mp4parser/authoring", "bh": 101241, "btc": 382, "btn": 100}
+{"dn": 199, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/authoring", "bh": 101241, "btc": 382, "btn": 100, "pn": "com/googlecode/mp4parser"}
 {"dn": 142, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson/databind/node", "bh": 827113, "btc": 371, "btn": 100, "pn": "com/fasterxml"}
 {"dn": 102, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson/databind/node", "bh": 826973, "btc": 371, "btn": 100, "pn": "com/fasterxml"}
 {"dn": 911, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing/client/vizandgoandroid/result", "bh": 590342, "btc": 362, "btn": 100, "pn": "com/google/zxing"}
@@ -11129,8 +11129,8 @@
 {"dn": 127, "lib": "", "sp": "com/google/maps/android/clustering", "bh": 302717, "btc": 224, "btn": 98}
 {"dn": 272, "lib": "", "sp": "com/google/maps/android/clustering", "bh": 300129, "btc": 224, "btn": 98}
 {"dn": 257, "lib": "ad;Google Ads;https://www.google.com/ads/", "sp": "com/google/ads/util", "bh": 326008, "btc": 221, "btn": 98, "pn": "com/google/ads"}
-{"dn": 9266, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 350023, "btc": 220, "btn": 98, "pn": "com/chartboost/sdk"}
-{"dn": 263, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 350020, "btc": 220, "btn": 98, "pn": "com/chartboost/sdk"}
+{"dn": 9266, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 350023, "btc": 220, "btn": 98, "pn": "com/chartboost"}
+{"dn": 263, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 350020, "btc": 220, "btn": 98, "pn": "com/chartboost"}
 {"dn": 124, "lib": "", "sp": "ui/activities", "bh": 624744, "btc": 214, "btn": 98}
 {"dn": 370, "lib": "da;Corona;https://docs.coronalabs.com/native/android/html/com/ansca/corona/package-summary.html", "sp": "com/ansca/corona/notifications", "bh": 656659, "btc": 212, "btn": 98, "pn": "com/ansca/corona"}
 {"dn": 539, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/around_us", "bh": 570579, "btc": 212, "btn": 98, "pn": "com/biznessapps"}
@@ -11255,7 +11255,7 @@
 {"dn": 144, "lib": "", "sp": "com/tecnavia/paywall", "bh": 855225, "btc": 1226, "btn": 96}
 {"dn": 149, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j/internal/json", "bh": 437104, "btc": 1156, "btn": 96, "pn": "twitter4j"}
 {"dn": 489, "lib": "ge;Scoreloop Game;", "sp": "com/scoreloop/client/android/core/controller", "bh": 369472, "btc": 865, "btn": 96, "pn": "com/scoreloop"}
-{"dn": 114, "lib": "", "sp": "org/joda/time/format", "bh": 519182, "btc": 708, "btn": 96}
+{"dn": 114, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/format", "bh": 519182, "btc": 708, "btn": 96, "pn": "org/joda/time"}
 {"dn": 586, "lib": "", "sp": "org/bouncycastle/asn1", "bh": 838095, "btc": 628, "btn": 96}
 {"dn": 371, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/fitness", "bh": 76914, "btc": 628, "btn": 96, "pn": "com/google/android/gms"}
 {"dn": 758, "lib": "", "sp": "com/crittercism/app", "bh": 966537, "btc": 595, "btn": 96}
@@ -11869,7 +11869,7 @@
 {"dn": 199, "lib": "ui;GestureImageView polites.com;polites.com", "sp": "com/polites/android", "bh": 700466, "btc": 210, "btn": 90, "pn": "com/polites"}
 {"dn": 445, "lib": "", "sp": "com/mopub/mobileads/util", "bh": 371070, "btc": 208, "btn": 90}
 {"dn": 853, "lib": "", "sp": "com/mopub/mobileads/util", "bh": 371044, "btc": 207, "btn": 90}
-{"dn": 206, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 323837, "btc": 205, "btn": 90, "pn": "com/chartboost/sdk"}
+{"dn": 206, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 323837, "btc": 205, "btn": 90, "pn": "com/chartboost"}
 {"dn": 1338, "lib": "ui;GestureImageView polites.com;polites.com", "sp": "com/polites/android", "bh": 677966, "btc": 202, "btn": 90, "pn": "com/polites"}
 {"dn": 304, "lib": "ui;GestureImageView polites.com;polites.com", "sp": "com/polites/android", "bh": 636693, "btc": 199, "btn": 90, "pn": "com/polites"}
 {"dn": 114, "lib": "ut;Nostra13 Image Loading;https://github.com/nostra13/Android-Universal-Image-Loader", "sp": "com/nostra13/universalimageloader/a", "bh": 336253, "btc": 199, "btn": 90, "pn": "com/nostra13"}
@@ -12094,8 +12094,8 @@
 {"dn": 167, "lib": "", "sp": "android/runtime", "bh": 447368, "btc": 121, "btn": 88}
 {"dn": 409, "lib": "da;ActionBarSherlock;actionbarsherlock.com/", "sp": "com/actionbarsherlock/app", "bh": 841419, "btc": 107, "btn": 88, "pn": "com/actionbarsherlock"}
 {"dn": 181, "lib": "", "sp": "org/a", "bh": 813215, "btc": 2418, "btn": 87}
-{"dn": 2185, "lib": "", "sp": "org/joda/time/format", "bh": 437757, "btc": 724, "btn": 87}
-{"dn": 130, "lib": "", "sp": "org/joda/time/format", "bh": 437754, "btc": 724, "btn": 87}
+{"dn": 2185, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/format", "bh": 437757, "btc": 724, "btn": 87, "pn": "org/joda/time"}
+{"dn": 130, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/format", "bh": 437754, "btc": 724, "btn": 87, "pn": "org/joda/time"}
 {"dn": 277, "lib": "", "sp": "com/nd/android/pandareader/h/a", "bh": 44182, "btc": 624, "btn": 87}
 {"dn": 140, "lib": "", "sp": "org/osmdroid/location", "bh": 215521, "btc": 567, "btn": 87}
 {"dn": 153, "lib": "", "sp": "com/renren/api/connect/android/photos", "bh": 790506, "btc": 532, "btn": 87}
@@ -12191,7 +12191,7 @@
 {"dn": 114, "lib": "", "sp": "com/smartadserver/android/library/util", "bh": 314446, "btc": 122, "btn": 87}
 {"dn": 125, "lib": "", "sp": "com/Tobit/android/database/manager", "bh": 816609, "btc": 1491, "btn": 86}
 {"dn": 156, "lib": "", "sp": "org/shaded/apache/commons/codec/language", "bh": 122988, "btc": 784, "btn": 86}
-{"dn": 1019, "lib": "", "sp": "org/joda/time/format", "bh": 436583, "btc": 721, "btn": 86}
+{"dn": 1019, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/format", "bh": 436583, "btc": 721, "btn": 86, "pn": "org/joda/time"}
 {"dn": 276, "lib": "", "sp": "com/texterity/android/HorseIllustrated/ecommerce", "bh": 500533, "btc": 578, "btn": 86}
 {"dn": 335, "lib": "ad;domob;www.domob.cn/", "sp": "cn/domob/android/a", "bh": 831943, "btc": 531, "btn": 86, "pn": "cn/domob"}
 {"dn": 420, "lib": "", "sp": "com/google/code/rome/android/repackaged/com/sun/syndication/feed", "bh": 133429, "btc": 519, "btn": 86}
@@ -12219,8 +12219,8 @@
 {"dn": 606, "lib": "", "sp": "com/qbiki/modules/product/order", "bh": 844069, "btc": 384, "btn": 86}
 {"dn": 321, "lib": "da;Codehaus;www.codehaus.org/", "sp": "com/flurry/org/codehaus/jackson/map/deser/std", "bh": 523184, "btc": 384, "btn": 86, "pn": "org/codehaus"}
 {"dn": 211, "lib": "da;Android Viewpagerindicator Widget;https://github.com/JakeWharton/ViewPagerIndicator", "sp": "com/viewpagerindicator", "bh": 85477, "btc": 384, "btn": 86, "pn": "com/viewpagerindicator"}
-{"dn": 1234, "lib": "", "sp": "net/hockeyapp/android/views", "bh": 340444, "btc": 382, "btn": 86}
-{"dn": 106, "lib": "", "sp": "net/hockeyapp/android/views", "bh": 340419, "btc": 382, "btn": 86}
+{"dn": 1234, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/f", "bh": 340444, "btc": 382, "btn": 86, "pn": "net/hockeyapp/android"}
+{"dn": 106, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/f", "bh": 340419, "btc": 382, "btn": 86, "pn": "net/hockeyapp/android"}
 {"dn": 235, "lib": "da;Apache James Mail Enterprise Serve;http://james.apache.org", "sp": "org/apache/james/mime4j/field", "bh": 23888, "btc": 370, "btn": 86, "pn": "org/apache/james"}
 {"dn": 3188, "lib": "da;Codehaus;www.codehaus.org/", "sp": "org/codehaus/jackson/node", "bh": 442590, "btc": 366, "btn": 86, "pn": "org/codehaus"}
 {"dn": 186, "lib": "da;Codehaus;www.codehaus.org/", "sp": "tokbox/org/codehaus/jackson/node", "bh": 435428, "btc": 365, "btn": 86, "pn": "org/codehaus"}
@@ -12486,7 +12486,7 @@
 {"dn": 195, "lib": "ad;Google Ads;https://www.google.com/ads/", "sp": "com/google/ads", "bh": 269028, "btc": 131, "btn": 84, "pn": "com/google/ads"}
 {"dn": 115, "lib": "ui;urbanairship;https://www.urbanairship.com/", "sp": "com/urbanairship/restclient", "bh": 382025, "btc": 130, "btn": 84, "pn": "com/urbanairship"}
 {"dn": 445, "lib": "ad;Inmobi;http://inmobi.com", "sp": "com/inmobi/commons/thinICE", "bh": 250959, "btc": 125, "btn": 84, "pn": "com/inmobi"}
-{"dn": 324, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 244290, "btc": 117, "btn": 84, "pn": "com/chartboost/sdk"}
+{"dn": 324, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Libraries", "bh": 244290, "btc": 117, "btn": 84, "pn": "com/chartboost"}
 {"dn": 145, "lib": "", "sp": "org/droidparts/net/http/worker", "bh": 489370, "btc": 116, "btn": 84}
 {"dn": 102, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/maps", "bh": 804013, "btc": 2670, "btn": 83, "pn": "com/google/android/gms"}
 {"dn": 2742, "lib": "da;Jsoup;http://jsoup.org/", "sp": "org/jsoup/nodes", "bh": 868162, "btc": 2536, "btn": 83, "pn": "org/jsoup"}
@@ -12604,8 +12604,8 @@
 {"dn": 729, "lib": "", "sp": "jxl/write", "bh": 264619, "btc": 1182, "btn": 82}
 {"dn": 533, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/android", "bh": 773620, "btc": 877, "btn": 82, "pn": "ti/modules/titanium"}
 {"dn": 166, "lib": "", "sp": "org/apache/sanselan/util", "bh": 444083, "btc": 856, "btn": 82}
-{"dn": 1466, "lib": "", "sp": "org/joda/time/format", "bh": 432473, "btc": 717, "btn": 82}
-{"dn": 345, "lib": "", "sp": "org/joda/time/format", "bh": 431209, "btc": 715, "btn": 82}
+{"dn": 1466, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/format", "bh": 432473, "btc": 717, "btn": 82, "pn": "org/joda/time"}
+{"dn": 345, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/format", "bh": 431209, "btc": 715, "btn": 82, "pn": "org/joda/time"}
 {"dn": 175, "lib": "", "sp": "com/fitnessmobileapps/fma/server/api/xml", "bh": 474635, "btc": 658, "btn": 82}
 {"dn": 232, "lib": "", "sp": "com/androidnative/billing", "bh": 401705, "btc": 508, "btn": 82}
 {"dn": 7060, "lib": "", "sp": "com/google/code/linkedinapi/client/impl", "bh": 135199, "btc": 501, "btn": 82}
@@ -12624,7 +12624,7 @@
 {"dn": 194, "lib": "", "sp": "com/android/billing", "bh": 380505, "btc": 431, "btn": 82}
 {"dn": 127, "lib": "", "sp": "com/udemy/android/adapter", "bh": 36245, "btc": 429, "btn": 82}
 {"dn": 306, "lib": "", "sp": "com/google/common/cache", "bh": 221608, "btc": 424, "btn": 82}
-{"dn": 128, "lib": "", "sp": "com/coremedia/iso/boxes", "bh": 143810, "btc": 414, "btn": 82}
+{"dn": 128, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes", "bh": 143810, "btc": 414, "btn": 82, "pn": "com/coremedia/iso"}
 {"dn": 1169, "lib": "", "sp": "net/minidev/json", "bh": 815341, "btc": 402, "btn": 82}
 {"dn": 2272, "lib": "", "sp": "com/qbiki/modules/product/order", "bh": 907231, "btc": 381, "btn": 82}
 {"dn": 108, "lib": "", "sp": "com/example/android/trivialdrivesample/util", "bh": 349609, "btc": 379, "btn": 82}
@@ -12734,7 +12734,7 @@
 {"dn": 1157, "lib": "", "sp": "com/pad/android/xappad", "bh": 113185, "btc": 663, "btn": 81}
 {"dn": 109, "lib": "", "sp": "com/pad/android/xappad", "bh": 113178, "btc": 663, "btn": 81}
 {"dn": 121, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/android/publish/model", "bh": 821581, "btc": 654, "btn": 81, "pn": "com/startapp"}
-{"dn": 199, "lib": "", "sp": "com/googlecode/mp4parser/boxes", "bh": 266569, "btc": 648, "btn": 81}
+{"dn": 199, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes", "bh": 266569, "btc": 648, "btn": 81, "pn": "com/googlecode/mp4parser"}
 {"dn": 241, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/android", "bh": 756831, "btc": 625, "btn": 81, "pn": "ti/modules/titanium"}
 {"dn": 1542, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "si/mobitel/org/apache/http/impl/cookie", "bh": 513236, "btc": 548, "btn": 81, "pn": "org/apache/http"}
 {"dn": 215, "lib": "", "sp": "com/setster", "bh": 636643, "btc": 521, "btn": 81}
@@ -12743,7 +12743,7 @@
 {"dn": 133, "lib": "", "sp": "com/apportable/iab", "bh": 348927, "btc": 443, "btn": 81}
 {"dn": 297, "lib": "", "sp": "org/afree/chart/renderer", "bh": 690998, "btc": 429, "btn": 81}
 {"dn": 303, "lib": "ge;cocos2DX;www.cocos2d-x.org/", "sp": "org/cocos2dx/slaser/util", "bh": 336934, "btc": 429, "btn": 81, "pn": "org/cocos2dx"}
-{"dn": 199, "lib": "", "sp": "com/coremedia/iso/boxes", "bh": 139937, "btc": 412, "btn": 81}
+{"dn": 199, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes", "bh": 139937, "btc": 412, "btn": 81, "pn": "com/coremedia/iso"}
 {"dn": 200, "lib": "", "sp": "com/munets/android/bell79/media", "bh": 675134, "btc": 411, "btn": 81}
 {"dn": 343, "lib": "da;OkHttp;https://github.com/square/okhttp", "sp": "com/squareup/okhttp/internal/spdy", "bh": 781857, "btc": 406, "btn": 81, "pn": "com/squareup/okhttp"}
 {"dn": 206, "lib": "", "sp": "com/milkmangames/extensions/android/util", "bh": 346029, "btc": 376, "btn": 81}
@@ -13878,10 +13878,10 @@
 {"dn": 191, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/lang/text", "bh": 102702, "btc": 336, "btn": 71, "pn": "org/apache/commons"}
 {"dn": 116, "lib": "da;Google GCM;https://developers.google.com/cloud-messaging/", "sp": "com/google/android/gcm", "bh": 363542, "btc": 325, "btn": 71, "pn": "com/google/android/gcm"}
 {"dn": 121, "lib": "", "sp": "com/google/common/base", "bh": 409415, "btc": 315, "btn": 71}
-{"dn": 155, "lib": "", "sp": "com/googlecode/mp4parser/authoring/adaptivestreaming", "bh": 595228, "btc": 309, "btn": 71}
+{"dn": 155, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/authoring/adaptivestreaming", "bh": 595228, "btc": 309, "btn": 71, "pn": "com/googlecode/mp4parser"}
 {"dn": 201, "lib": "", "sp": "com/qbiki/modules/favorites", "bh": 366871, "btc": 303, "btn": 71}
 {"dn": 145, "lib": "", "sp": "com/noveogroup/android/log", "bh": 561673, "btc": 289, "btn": 71}
-{"dn": 124, "lib": "pa;SquareUp;https://squareup.com", "sp": "com/squareup/javawriter", "bh": 62332, "btc": 288, "btn": 71, "pn": "com/squareup"}
+{"dn": 124, "lib": "da;javawriter;https://github.com/square/javapoet/", "sp": "com/squareup/javawriter", "bh": 62332, "btc": 288, "btn": 71, "pn": "com/squareup/javawriter"}
 {"dn": 128, "lib": "", "sp": "fr/pcsoft/wdjava/q", "bh": 875350, "btc": 287, "btn": 71}
 {"dn": 110, "lib": "", "sp": "com/nineyi/ecoupon", "bh": 473014, "btc": 287, "btn": 71}
 {"dn": 124, "lib": "", "sp": "com/am/adlib/info", "bh": 556556, "btc": 280, "btn": 71}
@@ -14038,7 +14038,7 @@
 {"dn": 145, "lib": "", "sp": "org/bouncycastle/jcajce/provider/keystore/bc", "bh": 112603, "btc": 232, "btn": 70}
 {"dn": 1246, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/fragments/infoitems", "bh": 496102, "btc": 231, "btn": 70, "pn": "com/biznessapps"}
 {"dn": 102, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing/pdf417", "bh": 617065, "btc": 229, "btn": 70, "pn": "com/google/zxing"}
-{"dn": 933, "lib": "", "sp": "net/hockeyapp/android/utils", "bh": 597839, "btc": 229, "btn": 70}
+{"dn": 933, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/e", "bh": 597839, "btc": 229, "btn": 70, "pn": "net/hockeyapp/android"}
 {"dn": 1507, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/fragments/infoitems", "bh": 496050, "btc": 229, "btn": 70, "pn": "com/biznessapps"}
 {"dn": 1715, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/fragments/infoitems", "bh": 495998, "btc": 227, "btn": 70, "pn": "com/biznessapps"}
 {"dn": 10960, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebooklib/model", "bh": 452356, "btc": 226, "btn": 70, "pn": "com/facebook"}
@@ -14101,7 +14101,7 @@
 {"dn": 264, "lib": "", "sp": "org/jivesoftware/smack/packet", "bh": 556746, "btc": 630, "btn": 69}
 {"dn": 100, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j/examples", "bh": 632955, "btc": 587, "btn": 69, "pn": "twitter4j"}
 {"dn": 443, "lib": "da;Appyet;www.appyet.com/", "sp": "com/appyet/mobile/g", "bh": 851302, "btc": 535, "btn": 69, "pn": "com/appyet"}
-{"dn": 199, "lib": "", "sp": "com/googlecode/mp4parser/authoring/tracks", "bh": 9262, "btc": 511, "btn": 69}
+{"dn": 199, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/authoring/tracks", "bh": 9262, "btc": 511, "btn": 69, "pn": "com/googlecode/mp4parser"}
 {"dn": 135, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/location", "bh": 612586, "btc": 510, "btn": 69, "pn": "com/google/android/gms"}
 {"dn": 295, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/location", "bh": 612578, "btc": 502, "btn": 69, "pn": "com/google/android/gms"}
 {"dn": 132, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "com/amazonaws/org/apache/http/impl/cookie", "bh": 459999, "btc": 502, "btn": 69, "pn": "org/apache/http"}
@@ -14214,7 +14214,7 @@
 {"dn": 168, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/ssl/asn1", "bh": 797303, "btc": 720, "btn": 68, "pn": "org/apache/commons"}
 {"dn": 325, "lib": "ut;Amazon;", "sp": "com/amazon/ags/storage", "bh": 511477, "btc": 684, "btn": 68, "pn": "com/amazon"}
 {"dn": 537, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/plus", "bh": 854807, "btc": 642, "btn": 68, "pn": "com/google/android/gms"}
-{"dn": 340, "lib": "", "sp": "org/joda/time/format", "bh": 341093, "btc": 641, "btn": 68}
+{"dn": 340, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/format", "bh": 341093, "btc": 641, "btn": 68, "pn": "org/joda/time"}
 {"dn": 113, "lib": "", "sp": "com/airkast/tunekast3/parsers", "bh": 703404, "btc": 632, "btn": 68}
 {"dn": 350, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j/examples", "bh": 650145, "btc": 623, "btn": 68, "pn": "twitter4j"}
 {"dn": 992, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing/oned", "bh": 722883, "btc": 572, "btn": 68, "pn": "com/google/zxing"}
@@ -14331,7 +14331,7 @@
 {"dn": 1451, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/services/s3/model/transform", "bh": 11688, "btc": 879, "btn": 67, "pn": "com/amazonaws"}
 {"dn": 190, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/services/s3/model/a", "bh": 980778, "btc": 832, "btn": 67, "pn": "com/amazonaws"}
 {"dn": 1145, "lib": "ut;Amazon;", "sp": "com/amazon/ags/storage", "bh": 476012, "btc": 649, "btn": 67, "pn": "com/amazon"}
-{"dn": 189, "lib": "", "sp": "com/googlecode/mp4parser/boxes/mp4", "bh": 66174, "btc": 620, "btn": 67}
+{"dn": 189, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/mp4", "bh": 66174, "btc": 620, "btn": 67, "pn": "com/googlecode/mp4parser"}
 {"dn": 134, "lib": "", "sp": "org/cmc/music/myid3", "bh": 824260, "btc": 554, "btn": 67}
 {"dn": 157, "lib": "", "sp": "com/readystatesoftware/sqliteasset", "bh": 873520, "btc": 432, "btn": 67}
 {"dn": 999, "lib": "", "sp": "com/google/common/primitives", "bh": 708966, "btc": 411, "btn": 67}
@@ -14353,7 +14353,7 @@
 {"dn": 180, "lib": "", "sp": "com/vividsolutions/jts/geom", "bh": 427197, "btc": 280, "btn": 67}
 {"dn": 5721, "lib": "da;Json org;www.json.org/", "sp": "org/json/simple/parser", "bh": 945374, "btc": 269, "btn": 67, "pn": "org/json"}
 {"dn": 493, "lib": "da;Json org;www.json.org/", "sp": "org/json/simple/parser", "bh": 945263, "btc": 269, "btn": 67, "pn": "org/json"}
-{"dn": 134, "lib": "pa;SquareUp;https://squareup.com", "sp": "com/squareup/javawriter", "bh": 965244, "btc": 265, "btn": 67, "pn": "com/squareup"}
+{"dn": 134, "lib": "da;javawriter;https://github.com/square/javapoet/", "sp": "com/squareup/javawriter", "bh": 965244, "btc": 265, "btn": 67, "pn": "com/squareup/javawriter"}
 {"dn": 129, "lib": "", "sp": "com/nd/android/pandareaderlib/parser/ndb/a", "bh": 334409, "btc": 261, "btn": 67}
 {"dn": 673, "lib": "ma;Umeng feedback;dev.umeng.com/feedback", "sp": "com/umeng/fb/d", "bh": 451997, "btc": 260, "btn": 67, "pn": "com/umeng/fb"}
 {"dn": 17943, "lib": "pa;PayPal;https://developer.paypal.com/docs/integration/mobile/android-integration-guide/", "sp": "com/paypal/android/c", "bh": 904596, "btc": 249, "btn": 67, "pn": "com/paypal"}
@@ -14650,7 +14650,7 @@
 {"dn": 855, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/mailing_list", "bh": 644565, "btc": 189, "btn": 65, "pn": "com/biznessapps"}
 {"dn": 1905, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/mailing_list", "bh": 643001, "btc": 188, "btn": 65, "pn": "com/biznessapps"}
 {"dn": 22828, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/common/api", "bh": 475338, "btc": 185, "btn": 65, "pn": "com/google/android/gms"}
-{"dn": 158, "lib": "", "sp": "com/googlecode/mp4parser/util", "bh": 339745, "btc": 185, "btn": 65}
+{"dn": 158, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/util", "bh": 339745, "btc": 185, "btn": 65, "pn": "com/googlecode/mp4parser"}
 {"dn": 141, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/fragments/infoitems", "bh": 366440, "btc": 184, "btn": 65, "pn": "com/biznessapps"}
 {"dn": 285, "lib": "da;Vercoop;www.vercoop.com/", "sp": "com/vercoop/db", "bh": 385515, "btc": 183, "btn": 65, "pn": "com/vercoop"}
 {"dn": 208, "lib": "", "sp": "org/zywx/wbpalmstar/plugin/uexdownloadermgr", "bh": 257715, "btc": 183, "btn": 65}
@@ -14763,7 +14763,7 @@
 {"dn": 524, "lib": "da;Codehaus;www.codehaus.org/", "sp": "org/codehaus/jackson/util", "bh": 257829, "btc": 224, "btn": 64, "pn": "org/codehaus"}
 {"dn": 358, "lib": "", "sp": "com/blundell/test", "bh": 237551, "btc": 221, "btn": 64}
 {"dn": 114, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons", "bh": 424298, "btc": 217, "btn": 64, "pn": "org/apache/commons"}
-{"dn": 123, "lib": "", "sp": "net/hockeyapp/android/utils", "bh": 457746, "btc": 216, "btn": 64}
+{"dn": 123, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/e", "bh": 457746, "btc": 216, "btn": 64, "pn": "net/hockeyapp/android"}
 {"dn": 249, "lib": "", "sp": "com/mysql/jdbc/util", "bh": 955856, "btc": 215, "btn": 64}
 {"dn": 125, "lib": "sn;Facebook;https://developers.facebook.com", "sp": "com/facebook/model", "bh": 415442, "btc": 209, "btn": 64, "pn": "com/facebook"}
 {"dn": 126, "lib": "", "sp": "com/koushikdutta/async/http/server", "bh": 428329, "btc": 207, "btn": 64}
@@ -14864,7 +14864,7 @@
 {"dn": 1219, "lib": "", "sp": "org/bouncycastle/asn1/x509", "bh": 64187, "btc": 657, "btn": 63}
 {"dn": 156, "lib": "", "sp": "org/jivesoftware/smack/packet", "bh": 521586, "btc": 633, "btn": 63}
 {"dn": 164, "lib": "", "sp": "com/vungle/publisher/protocol", "bh": 257012, "btc": 625, "btn": 63}
-{"dn": 200, "lib": "", "sp": "com/googlecode/mp4parser/boxes/mp4", "bh": 997720, "btc": 604, "btn": 63}
+{"dn": 200, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/mp4", "bh": 997720, "btc": 604, "btn": 63, "pn": "com/googlecode/mp4parser"}
 {"dn": 1269, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/dao", "bh": 560267, "btc": 580, "btn": 63, "pn": "com/j256"}
 {"dn": 103, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/dao", "bh": 560262, "btc": 580, "btn": 63, "pn": "com/j256"}
 {"dn": 209, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/tests", "bh": 979341, "btc": 514, "btn": 63, "pn": "org/cocos2d"}
@@ -15676,7 +15676,7 @@
 {"dn": 193, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/images", "bh": 327302, "btc": 166, "btn": 58, "pn": "com/biznessapps"}
 {"dn": 106, "lib": "", "sp": "com/db4o/internal/handlers", "bh": 559140, "btc": 165, "btn": 58}
 {"dn": 146, "lib": "", "sp": "com/crittercism/app", "bh": 265877, "btc": 165, "btn": 58}
-{"dn": 199, "lib": "", "sp": "com/googlecode/mp4parser/util", "bh": 306798, "btc": 164, "btn": 58}
+{"dn": 199, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/util", "bh": 306798, "btc": 164, "btn": 58, "pn": "com/googlecode/mp4parser"}
 {"dn": 272, "lib": "ge;Scoreloop Game;", "sp": "com/scoreloop/client/android/core/d", "bh": 322901, "btc": 163, "btn": 58, "pn": "com/scoreloop"}
 {"dn": 175, "lib": "", "sp": "org/osmdroid/tileprovider/tilesource", "bh": 250664, "btc": 162, "btn": 58}
 {"dn": 156, "lib": "", "sp": "com/google/common/collect", "bh": 433470, "btc": 161, "btn": 58}
@@ -15762,7 +15762,7 @@
 {"dn": 111, "lib": "", "sp": "com/a_vcard/android/syncml/pim/vcard", "bh": 723016, "btc": 737, "btn": 57}
 {"dn": 253, "lib": "", "sp": "com/banking/model/c", "bh": 499895, "btc": 646, "btn": 57}
 {"dn": 324, "lib": "", "sp": "com/vungle/publisher/protocol", "bh": 207297, "btc": 597, "btn": 57}
-{"dn": 297, "lib": "", "sp": "com/googlecode/mp4parser/boxes/mp4/objectdescriptors", "bh": 741973, "btc": 587, "btn": 57}
+{"dn": 297, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/mp4/objectdescriptors", "bh": 741973, "btc": 587, "btn": 57, "pn": "com/googlecode/mp4parser"}
 {"dn": 256, "lib": "", "sp": "com/twitter", "bh": 793126, "btc": 538, "btn": 57}
 {"dn": 112, "lib": "", "sp": "com/larswerkman/holocolorpicker", "bh": 410990, "btc": 420, "btn": 57}
 {"dn": 167, "lib": "da;Mozilla;https://www.mozilla.org/", "sp": "org/mozilla/javascript/xml/impl/xmlbeans", "bh": 392647, "btc": 395, "btn": 57, "pn": "org/mozilla"}
@@ -15930,14 +15930,14 @@
 {"dn": 285, "lib": "", "sp": "com/quoord/tapatalkpro/sqlhelper", "bh": 671296, "btc": 277, "btn": 56}
 {"dn": 1454, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/graphics/g3d/loaders/g3d", "bh": 443746, "btc": 275, "btn": 56, "pn": "com/badlogic"}
 {"dn": 126, "lib": "", "sp": "com/vungle/publisher/net/http", "bh": 395148, "btc": 272, "btn": 56}
-{"dn": 1810, "lib": "", "sp": "org/joda/time/chrono", "bh": 406937, "btc": 271, "btn": 56}
-{"dn": 125, "lib": "", "sp": "org/joda/time/chrono", "bh": 406926, "btc": 271, "btn": 56}
+{"dn": 1810, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 406937, "btc": 271, "btn": 56, "pn": "org/joda/time"}
+{"dn": 125, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 406926, "btc": 271, "btn": 56, "pn": "org/joda/time"}
 {"dn": 567, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/collections/bidimap", "bh": 711477, "btc": 270, "btn": 56, "pn": "org/apache/commons"}
 {"dn": 165, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/collections/bidimap", "bh": 701165, "btc": 266, "btn": 56, "pn": "org/apache/commons"}
-{"dn": 1019, "lib": "", "sp": "org/joda/time/chrono", "bh": 387537, "btc": 260, "btn": 56}
+{"dn": 1019, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 387537, "btc": 260, "btn": 56, "pn": "org/joda/time"}
 {"dn": 119, "lib": "", "sp": "com/automotiontv/webservice", "bh": 410602, "btc": 258, "btn": 56}
-{"dn": 2131, "lib": "", "sp": "org/joda/time/chrono", "bh": 380319, "btc": 258, "btn": 56}
-{"dn": 129, "lib": "", "sp": "org/joda/time/chrono", "bh": 380308, "btc": 258, "btn": 56}
+{"dn": 2131, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 380319, "btc": 258, "btn": 56, "pn": "org/joda/time"}
+{"dn": 129, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 380308, "btc": 258, "btn": 56, "pn": "org/joda/time"}
 {"dn": 10040, "lib": "", "sp": "com/qbiki/modules/rateandreview", "bh": 367481, "btc": 258, "btn": 56}
 {"dn": 590, "lib": "", "sp": "com/qbiki/modules/rateandreview", "bh": 367472, "btc": 258, "btn": 56}
 {"dn": 458, "lib": "", "sp": "org/bouncycastle/openssl", "bh": 778479, "btc": 256, "btn": 56}
@@ -16096,7 +16096,7 @@
 {"dn": 364, "lib": "da;EPublib;www.siegmann.nl/epublib", "sp": "nl/siegmann/epublib/domain", "bh": 361926, "btc": 268, "btn": 55, "pn": "nl/siegmann/epublib"}
 {"dn": 21298, "lib": "da;EPublib;www.siegmann.nl/epublib", "sp": "nl/siegmann/epublib/domain", "bh": 358600, "btc": 264, "btn": 55, "pn": "nl/siegmann/epublib"}
 {"dn": 1441, "lib": "da;EPublib;www.siegmann.nl/epublib", "sp": "nl/siegmann/epublib/domain", "bh": 358599, "btc": 264, "btn": 55, "pn": "nl/siegmann/epublib"}
-{"dn": 199, "lib": "", "sp": "com/googlecode/mp4parser/authoring/builder", "bh": 544535, "btc": 261, "btn": 55}
+{"dn": 199, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/authoring/builder", "bh": 544535, "btc": 261, "btn": 55, "pn": "com/googlecode/mp4parser"}
 {"dn": 167, "lib": "", "sp": "com/csipsimple/models", "bh": 613939, "btc": 259, "btn": 55}
 {"dn": 123, "lib": "", "sp": "net/manageapps/batchdownload", "bh": 424990, "btc": 254, "btn": 55}
 {"dn": 102, "lib": "", "sp": "com/stericson/RootTools/containers", "bh": 251258, "btc": 252, "btn": 55}
@@ -16237,7 +16237,7 @@
 {"dn": 271, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/database", "bh": 389202, "btc": 318, "btn": 54, "pn": "ti/modules/titanium"}
 {"dn": 117, "lib": "", "sp": "purchasing", "bh": 341076, "btc": 314, "btn": 54}
 {"dn": 160, "lib": "da;doapps;www.doapps.com/", "sp": "com/doapps/android/mln/ads/adapters", "bh": 232139, "btc": 289, "btn": 54, "pn": "com/doapps"}
-{"dn": 300, "lib": "", "sp": "org/joda/time/chrono", "bh": 678051, "btc": 272, "btn": 54}
+{"dn": 300, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 678051, "btc": 272, "btn": 54, "pn": "org/joda/time"}
 {"dn": 290, "lib": "ut;Aviary photo editing SDK;https://developers.aviary.com/docs/android", "sp": "com/aviary/android/feather/library/a", "bh": 437044, "btc": 270, "btn": 54, "pn": "com/aviary"}
 {"dn": 140, "lib": "ut;Aviary photo editing SDK;https://developers.aviary.com/docs/android", "sp": "com/aviary/android/feather/library/providers", "bh": 436966, "btc": 267, "btn": 54, "pn": "com/aviary"}
 {"dn": 2027, "lib": "ut;Amazon;", "sp": "com/amazon/identity/auth/device/dataobject", "bh": 450330, "btc": 265, "btn": 54, "pn": "com/amazon"}
@@ -16475,9 +16475,10 @@
 {"dn": 100, "lib": "", "sp": "com/socialize/notifications", "bh": 255227, "btc": 216, "btn": 53}
 {"dn": 363, "lib": "", "sp": "org/yaml/snakeyaml/representer", "bh": 332973, "btc": 211, "btn": 53}
 {"dn": 160, "lib": "", "sp": "com/stericson/RootTools/execution", "bh": 605297, "btc": 210, "btn": 53}
+{"dn": 177, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 345066, "btc": 207, "btn": 53, "pn": "org/joda/time"}
 {"dn": 130, "lib": "ui;urbanairship;https://www.urbanairship.com/", "sp": "com/urbanairship/widget", "bh": 235912, "btc": 202, "btn": 53, "pn": "com/urbanairship"}
 {"dn": 107, "lib": "ad;Inmobi;http://inmobi.com", "sp": "com/inmobi/commons/analytics/db", "bh": 397079, "btc": 194, "btn": 53, "pn": "com/inmobi"}
-{"dn": 143, "lib": "", "sp": "org/joda/time/b", "bh": 318466, "btc": 194, "btn": 53}
+{"dn": 143, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 318466, "btc": 194, "btn": 53, "pn": "org/joda/time"}
 {"dn": 347, "lib": "da;Apache Cordova;https://cordova.apache.org/", "sp": "org/apache/cordova/api", "bh": 210813, "btc": 192, "btn": 53, "pn": "org/apache/cordova"}
 {"dn": 118, "lib": "da;crowdcompass;www.crowdcompass.com/", "sp": "com/crowdcompass/net/objectiveresource", "bh": 406639, "btc": 187, "btn": 53, "pn": "com/crowdcompass"}
 {"dn": 561, "lib": "da;Dagger;http://square.github.io/dagger/", "sp": "dagger/internal/plugins/reflect", "bh": 340931, "btc": 187, "btn": 53, "pn": "dagger"}
@@ -16624,7 +16625,7 @@
 {"dn": 22834, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/plus/internal", "bh": 762397, "btc": 602, "btn": 52, "pn": "com/google/android/gms"}
 {"dn": 228, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/plus/internal", "bh": 762345, "btc": 600, "btn": 52, "pn": "com/google/android/gms"}
 {"dn": 124, "lib": "", "sp": "org/apache/poi/hssf/model", "bh": 569843, "btc": 588, "btn": 52}
-{"dn": 202, "lib": "", "sp": "com/googlecode/mp4parser/boxes/mp4/objectdescriptors", "bh": 667945, "btc": 567, "btn": 52}
+{"dn": 202, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/mp4/objectdescriptors", "bh": 667945, "btc": 567, "btn": 52, "pn": "com/googlecode/mp4parser"}
 {"dn": 127, "lib": "", "sp": "com/udemy/android/job", "bh": 642904, "btc": 424, "btn": 52}
 {"dn": 151, "lib": "", "sp": "org/teleal/cling/binding/xml", "bh": 85268, "btc": 389, "btn": 52}
 {"dn": 4336, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/maps/model", "bh": 976821, "btc": 387, "btn": 52, "pn": "com/google/android/gms"}
@@ -16902,6 +16903,7 @@
 {"dn": 105, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/content", "bh": 124313, "btc": 125, "btn": 51, "pn": "android/support/v4"}
 {"dn": 478, "lib": "", "sp": "com/navdrawer", "bh": 739450, "btc": 122, "btn": 51}
 {"dn": 420, "lib": "", "sp": "com/wGuadelMontaismoDecathlon/Views", "bh": 211484, "btc": 122, "btn": 51}
+{"dn": 266, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/tz", "bh": 633122, "btc": 121, "btn": 51, "pn": "org/joda/time"}
 {"dn": 289, "lib": "", "sp": "com/fgl/extensions", "bh": 230208, "btc": 120, "btn": 51}
 {"dn": 109, "lib": "pa;SquareUp;https://squareup.com", "sp": "com/squareup/tape", "bh": 393489, "btc": 118, "btn": 51, "pn": "com/squareup"}
 {"dn": 120, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/metrics", "bh": 248446, "btc": 118, "btn": 51, "pn": "com/amazonaws"}
@@ -17000,7 +17002,7 @@
 {"dn": 286, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/scenes/scene2d", "bh": 395349, "btc": 271, "btn": 50, "pn": "com/badlogic"}
 {"dn": 283, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http_android/util", "bh": 250902, "btc": 268, "btn": 50, "pn": "org/apache/http"}
 {"dn": 553, "lib": "ut;Amazon;", "sp": "com/amazon/insights/event", "bh": 438685, "btc": 267, "btn": 50, "pn": "com/amazon"}
-{"dn": 314, "lib": "", "sp": "org/joda/time/chrono", "bh": 504447, "btc": 257, "btn": 50}
+{"dn": 314, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/chrono", "bh": 504447, "btc": 257, "btn": 50, "pn": "org/joda/time"}
 {"dn": 141, "lib": "", "sp": "org/apache/poi/hssf/dev", "bh": 498885, "btc": 255, "btn": 50}
 {"dn": 131, "lib": "", "sp": "org/jivesoftware/smack/debugger", "bh": 320478, "btc": 254, "btn": 50}
 {"dn": 497, "lib": "", "sp": "ch/qos/logback/core/joran/util", "bh": 197296, "btc": 252, "btn": 50}
@@ -18738,7 +18740,7 @@
 {"dn": 139, "lib": "", "sp": "com/appsbuilder292105/ViewLibrary", "bh": 310006, "btc": 114, "btn": 42}
 {"dn": 1224, "lib": "", "sp": "com/drew/imaging/jpeg", "bh": 218128, "btc": 114, "btn": 42}
 {"dn": 981, "lib": "da;comscore;www.comscore.com/", "sp": "com/comscore/measurement", "bh": 222578, "btc": 112, "btn": 42, "pn": "com/comscore"}
-{"dn": 1815, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Tracking", "bh": 201281, "btc": 112, "btn": 42, "pn": "com/chartboost/sdk"}
+{"dn": 1815, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Tracking", "bh": 201281, "btc": 112, "btn": 42, "pn": "com/chartboost"}
 {"dn": 185, "lib": "", "sp": "com/commonsware/cwac", "bh": 356090, "btc": 111, "btn": 42}
 {"dn": 118, "lib": "", "sp": "org/krysalis/barcode4j/tools", "bh": 630212, "btc": 109, "btn": 42}
 {"dn": 354, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/io/input", "bh": 384682, "btc": 108, "btn": 42, "pn": "org/apache/commons"}
@@ -18805,7 +18807,7 @@
 {"dn": 840, "lib": "ut;anywheresoftware;", "sp": "anywheresoftware/b4a/objects/collections", "bh": 195242, "btc": 73, "btn": 42, "pn": "anywheresoftware"}
 {"dn": 11970, "lib": "ut;Nostra13 Image Loading;https://github.com/nostra13/Android-Universal-Image-Loader", "sp": "com/nostra13/universalimageloader/cache/disc", "bh": 165219, "btc": 73, "btn": 42, "pn": "com/nostra13"}
 {"dn": 158, "lib": "", "sp": "com/wBESTWAPIN/FullscreenBanner", "bh": 163598, "btc": 71, "btn": 42}
-{"dn": 112, "lib": "ut;Tapit;Tapit NFC\u6280\u672f", "sp": "com/tapit/vastsdk/player", "bh": 178003, "btc": 70, "btn": 42, "pn": "com/tapit"}
+{"dn": 112, "lib": "ut;Tapit NFC\u6280\u672f;", "sp": "com/tapit/vastsdk/player", "bh": 178003, "btc": 70, "btn": 42, "pn": "com/tapit"}
 {"dn": 176, "lib": "", "sp": "com/darvds/ribbonmenu", "bh": 160500, "btc": 69, "btn": 42}
 {"dn": 2712, "lib": "", "sp": "com/wAfricaTVLiveAmharic/e", "bh": 158985, "btc": 69, "btn": 42}
 {"dn": 217, "lib": "", "sp": "com/sponsorpay/publisher/a", "bh": 133842, "btc": 69, "btn": 42}
@@ -18994,7 +18996,7 @@
 {"dn": 148, "lib": "", "sp": "com/airport/adapters", "bh": 303507, "btc": 84, "btn": 41}
 {"dn": 165, "lib": "ma;ngpinc:National Guard Products;www.ngpinc.com/", "sp": "com/ngpinc/custom", "bh": 292435, "btc": 84, "btn": 41, "pn": "com/ngpinc/"}
 {"dn": 314, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/common/images", "bh": 151088, "btc": 84, "btn": 41, "pn": "com/google/android/gms"}
-{"dn": 889, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 147986, "btc": 83, "btn": 41, "pn": "com/chartboost/sdk"}
+{"dn": 889, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 147986, "btc": 83, "btn": 41, "pn": "com/chartboost"}
 {"dn": 15204, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/metadata/internal", "bh": 117365, "btc": 83, "btn": 41, "pn": "com/google/android/gms"}
 {"dn": 3924, "lib": "ad;PlayHaven Mobile Ads;www.playhaven.com/", "sp": "v2/com/playhaven/requests/open", "bh": 214711, "btc": 82, "btn": 41, "pn": "v2/com/playhaven"}
 {"dn": 177, "lib": "ad;PlayHaven Mobile Ads;www.playhaven.com/", "sp": "v2/com/playhaven/requests/open", "bh": 214703, "btc": 82, "btn": 41, "pn": "v2/com/playhaven"}
@@ -19160,8 +19162,8 @@
 {"dn": 2211, "lib": "", "sp": "net/roarsoftware/lastfm/scrobble", "bh": 183638, "btc": 118, "btn": 40}
 {"dn": 101, "lib": "", "sp": "com/nhaarman/listviewanimations/itemmanipulation/swipedismiss/undo", "bh": 278389, "btc": 117, "btn": 40}
 {"dn": 438, "lib": "", "sp": "com/ChickenRecipes/pull", "bh": 234795, "btc": 117, "btn": 40}
-{"dn": 1490, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Tracking", "bh": 256307, "btc": 116, "btn": 40, "pn": "com/chartboost/sdk"}
-{"dn": 391, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Tracking", "bh": 255644, "btc": 115, "btn": 40, "pn": "com/chartboost/sdk"}
+{"dn": 1490, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Tracking", "bh": 256307, "btc": 116, "btn": 40, "pn": "com/chartboost"}
+{"dn": 391, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Tracking", "bh": 255644, "btc": 115, "btn": 40, "pn": "com/chartboost"}
 {"dn": 275, "lib": "ad;PlayHaven Mobile Ads;www.playhaven.com/", "sp": "com/playhaven/android/data", "bh": 190374, "btc": 115, "btn": 40, "pn": "com/playhaven"}
 {"dn": 136, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/media/session", "bh": 991666, "btc": 113, "btn": 40, "pn": "android/support/v4"}
 {"dn": 316, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/api/navigation", "bh": 298715, "btc": 113, "btn": 40, "pn": "com/biznessapps"}
@@ -19565,7 +19567,7 @@
 {"dn": 676, "lib": "da;Dom4j;dom4j.sourceforge.net/", "sp": "org/dom4j/dom", "bh": 493448, "btc": 228, "btn": 38, "pn": "org/dom4j"}
 {"dn": 660, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/collections/d", "bh": 274407, "btc": 226, "btn": 38, "pn": "org/apache/commons"}
 {"dn": 140, "lib": "", "sp": "org/oscim/tiling/source/mapfile", "bh": 183537, "btc": 226, "btn": 38}
-{"dn": 224, "lib": "", "sp": "com/coremedia/iso/gui/hex", "bh": 994688, "btc": 222, "btn": 38}
+{"dn": 224, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/gui/hex", "bh": 994688, "btc": 222, "btn": 38, "pn": "com/coremedia/iso"}
 {"dn": 175, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/collections/functors", "bh": 251205, "btc": 217, "btn": 38, "pn": "org/apache/commons"}
 {"dn": 147, "lib": "", "sp": "com/nexage/android/sdks", "bh": 235343, "btc": 216, "btn": 38}
 {"dn": 121, "lib": "", "sp": "com/genie_connect/android/net/updaters", "bh": 186384, "btc": 212, "btn": 38}
@@ -19755,7 +19757,7 @@
 {"dn": 732, "lib": "", "sp": "jxl/biff/drawing", "bh": 333328, "btc": 283, "btn": 37}
 {"dn": 693, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/publish/gson/stream", "bh": 147615, "btc": 268, "btn": 37, "pn": "com/startapp"}
 {"dn": 228, "lib": "da;Google Gson;https://github.com/google/gson", "sp": "com/google/gson/stream", "bh": 146983, "btc": 267, "btn": 37, "pn": "com/google/gson"}
-{"dn": 109, "lib": "", "sp": "com/googlecode/mp4parser/boxes/apple", "bh": 827853, "btc": 265, "btn": 37}
+{"dn": 109, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/apple", "bh": 827853, "btc": 265, "btn": 37, "pn": "com/googlecode/mp4parser"}
 {"dn": 3791, "lib": "ad;StartApp;www.startapp.com/", "sp": "com/startapp/publish/gson/stream", "bh": 147069, "btc": 247, "btn": 37, "pn": "com/startapp"}
 {"dn": 4754, "lib": "da;Google Gson;https://github.com/google/gson", "sp": "com/google/gson/stream", "bh": 146437, "btc": 246, "btn": 37, "pn": "com/google/gson"}
 {"dn": 3239, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/storage", "bh": 671258, "btc": 243, "btn": 37, "pn": "com/biznessapps"}
@@ -19850,7 +19852,7 @@
 {"dn": 111, "lib": "", "sp": "com/taiwanmobile/pt/util/location", "bh": 170471, "btc": 106, "btn": 37}
 {"dn": 144, "lib": "da;Google GData;code.google.com/p/google-gdata/", "sp": "com/google/gdata/util/common/xml", "bh": 227353, "btc": 105, "btn": 37, "pn": "com/google/gdata"}
 {"dn": 284, "lib": "da;ksoap2;ksoap2.sourceforge.net/", "sp": "org/ksoap2/servlet", "bh": 658961, "btc": 104, "btn": 37, "pn": "org/ksoap2"}
-{"dn": 113, "lib": "", "sp": "com/coremedia/iso/boxes/apple", "bh": 218882, "btc": 104, "btn": 37}
+{"dn": 113, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/apple", "bh": 218882, "btc": 104, "btn": 37, "pn": "com/coremedia/iso"}
 {"dn": 1812, "lib": "", "sp": "com/google/common/escape", "bh": 148120, "btc": 102, "btn": 37}
 {"dn": 102, "lib": "", "sp": "com/bea/xml/stream/reader", "bh": 409096, "btc": 101, "btn": 37}
 {"dn": 655, "lib": "", "sp": "com/google/maps/android/heatmaps", "bh": 228774, "btc": 99, "btn": 37}
@@ -20273,7 +20275,7 @@
 {"dn": 157, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games", "bh": 168052, "btc": 133, "btn": 35, "pn": "com/google/android/gms"}
 {"dn": 2123, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson/databind/ser/impl", "bh": 134338, "btc": 133, "btn": 35, "pn": "com/fasterxml"}
 {"dn": 356, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games/multiplayer", "bh": 118856, "btc": 131, "btn": 35, "pn": "com/google/android/gms"}
-{"dn": 265, "lib": "", "sp": "com/googlecode/mp4parser/boxes/piff", "bh": 206112, "btc": 130, "btn": 35}
+{"dn": 265, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/piff", "bh": 206112, "btc": 130, "btn": 35, "pn": "com/googlecode/mp4parser"}
 {"dn": 220, "lib": "", "sp": "reader/adapters", "bh": 116911, "btc": 129, "btn": 35}
 {"dn": 109, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games/multiplayer", "bh": 149809, "btc": 128, "btn": 35, "pn": "com/google/android/gms"}
 {"dn": 810, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing/g", "bh": 154123, "btc": 127, "btn": 35, "pn": "com/google/zxing"}
@@ -20515,7 +20517,7 @@
 {"dn": 165, "lib": "", "sp": "org/bouncycastle/asn1/eac", "bh": 181582, "btc": 163, "btn": 34}
 {"dn": 107, "lib": "da;Codehaus;www.codehaus.org/", "sp": "com/flurry/org/codehaus/jackson/map/jsontype/impl", "bh": 129023, "btc": 163, "btn": 34, "pn": "org/codehaus"}
 {"dn": 597, "lib": "", "sp": "com/brightcove/player/model", "bh": 132111, "btc": 161, "btn": 34}
-{"dn": 274, "lib": "", "sp": "com/googlecode/mp4parser/boxes/mp4/samplegrouping", "bh": 427630, "btc": 158, "btn": 34}
+{"dn": 274, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/mp4/samplegrouping", "bh": 427630, "btc": 158, "btn": 34, "pn": "com/googlecode/mp4parser"}
 {"dn": 5394, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games/multiplayer", "bh": 160648, "btc": 158, "btn": 34, "pn": "com/google/android/gms"}
 {"dn": 355, "lib": "", "sp": "com/texterity/android/HorseIllustrated/touch", "bh": 436656, "btc": 153, "btn": 34}
 {"dn": 757, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/misc", "bh": 258293, "btc": 151, "btn": 34, "pn": "com/j256"}
@@ -20542,7 +20544,7 @@
 {"dn": 7262, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/d", "bh": 203486, "btc": 131, "btn": 34, "pn": "com/google/android/gms"}
 {"dn": 1316, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/ui", "bh": 181127, "btc": 131, "btn": 34, "pn": "org/andengine"}
 {"dn": 1258, "lib": "ad;adsmogo;www.adsmogo.com/", "sp": "com/adsmogo/encryption", "bh": 336936, "btc": 130, "btn": 34, "pn": "com/adsmogo"}
-{"dn": 199, "lib": "", "sp": "com/googlecode/mp4parser/boxes/piff", "bh": 202684, "btc": 129, "btn": 34}
+{"dn": 199, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/piff", "bh": 202684, "btc": 129, "btn": 34, "pn": "com/googlecode/mp4parser"}
 {"dn": 172, "lib": "", "sp": "com/gamesalad/player", "bh": 181956, "btc": 128, "btn": 34}
 {"dn": 425, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/auth", "bh": 203382, "btc": 127, "btn": 34, "pn": "com/google/android/gms"}
 {"dn": 900, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games", "bh": 149202, "btc": 127, "btn": 34, "pn": "com/google/android/gms"}
@@ -20797,7 +20799,7 @@
 {"dn": 133, "lib": "", "sp": "com/brightcove/player/controller", "bh": 195123, "btc": 157, "btn": 33}
 {"dn": 139, "lib": "da;Appmakr;https://www.appmakr.com/", "sp": "com/appmakr/app147109/feed/reader", "bh": 653076, "btc": 156, "btn": 33, "pn": "com/appmakr"}
 {"dn": 3569, "lib": "ad;Inmobi;http://inmobi.com", "sp": "com/inmobi/commons/thinICE/icedatacollector", "bh": 108665, "btc": 156, "btn": 33, "pn": "com/inmobi"}
-{"dn": 204, "lib": "", "sp": "com/googlecode/mp4parser/boxes/mp4/samplegrouping", "bh": 410939, "btc": 155, "btn": 33}
+{"dn": 204, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/mp4/samplegrouping", "bh": 410939, "btc": 155, "btn": 33, "pn": "com/googlecode/mp4parser"}
 {"dn": 322, "lib": "", "sp": "com/airkast/tunekast3/modules", "bh": 133386, "btc": 152, "btn": 33}
 {"dn": 4245, "lib": "da;Kawa for Android;https://www.gnu.org/software/kawa/Building-for-Android.html", "sp": "com/wMawaKawaVideoApps/plugins/omegle/core", "bh": 196135, "btc": 150, "btn": 33, "pn": "kawa"}
 {"dn": 325, "lib": "", "sp": "org/apache/thrift/protocol", "bh": 211984, "btc": 145, "btn": 33}
@@ -21126,7 +21128,7 @@
 {"dn": 146, "lib": "", "sp": "com/google/android/c2dm", "bh": 151241, "btc": 89, "btn": 32}
 {"dn": 141, "lib": "ui;urbanairship;https://www.urbanairship.com/", "sp": "com/urbanairship/google", "bh": 115207, "btc": 89, "btn": 32, "pn": "com/urbanairship"}
 {"dn": 146, "lib": "", "sp": "com/doitflash/packagemanager", "bh": 108400, "btc": 89, "btn": 32}
-{"dn": 336, "lib": "", "sp": "com/googlecode/mp4parser/h264", "bh": 142124, "btc": 87, "btn": 32}
+{"dn": 336, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/h264", "bh": 142124, "btc": 87, "btn": 32, "pn": "com/googlecode/mp4parser"}
 {"dn": 2704, "lib": "ad;Applovin;https://www.applovin.com/", "sp": "com/applovin/sdk", "bh": 86329, "btc": 86, "btn": 32, "pn": "com/applovin"}
 {"dn": 217, "lib": "ui;urbanairship;https://www.urbanairship.com/", "sp": "com/urbanairship/push/c2dm", "bh": 108026, "btc": 85, "btn": 32, "pn": "com/urbanairship"}
 {"dn": 156, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/input", "bh": 288551, "btc": 83, "btn": 32, "pn": "com/badlogic"}
@@ -21265,7 +21267,7 @@
 {"dn": 311, "lib": "", "sp": "com/nd/android/pandareader/common/b", "bh": 292000, "btc": 226, "btn": 31}
 {"dn": 128, "lib": "", "sp": "com/nd/android/pandareader/common/a", "bh": 281225, "btc": 225, "btn": 31}
 {"dn": 377, "lib": "da;Apache James Mail Enterprise Serve;http://james.apache.org", "sp": "org/apache/james/mime4j/field/contenttype/parser", "bh": 508622, "btc": 213, "btn": 31, "pn": "org/apache/james"}
-{"dn": 351, "lib": "", "sp": "org/joda/time/convert", "bh": 669368, "btc": 205, "btn": 31}
+{"dn": 351, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/convert", "bh": 669368, "btc": 205, "btn": 31, "pn": "org/joda/time"}
 {"dn": 121, "lib": "da;Apache James Mail Enterprise Serve;http://james.apache.org", "sp": "org/apache/james/mime4j/c/a", "bh": 267219, "btc": 196, "btn": 31, "pn": "org/apache/james"}
 {"dn": 356, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/maps", "bh": 261696, "btc": 194, "btn": 31, "pn": "com/google/android/gms"}
 {"dn": 115, "lib": "", "sp": "ch/qos/logback/core/pattern/parser", "bh": 197990, "btc": 190, "btn": 31}
@@ -21528,8 +21530,8 @@
 {"dn": 133, "lib": "", "sp": "com/xtify/asmack/com/a", "bh": 272174, "btc": 181, "btn": 30}
 {"dn": 3327, "lib": "ma;Flurry;flurry.com", "sp": "com/flurry/org/apache/avro/io/parsing", "bh": 153388, "btc": 181, "btn": 30, "pn": "com/flurry"}
 {"dn": 153, "lib": "mp;Baidu Map;lbsyun.baidu.com/", "sp": "com/baidu/mapapi/cloud", "bh": 197502, "btc": 180, "btn": 30, "pn": "com/baidu/mapapi/"}
-{"dn": 1821, "lib": "", "sp": "org/joda/time/convert", "bh": 310055, "btc": 177, "btn": 30}
-{"dn": 125, "lib": "", "sp": "org/joda/time/convert", "bh": 310049, "btc": 177, "btn": 30}
+{"dn": 1821, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/convert", "bh": 310055, "btc": 177, "btn": 30, "pn": "org/joda/time"}
+{"dn": 125, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/convert", "bh": 310049, "btc": 177, "btn": 30, "pn": "org/joda/time"}
 {"dn": 224, "lib": "", "sp": "com/vividsolutions/jts/triangulate/quadedge", "bh": 250404, "btc": 176, "btn": 30}
 {"dn": 114, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/assets", "bh": 172623, "btc": 176, "btn": 30, "pn": "com/badlogic"}
 {"dn": 223, "lib": "", "sp": "com/googlecode/flickrjandroid/tags", "bh": 327575, "btc": 174, "btn": 30}
@@ -21997,7 +21999,7 @@
 {"dn": 453, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/app", "bh": 200776, "btc": 38, "btn": 29, "pn": "ti/modules/titanium"}
 {"dn": 274, "lib": "", "sp": "com/foxykeep/datadroid/service", "bh": 73926, "btc": 38, "btn": 29}
 {"dn": 146, "lib": "ad;Revmob;https://www.revmobmobileadnetwork.com/", "sp": "com/revmob/ads/banner", "bh": 77640, "btc": 37, "btn": 29, "pn": "com/revmob"}
-{"dn": 154, "lib": "", "sp": "com/coremedia/iso/boxes/mdat", "bh": 81603, "btc": 36, "btn": 29}
+{"dn": 154, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/mdat", "bh": 81603, "btc": 36, "btn": 29, "pn": "com/coremedia/iso"}
 {"dn": 460, "lib": "ut;Nostra13 Image Loading;https://github.com/nostra13/Android-Universal-Image-Loader", "sp": "com/nostra13/universalimageloader/b", "bh": 75141, "btc": 36, "btn": 29, "pn": "com/nostra13"}
 {"dn": 2549, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/app", "bh": 180955, "btc": 35, "btn": 29, "pn": "ti/modules/titanium"}
 {"dn": 243, "lib": "", "sp": "com/kitapps/android/ui/widget/dropDownMenu", "bh": 96019, "btc": 35, "btn": 29}
@@ -22273,8 +22275,8 @@
 {"dn": 173, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/codec_1_9/net", "bh": 313381, "btc": 190, "btn": 27, "pn": "org/apache/commons"}
 {"dn": 111, "lib": "", "sp": "RunLoop", "bh": 202979, "btc": 189, "btn": 27}
 {"dn": 883, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/types", "bh": 79652, "btc": 183, "btn": 27, "pn": "org/cocos2d"}
-{"dn": 3527, "lib": "", "sp": "org/joda/time/convert", "bh": 291424, "btc": 180, "btn": 27}
-{"dn": 247, "lib": "", "sp": "org/joda/time/convert", "bh": 291418, "btc": 180, "btn": 27}
+{"dn": 3527, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/convert", "bh": 291424, "btc": 180, "btn": 27, "pn": "org/joda/time"}
+{"dn": 247, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/convert", "bh": 291418, "btc": 180, "btn": 27, "pn": "org/joda/time"}
 {"dn": 144, "lib": "", "sp": "com/cutix/wallcp/api", "bh": 191392, "btc": 180, "btn": 27}
 {"dn": 2027, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/types", "bh": 67103, "btc": 177, "btn": 27, "pn": "org/cocos2d"}
 {"dn": 198, "lib": "", "sp": "net/sf/antcontrib/antclipse", "bh": 754806, "btc": 166, "btn": 27}
@@ -22513,7 +22515,7 @@
 {"dn": 2276, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/app", "bh": 173596, "btc": 33, "btn": 27, "pn": "ti/modules/titanium"}
 {"dn": 159, "lib": "da;Signpost Oauth;https://code.google.com/p/oauth-signpost/", "sp": "oauth/signpost/commonshttp", "bh": 89796, "btc": 33, "btn": 27, "pn": "oauth/signpost"}
 {"dn": 582, "lib": "", "sp": "com/google/api/client/json/gson", "bh": 80765, "btc": 33, "btn": 27}
-{"dn": 201, "lib": "", "sp": "com/coremedia/iso/boxes/mdat", "bh": 72418, "btc": 33, "btn": 27}
+{"dn": 201, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/mdat", "bh": 72418, "btc": 33, "btn": 27, "pn": "com/coremedia/iso"}
 {"dn": 428, "lib": "", "sp": "net/sf/jtpl", "bh": 62393, "btc": 33, "btn": 27}
 {"dn": 4987, "lib": "ut;Nostra13 Image Loading;https://github.com/nostra13/Android-Universal-Image-Loader", "sp": "com/nostra13/universalimageloader/core/b", "bh": 150450, "btc": 32, "btn": 27, "pn": "com/nostra13"}
 {"dn": 166, "lib": "ut;Nostra13 Image Loading;https://github.com/nostra13/Android-Universal-Image-Loader", "sp": "com/nostra13/universalimageloader/core/display", "bh": 150445, "btc": 32, "btn": 27, "pn": "com/nostra13"}
@@ -22934,7 +22936,7 @@
 {"dn": 102, "lib": "pa;Bump pay;", "sp": "com/bumptech/glide/gifencoder", "bh": 134926, "btc": 59, "btn": 25, "pn": "com/bump"}
 {"dn": 570, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/metadata", "bh": 74223, "btc": 59, "btn": 25, "pn": "com/google/android/gms"}
 {"dn": 4679, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/g/c", "bh": 96463, "btc": 58, "btn": 25, "pn": "org/andengine"}
-{"dn": 442, "lib": "", "sp": "com/chartboost/plugin/air", "bh": 86395, "btc": 58, "btn": 25}
+{"dn": 442, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/plugin/air", "bh": 86395, "btc": 58, "btn": 25, "pn": "com/chartboost"}
 {"dn": 5919, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/conn/params", "bh": 778995, "btc": 57, "btn": 25, "pn": "org/apache/http"}
 {"dn": 119, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/conn/params", "bh": 778962, "btc": 57, "btn": 25, "pn": "org/apache/http"}
 {"dn": 8611, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/entity/mime/content", "bh": 195754, "btc": 57, "btn": 25, "pn": "org/apache/http"}
@@ -23087,8 +23089,8 @@
 {"dn": 4343, "lib": "da;ACRA;", "sp": "org/acra/sender", "bh": 96664, "btc": 118, "btn": 24, "pn": "org/acra"}
 {"dn": 166, "lib": "", "sp": "com/nexage/android/sdkmanager", "bh": 117542, "btc": 116, "btn": 24}
 {"dn": 561, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games", "bh": 120205, "btc": 115, "btn": 24, "pn": "com/google/android/gms"}
-{"dn": 5354, "lib": "", "sp": "org/joda/time/base", "bh": 109048, "btc": 115, "btn": 24}
-{"dn": 373, "lib": "", "sp": "org/joda/time/base", "bh": 109046, "btc": 115, "btn": 24}
+{"dn": 5354, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/base", "bh": 109048, "btc": 115, "btn": 24, "pn": "org/joda/time"}
+{"dn": 373, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/base", "bh": 109046, "btc": 115, "btn": 24, "pn": "org/joda/time"}
 {"dn": 106, "lib": "", "sp": "com/musicg/math", "bh": 216882, "btc": 114, "btn": 24}
 {"dn": 118, "lib": "", "sp": "org/krysalis/barcode4j/output/svg", "bh": 939325, "btc": 112, "btn": 24}
 {"dn": 440, "lib": "da;ACRA;", "sp": "org/acra/c", "bh": 93194, "btc": 112, "btn": 24, "pn": "org/acra"}
@@ -23097,7 +23099,7 @@
 {"dn": 1343, "lib": "", "sp": "org/achartengine/model", "bh": 241470, "btc": 108, "btn": 24}
 {"dn": 116, "lib": "", "sp": "org/achartengine/model", "bh": 241466, "btc": 108, "btn": 24}
 {"dn": 190, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/net/util", "bh": 115425, "btc": 108, "btn": 24, "pn": "org/apache/commons"}
-{"dn": 124, "lib": "", "sp": "org/joda/time/base", "bh": 108866, "btc": 108, "btn": 24}
+{"dn": 124, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/base", "bh": 108866, "btc": 108, "btn": 24, "pn": "org/joda/time"}
 {"dn": 125, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/events", "bh": 105282, "btc": 106, "btn": 24, "pn": "org/cocos2d"}
 {"dn": 111, "lib": "", "sp": "repack/org/bouncycastle/x509/examples", "bh": 351630, "btc": 105, "btn": 24}
 {"dn": 1367, "lib": "", "sp": "com/drew/metadata/xmp", "bh": 104651, "btc": 105, "btn": 24}
@@ -23672,7 +23674,7 @@
 {"dn": 133, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/javax/xml/stream/c", "bh": 107386, "btc": 72, "btn": 22, "pn": "com/amazonaws"}
 {"dn": 589, "lib": "", "sp": "com/scringo/events", "bh": 88001, "btc": 72, "btn": 22}
 {"dn": 7533, "lib": "ma;Flurry;flurry.com", "sp": "com/flurry/android", "bh": 48726, "btc": 72, "btn": 22, "pn": "com/flurry"}
-{"dn": 129, "lib": "", "sp": "com/coremedia/iso/gui/transferhelper", "bh": 812631, "btc": 71, "btn": 22}
+{"dn": 129, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/gui/transferhelper", "bh": 812631, "btc": 71, "btn": 22, "pn": "com/coremedia/iso"}
 {"dn": 539, "lib": "da;javax;", "sp": "com/apache/harmony/javax/security/auth/login", "bh": 406625, "btc": 71, "btn": 22, "pn": "javax"}
 {"dn": 3047, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/javax/xml/stream/xerces/impl", "bh": 320396, "btc": 71, "btn": 22, "pn": "com/amazonaws"}
 {"dn": 185, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/javax/xml/stream/xerces/impl", "bh": 320390, "btc": 71, "btn": 22, "pn": "com/amazonaws"}
@@ -23897,8 +23899,8 @@
 {"dn": 103, "lib": "", "sp": "org/bingmaps/rest/models", "bh": 354428, "btc": 148, "btn": 21}
 {"dn": 110, "lib": "", "sp": "com/twitterapime/search/handler", "bh": 350640, "btc": 145, "btn": 21}
 {"dn": 617, "lib": "", "sp": "com/zafaralam/xmlparser", "bh": 503143, "btc": 144, "btn": 21}
-{"dn": 130, "lib": "", "sp": "com/coremedia/iso/boxes/sampleentry", "bh": 454981, "btc": 144, "btn": 21}
-{"dn": 199, "lib": "", "sp": "com/coremedia/iso/boxes/sampleentry", "bh": 454979, "btc": 142, "btn": 21}
+{"dn": 130, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/sampleentry", "bh": 454981, "btc": 144, "btn": 21, "pn": "com/coremedia/iso"}
+{"dn": 199, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/sampleentry", "bh": 454979, "btc": 142, "btn": 21, "pn": "com/coremedia/iso"}
 {"dn": 126, "lib": "", "sp": "com/vungle/publisher/location", "bh": 128786, "btc": 142, "btn": 21}
 {"dn": 234, "lib": "", "sp": "com/sappsuma/salonapps/lovablelocks/adapter", "bh": 174373, "btc": 138, "btn": 21}
 {"dn": 157, "lib": "da;Mozilla;https://www.mozilla.org/", "sp": "org/mozilla/classfile", "bh": 81594, "btc": 134, "btn": 21, "pn": "org/mozilla"}
@@ -24171,11 +24173,11 @@
 {"dn": 1007, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/mapped", "bh": 270195, "btc": 184, "btn": 20, "pn": "com/j256"}
 {"dn": 107, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/mapped", "bh": 270184, "btc": 184, "btn": 20, "pn": "com/j256"}
 {"dn": 647, "lib": "", "sp": "org/bouncycastle/crypto/modes", "bh": 495382, "btc": 174, "btn": 20}
-{"dn": 107, "lib": "", "sp": "com/coremedia/iso/boxes/fragment", "bh": 110936, "btc": 172, "btn": 20}
+{"dn": 107, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/fragment", "bh": 110936, "btc": 172, "btn": 20, "pn": "com/coremedia/iso"}
 {"dn": 691, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/app/properties", "bh": 69785, "btc": 171, "btn": 20, "pn": "ti/modules/titanium"}
 {"dn": 272, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/mapped", "bh": 269805, "btc": 169, "btn": 20, "pn": "com/j256"}
-{"dn": 176, "lib": "", "sp": "com/coremedia/iso/boxes/fragment", "bh": 99895, "btc": 164, "btn": 20}
-{"dn": 201, "lib": "", "sp": "com/coremedia/iso/boxes/fragment", "bh": 99893, "btc": 162, "btn": 20}
+{"dn": 176, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/fragment", "bh": 99895, "btc": 164, "btn": 20, "pn": "com/coremedia/iso"}
+{"dn": 201, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/fragment", "bh": 99893, "btc": 162, "btn": 20, "pn": "com/coremedia/iso"}
 {"dn": 347, "lib": "ut;Esoteric Software 2D;https://github.com/EsotericSoftware", "sp": "com/esotericsoftware/tablelayout", "bh": 169916, "btc": 156, "btn": 20, "pn": "com/esotericsoftware"}
 {"dn": 249, "lib": "ut;Esoteric Software 2D;https://github.com/EsotericSoftware", "sp": "com/esotericsoftware/tablelayout", "bh": 167673, "btc": 152, "btn": 20, "pn": "com/esotericsoftware"}
 {"dn": 516, "lib": "", "sp": "eu/alebianco/air/extensions/analytics/functions", "bh": 290442, "btc": 150, "btn": 20}
@@ -24209,7 +24211,7 @@
 {"dn": 369, "lib": "", "sp": "org/yaml/snakeyaml/parser", "bh": 57891, "btc": 103, "btn": 20}
 {"dn": 7957, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j/internal/logging", "bh": 304010, "btc": 102, "btn": 20, "pn": "twitter4j"}
 {"dn": 164, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j/internal/logging", "bh": 304008, "btc": 102, "btn": 20, "pn": "twitter4j"}
-{"dn": 5123, "lib": "ut;Tapit;Tapit NFC\u6280\u672f", "sp": "com/tapit/adview/a", "bh": 72467, "btc": 102, "btn": 20, "pn": "com/tapit"}
+{"dn": 5123, "lib": "ut;Tapit NFC\u6280\u672f;", "sp": "com/tapit/adview/a", "bh": 72467, "btc": 102, "btn": 20, "pn": "com/tapit"}
 {"dn": 788, "lib": "", "sp": "com/qualcomm/vuforia", "bh": 117009, "btc": 100, "btn": 20}
 {"dn": 374, "lib": "sn;Twitter;twitter4j.org/", "sp": "twitter4j/internal/logging", "bh": 296427, "btc": 99, "btn": 20, "pn": "twitter4j"}
 {"dn": 118, "lib": "", "sp": "org/krysalis/barcode4j/impl/code39", "bh": 239672, "btc": 99, "btn": 20}
@@ -24259,6 +24261,7 @@
 {"dn": 325, "lib": "da;Apache Common;https://commons.apache.org/", "sp": "org/apache/commons/codec/binary", "bh": 96802, "btc": 61, "btn": 20, "pn": "org/apache/commons"}
 {"dn": 205, "lib": "da;newrelic;newrelic.com/", "sp": "com/newrelic/agent/android/measurement/consumer", "bh": 84638, "btc": 61, "btn": 20, "pn": "com/newrelic"}
 {"dn": 134, "lib": "", "sp": "com/rjfun/cordova/plugin", "bh": 108208, "btc": 60, "btn": 20}
+{"dn": 185, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/convert", "bh": 87020, "btc": 60, "btn": 20, "pn": "org/joda/time"}
 {"dn": 493, "lib": "", "sp": "ch/qos/logback/classic/turbo", "bh": 46281, "btc": 60, "btn": 20}
 {"dn": 287, "lib": "da;Codehaus;www.codehaus.org/", "sp": "com/flurry/org/codehaus/jackson/map/e/a", "bh": 21206, "btc": 60, "btn": 20, "pn": "org/codehaus"}
 {"dn": 107, "lib": "", "sp": "uk/co/jasonfry/android/tools/widget", "bh": 155544, "btc": 59, "btn": 20}
@@ -24483,7 +24486,7 @@
 {"dn": 251, "lib": "", "sp": "org/spongycastle/tsp/cms", "bh": 77726, "btc": 113, "btn": 19}
 {"dn": 123, "lib": "", "sp": "com/activeandroid/query", "bh": 42476, "btc": 113, "btn": 19}
 {"dn": 565, "lib": "", "sp": "com/tmoney/aidl", "bh": 309996, "btc": 112, "btn": 19}
-{"dn": 378, "lib": "", "sp": "org/joda/time/base", "bh": 179711, "btc": 108, "btn": 19}
+{"dn": 378, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/base", "bh": 179711, "btc": 108, "btn": 19, "pn": "org/joda/time"}
 {"dn": 1065, "lib": "ma;Google Analytics;https://www.google.com/analytics/", "sp": "com/google/analytics/midtier/proto/containertag", "bh": 216738, "btc": 106, "btn": 19, "pn": "com/google/analytics"}
 {"dn": 156, "lib": "pa;Alipay;https://dev.alipay.com/", "sp": "com/alipay/android/app", "bh": 336197, "btc": 104, "btn": 19, "pn": "com/alipay"}
 {"dn": 246, "lib": "", "sp": "rajawali/math", "bh": 183322, "btc": 103, "btn": 19}
@@ -24730,15 +24733,15 @@
 {"dn": 1073, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing1/oned/rss/expanded/decoders", "bh": 133849, "btc": 268, "btn": 18, "pn": "com/google/zxing"}
 {"dn": 11726, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/fitness/c", "bh": 231655, "btc": 190, "btn": 18, "pn": "com/google/android/gms"}
 {"dn": 491, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/fitness/result", "bh": 231473, "btc": 183, "btn": 18, "pn": "com/google/android/gms"}
-{"dn": 376, "lib": "", "sp": "org/joda/time/field", "bh": 164270, "btc": 178, "btn": 18}
+{"dn": 376, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/field", "bh": 164270, "btc": 178, "btn": 18, "pn": "org/joda/time"}
 {"dn": 109, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/mapped", "bh": 254312, "btc": 171, "btn": 18, "pn": "com/j256"}
-{"dn": 3156, "lib": "", "sp": "org/joda/time/field", "bh": 153162, "btc": 170, "btn": 18}
-{"dn": 216, "lib": "", "sp": "org/joda/time/field", "bh": 153153, "btc": 170, "btn": 18}
+{"dn": 3156, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/field", "bh": 153162, "btc": 170, "btn": 18, "pn": "org/joda/time"}
+{"dn": 216, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/field", "bh": 153153, "btc": 170, "btn": 18, "pn": "org/joda/time"}
 {"dn": 838, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/mapped", "bh": 252783, "btc": 168, "btn": 18, "pn": "com/j256"}
 {"dn": 217, "lib": "sn;Tencent Login;wiki.open.qq.com/wiki/mobile/Android_SDK", "sp": "com/tencent/tauth/http/RequestListenerImpl", "bh": 435917, "btc": 166, "btn": 18, "pn": "com/tencent/tauth"}
-{"dn": 1812, "lib": "", "sp": "org/joda/time/field", "bh": 142260, "btc": 163, "btn": 18}
-{"dn": 125, "lib": "", "sp": "org/joda/time/field", "bh": 142252, "btc": 163, "btn": 18}
-{"dn": 352, "lib": "", "sp": "org/joda/time/field", "bh": 376086, "btc": 160, "btn": 18}
+{"dn": 1812, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/field", "bh": 142260, "btc": 163, "btn": 18, "pn": "org/joda/time"}
+{"dn": 125, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/field", "bh": 142252, "btc": 163, "btn": 18, "pn": "org/joda/time"}
+{"dn": 352, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/field", "bh": 376086, "btc": 160, "btn": 18, "pn": "org/joda/time"}
 {"dn": 131, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/mapped", "bh": 251895, "btc": 156, "btn": 18, "pn": "com/j256"}
 {"dn": 151, "lib": "", "sp": "com/firebase/client/realtime", "bh": 104202, "btc": 153, "btn": 18}
 {"dn": 142, "lib": "ut;Amazon AWS;mvnrepository.com/artifact/com.amazonaws", "sp": "com/amazonaws/javax/xml/stream/a", "bh": 353704, "btc": 152, "btn": 18, "pn": "com/amazonaws"}
@@ -24755,8 +24758,9 @@
 {"dn": 5021, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/query", "bh": 113103, "btc": 125, "btn": 18, "pn": "com/j256"}
 {"dn": 339, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/query", "bh": 113098, "btc": 125, "btn": 18, "pn": "com/j256"}
 {"dn": 127, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/stmt/query", "bh": 113077, "btc": 124, "btn": 18, "pn": "com/j256"}
+{"dn": 155, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/field", "bh": 102928, "btc": 121, "btn": 18, "pn": "org/joda/time"}
 {"dn": 131, "lib": "", "sp": "com/vungle/publisher/inject", "bh": 118836, "btc": 112, "btn": 18}
-{"dn": 233, "lib": "", "sp": "com/googlecode/mp4parser/boxes/apple", "bh": 515772, "btc": 104, "btn": 18}
+{"dn": 233, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/apple", "bh": 515772, "btc": 104, "btn": 18, "pn": "com/googlecode/mp4parser"}
 {"dn": 176, "lib": "ui;android widget;", "sp": "com/googlecode/android/widgets/DateSlider/labeler", "bh": 376868, "btc": 104, "btn": 18, "pn": "android/widget"}
 {"dn": 104, "lib": "", "sp": "org/mixare/lib/render", "bh": 243441, "btc": 104, "btn": 18}
 {"dn": 226, "lib": "", "sp": "org/mapsforge/map/rendertheme/renderinstruction", "bh": 297643, "btc": 95, "btn": 18}
@@ -25099,7 +25103,7 @@
 {"dn": 238, "lib": "", "sp": "com/saubcy/util/date", "bh": 78498, "btc": 61, "btn": 17}
 {"dn": 173, "lib": "", "sp": "com/google/android/apps/dashclock/api/internal", "bh": 182924, "btc": 60, "btn": 17}
 {"dn": 138, "lib": "", "sp": "com/smartadserver/android/library/json", "bh": 97553, "btc": 60, "btn": 17}
-{"dn": 214, "lib": "", "sp": "org/joda/time/c", "bh": 64052, "btc": 60, "btn": 17}
+{"dn": 214, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/a", "bh": 64052, "btc": 60, "btn": 17, "pn": "org/joda/time"}
 {"dn": 110, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games/internal", "bh": 56119, "btc": 60, "btn": 17, "pn": "com/google/android/gms"}
 {"dn": 799, "lib": "", "sp": "org/geometerplus/zlibrary/core/sqliteconfig", "bh": 336328, "btc": 59, "btn": 17}
 {"dn": 2451, "lib": "", "sp": "com/appmk/magazine/db", "bh": 104877, "btc": 59, "btn": 17}
@@ -25155,6 +25159,7 @@
 {"dn": 750, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/util/adt/pool", "bh": 26642, "btc": 46, "btn": 17, "pn": "org/andengine"}
 {"dn": 752, "lib": "", "sp": "com/koushikdutta/async/stream", "bh": 90164, "btc": 45, "btn": 17}
 {"dn": 291, "lib": "ui;actionbarpulltorefresh;https://github.com/chrisbanes/ActionBar-PullToRefresh", "sp": "uk/co/senab/actionbarpulltorefresh/extras/actionbarcompat", "bh": 60286, "btc": 45, "btn": 17, "pn": "uk/co/senab/actionbarpulltorefresh"}
+{"dn": 217, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/c", "bh": 59353, "btc": 45, "btn": 17, "pn": "com/googlecode/mp4parser"}
 {"dn": 549, "lib": "ut;Amazon;", "sp": "com/amazon/ags/c/f/i", "bh": 43079, "btc": 45, "btn": 17, "pn": "com/amazon"}
 {"dn": 119, "lib": "", "sp": "com/amax/oge/objects/behaviours", "bh": 161907, "btc": 44, "btn": 17}
 {"dn": 1534, "lib": "da;Conduit App;apps.conduit.com/", "sp": "com/conduit/app/pages/audio/data", "bh": 107487, "btc": 44, "btn": 17, "pn": "com/conduit/app"}
@@ -25176,7 +25181,7 @@
 {"dn": 240, "lib": "", "sp": "com/fancypush/pushnotifications/plugin", "bh": 67980, "btc": 38, "btn": 17}
 {"dn": 100, "lib": "", "sp": "org/jivesoftware/smackx/workgroup/ext/macros", "bh": 55698, "btc": 38, "btn": 17}
 {"dn": 103, "lib": "", "sp": "org/openintents/sensorsimulator/db", "bh": 41204, "btc": 38, "btn": 17}
-{"dn": 841, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/InPlay", "bh": 21296, "btc": 38, "btn": 17, "pn": "com/chartboost/sdk"}
+{"dn": 841, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/InPlay", "bh": 21296, "btc": 38, "btn": 17, "pn": "com/chartboost"}
 {"dn": 162, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/a", "bh": 191764, "btc": 37, "btn": 17, "pn": "android/support/v4"}
 {"dn": 153, "lib": "da;AppMachine App Generator;www.appmachine.com/", "sp": "appmachine/components", "bh": 113168, "btc": 37, "btn": 17, "pn": "appmachine"}
 {"dn": 11310, "lib": "da;Jaxen;jaxen.org/", "sp": "org/jaxen/function/ext", "bh": 90182, "btc": 37, "btn": 17, "pn": "org/jaxen"}
@@ -25379,7 +25384,7 @@
 {"dn": 471, "lib": "da;ZXing ('Zebra Crossing');https://github.com/zxing/zxing", "sp": "com/google/zxing/qrcode/detector", "bh": 224680, "btc": 78, "btn": 16, "pn": "com/google/zxing"}
 {"dn": 1146, "lib": "", "sp": "com/jayway/jsonpath/internal/filter/eval", "bh": 134405, "btc": 78, "btn": 16}
 {"dn": 331, "lib": "da;Apache Harmony;https://harmony.apache.org/", "sp": "org/apache/harmony/awt/a", "bh": 112490, "btc": 75, "btn": 16, "pn": "org/apache/harmony"}
-{"dn": 497, "lib": "", "sp": "com/coremedia/iso/boxes/h264", "bh": 106406, "btc": 75, "btn": 16}
+{"dn": 497, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/h264", "bh": 106406, "btc": 75, "btn": 16, "pn": "com/coremedia/iso"}
 {"dn": 851, "lib": "", "sp": "org/jivesoftware/smackx/bytestreams/socks5/packet", "bh": 28588, "btc": 75, "btn": 16}
 {"dn": 114, "lib": "", "sp": "com/uservoice/uservoicesdk/deflection", "bh": 91693, "btc": 74, "btn": 16}
 {"dn": 198, "lib": "", "sp": "com/aetrion/flickr/activity", "bh": 259763, "btc": 73, "btn": 16}
@@ -25512,7 +25517,7 @@
 {"dn": 123, "lib": "da;Codehaus;www.codehaus.org/", "sp": "com/flurry/org/codehaus/jackson/type", "bh": 44929, "btc": 34, "btn": 16, "pn": "org/codehaus"}
 {"dn": 396, "lib": "", "sp": "org/mapsforge/android/maps/mapgenerator/tiledownloader", "bh": 60297, "btc": 33, "btn": 16}
 {"dn": 898, "lib": "", "sp": "com/searchboxsdk/android/d", "bh": 32477, "btc": 33, "btn": 16}
-{"dn": 985, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/InPlay", "bh": 18355, "btc": 33, "btn": 16, "pn": "com/chartboost/sdk"}
+{"dn": 985, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/InPlay", "bh": 18355, "btc": 33, "btn": 16, "pn": "com/chartboost"}
 {"dn": 123, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/net", "bh": 375159, "btc": 32, "btn": 16, "pn": "android/support/v4"}
 {"dn": 111, "lib": "", "sp": "com/google/api/client/googleapis/subscriptions", "bh": 139557, "btc": 32, "btn": 16}
 {"dn": 183, "lib": "", "sp": "org/mockito/exceptions/base", "bh": 120040, "btc": 32, "btn": 16}
@@ -25852,7 +25857,7 @@
 {"dn": 365, "lib": "ui;actionbarpulltorefresh;https://github.com/chrisbanes/ActionBar-PullToRefresh", "sp": "uk/co/senab/actionbarpulltorefresh/a", "bh": 56462, "btc": 28, "btn": 15, "pn": "uk/co/senab/actionbarpulltorefresh"}
 {"dn": 169, "lib": "", "sp": "com/Tobit/android/slitte/fragments/Pro", "bh": 46779, "btc": 28, "btn": 15}
 {"dn": 140, "lib": "", "sp": "com/csipsimple/ui/prefs/cupcake", "bh": 42011, "btc": 28, "btn": 15}
-{"dn": 9508, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Analytics", "bh": 37982, "btc": 28, "btn": 15, "pn": "com/chartboost/sdk"}
+{"dn": 9508, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Analytics", "bh": 37982, "btc": 28, "btn": 15, "pn": "com/chartboost"}
 {"dn": 1128, "lib": "", "sp": "com/smaato/soma/measurements", "bh": 34723, "btc": 28, "btn": 15}
 {"dn": 375, "lib": "", "sp": "com/novoda/imageloader/core/bitmap", "bh": 106896, "btc": 27, "btn": 15}
 {"dn": 721, "lib": "ad;Adtech;www.adtech.com/", "sp": "com/adtech/mobilesdk/crypto", "bh": 98137, "btc": 27, "btn": 15, "pn": "com/adtech"}
@@ -25947,7 +25952,7 @@
 {"dn": 166, "lib": "", "sp": "tv/ouya/console/util", "bh": 28655, "btc": 18, "btn": 15}
 {"dn": 648, "lib": "ad;Google Ads;https://www.google.com/ads/", "sp": "com/google/ads/mediation/admob", "bh": 19829, "btc": 18, "btn": 15, "pn": "com/google/ads"}
 {"dn": 165, "lib": "", "sp": "io/fabric/sdk/android/services/persistence", "bh": 18804, "btc": 18, "btn": 15}
-{"dn": 196, "lib": "", "sp": "com/googlecode/mp4parser/isoviewer", "bh": 398788, "btc": 17, "btn": 15}
+{"dn": 196, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/isoviewer", "bh": 398788, "btc": 17, "btn": 15, "pn": "com/googlecode/mp4parser"}
 {"dn": 1560, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "si/mobitel/org/apache/http/impl/pool", "bh": 56160, "btc": 17, "btn": 15, "pn": "org/apache/http"}
 {"dn": 425, "lib": "", "sp": "com/widdit/lockScreenShell/tasks", "bh": 46458, "btc": 17, "btn": 15}
 {"dn": 275, "lib": "", "sp": "com/lidroid/xutils/bitmap/callback", "bh": 36852, "btc": 17, "btn": 15}
@@ -26468,9 +26473,9 @@
 {"dn": 435, "lib": "", "sp": "com/itextpdf/text/log", "bh": 30833, "btc": 31, "btn": 13}
 {"dn": 257, "lib": "", "sp": "Movements", "bh": 30646, "btc": 31, "btn": 13}
 {"dn": 257, "lib": "", "sp": "org/mockito/internal/reporting", "bh": 22475, "btc": 31, "btn": 13}
-{"dn": 336, "lib": "", "sp": "com/googlecode/mp4parser/srt", "bh": 78294, "btc": 30, "btn": 13}
+{"dn": 336, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/d", "bh": 78294, "btc": 30, "btn": 13, "pn": "com/googlecode/mp4parser"}
 {"dn": 116, "lib": "", "sp": "org/bouncycastle/crypto/encodings", "bh": 46505, "btc": 30, "btn": 13}
-{"dn": 2343, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/b", "bh": 30679, "btc": 30, "btn": 13, "pn": "com/chartboost/sdk"}
+{"dn": 2343, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/b", "bh": 30679, "btc": 30, "btn": 13, "pn": "com/chartboost"}
 {"dn": 1761, "lib": "da;Codehaus;www.codehaus.org/", "sp": "org/codehaus/jackson/map/module", "bh": 24937, "btc": 30, "btn": 13, "pn": "org/codehaus"}
 {"dn": 105, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/c", "bh": 437465, "btc": 29, "btn": 13, "pn": "android/support/v4"}
 {"dn": 26254, "lib": "ad;Inmobi;http://inmobi.com", "sp": "com/inmobi/androidsdk/impl/a", "bh": 110287, "btc": 29, "btn": 13, "pn": "com/inmobi"}
@@ -26541,8 +26546,8 @@
 {"dn": 338, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/ads/mediation", "bh": 32891, "btc": 23, "btn": 13, "pn": "com/google/android/gms"}
 {"dn": 124, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/anddev/andengine/opengl/b", "bh": 31587, "btc": 23, "btn": 13, "pn": "org/anddev/andengine"}
 {"dn": 118, "lib": "", "sp": "com/cks", "bh": 28677, "btc": 23, "btn": 13}
-{"dn": 1061, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/a", "bh": 26214, "btc": 23, "btn": 13, "pn": "com/chartboost/sdk"}
-{"dn": 395, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/b", "bh": 24459, "btc": 23, "btn": 13, "pn": "com/chartboost/sdk"}
+{"dn": 1061, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/a", "bh": 26214, "btc": 23, "btn": 13, "pn": "com/chartboost"}
+{"dn": 395, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/b", "bh": 24459, "btc": 23, "btn": 13, "pn": "com/chartboost"}
 {"dn": 101, "lib": "ad;Adtech;www.adtech.com/", "sp": "com/adtech/mobilesdk/publisher/compatibility", "bh": 23267, "btc": 23, "btn": 13, "pn": "com/adtech"}
 {"dn": 218, "lib": "", "sp": "com/widdit/lockScreen/service", "bh": 21949, "btc": 23, "btn": 13}
 {"dn": 151, "lib": "", "sp": "com/nd/android/pandareader/zone/d", "bh": 16617, "btc": 23, "btn": 13}
@@ -26620,7 +26625,7 @@
 {"dn": 156, "lib": "", "sp": "com/visiolink/reader/view/animation", "bh": 83380, "btc": 17, "btn": 13}
 {"dn": 113, "lib": "da;crowdcompass;www.crowdcompass.com/", "sp": "com/crowdcompass/appbriMEsLHiQ/client/eventdirectory/view", "bh": 51707, "btc": 17, "btn": 13, "pn": "com/crowdcompass"}
 {"dn": 241, "lib": "", "sp": "org/afree/data/category", "bh": 28995, "btc": 17, "btn": 13}
-{"dn": 128, "lib": "", "sp": "net/hockeyapp/android/adapters", "bh": 23780, "btc": 17, "btn": 13}
+{"dn": 128, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/a", "bh": 23780, "btc": 17, "btn": 13, "pn": "net/hockeyapp/android"}
 {"dn": 204, "lib": "", "sp": "com/db4o/internal/convert", "bh": 16233, "btc": 17, "btn": 13}
 {"dn": 3305, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/utils/pool", "bh": 12111, "btc": 17, "btn": 13, "pn": "org/cocos2d"}
 {"dn": 526, "lib": "", "sp": "com/nd/unrar", "bh": 10388, "btc": 17, "btn": 13}
@@ -26666,7 +26671,7 @@
 {"dn": 629, "lib": "", "sp": "com/chute/photopickerplustutorial/a", "bh": 22901, "btc": 13, "btn": 13}
 {"dn": 334, "lib": "", "sp": "org/apache/poi/hssf/record/chart", "bh": 700490, "btc": 1445, "btn": 12}
 {"dn": 702, "lib": "", "sp": "com/easy/facebook/android/data", "bh": 750445, "btc": 1331, "btn": 12}
-{"dn": 246, "lib": "", "sp": "com/googlecode/mp4parser/h264/model", "bh": 48168, "btc": 298, "btn": 12}
+{"dn": 246, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/h264/model", "bh": 48168, "btc": 298, "btn": 12, "pn": "com/googlecode/mp4parser"}
 {"dn": 638, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/internal", "bh": 309639, "btc": 280, "btn": 12, "pn": "com/google/android/gms"}
 {"dn": 120, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/extension/ui/livewallpaper", "bh": 268623, "btc": 257, "btn": 12, "pn": "org/andengine"}
 {"dn": 969, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/e/b", "bh": 268034, "btc": 254, "btn": 12, "pn": "org/andengine"}
@@ -26730,7 +26735,7 @@
 {"dn": 6461, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/query/internal", "bh": 67085, "btc": 65, "btn": 12, "pn": "com/google/android/gms"}
 {"dn": 150, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/graphics/g3d/utils", "bh": 35211, "btc": 65, "btn": 12, "pn": "com/badlogic"}
 {"dn": 132, "lib": "", "sp": "org/jboss/netty/handler/logging", "bh": 17214, "btc": 65, "btn": 12}
-{"dn": 378, "lib": "", "sp": "com/googlecode/mp4parser/authoring/samples", "bh": 86060, "btc": 64, "btn": 12}
+{"dn": 378, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/authoring/samples", "bh": 86060, "btc": 64, "btn": 12, "pn": "com/googlecode/mp4parser"}
 {"dn": 177, "lib": "", "sp": "org/apache/sanselan/formats/tiff/constants", "bh": 133637, "btc": 63, "btn": 12}
 {"dn": 64406, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/h/e", "bh": 39280, "btc": 62, "btn": 12, "pn": "com/google/android/gms"}
 {"dn": 203, "lib": "", "sp": "com/db4o/defragment", "bh": 31157, "btc": 62, "btn": 12}
@@ -26811,17 +26816,17 @@
 {"dn": 224, "lib": "ma;Parse.com;https://parse.com/docs/cn/android/guide", "sp": "com/parse/codec/binary", "bh": 11819, "btc": 34, "btn": 12, "pn": "com/parse"}
 {"dn": 440, "lib": "da;Vercoop;www.vercoop.com/", "sp": "com/vercoop/receiver", "bh": 74074, "btc": 33, "btn": 12, "pn": "com/vercoop"}
 {"dn": 209, "lib": "da;Appmakr;https://www.appmakr.com/", "sp": "com/appmakr/app147109/feed/handler", "bh": 65916, "btc": 33, "btn": 12, "pn": "com/appmakr"}
-{"dn": 947, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Analytics", "bh": 45372, "btc": 33, "btn": 12, "pn": "com/chartboost/sdk"}
+{"dn": 947, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Analytics", "bh": 45372, "btc": 33, "btn": 12, "pn": "com/chartboost"}
 {"dn": 418, "lib": "", "sp": "com/ad_stir/icon", "bh": 33387, "btc": 33, "btn": 12}
 {"dn": 613, "lib": "", "sp": "com/google/api/client/http/json", "bh": 27860, "btc": 33, "btn": 12}
 {"dn": 257, "lib": "", "sp": "com/munets/android/io", "bh": 107222, "btc": 32, "btn": 12}
 {"dn": 273, "lib": "", "sp": "net/daum/adam/publisher/impl/receiver", "bh": 59645, "btc": 32, "btn": 12}
 {"dn": 161, "lib": "da;Google GData;code.google.com/p/google-gdata/", "sp": "com/google/gdata/data/threading", "bh": 28414, "btc": 32, "btn": 12, "pn": "com/google/gdata"}
-{"dn": 337, "lib": "", "sp": "com/googlecode/mp4parser/h264/read", "bh": 25197, "btc": 32, "btn": 12}
+{"dn": 337, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/h264/read", "bh": 25197, "btc": 32, "btn": 12, "pn": "com/googlecode/mp4parser"}
 {"dn": 288, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/a", "bh": 82562, "btc": 31, "btn": 12, "pn": "android/support/v4"}
 {"dn": 279, "lib": "", "sp": "com/googlecode/flickrjandroid/commons", "bh": 71411, "btc": 31, "btn": 12}
 {"dn": 671, "lib": "", "sp": "com/google/maps/android/quadtree", "bh": 57420, "btc": 31, "btn": 12}
-{"dn": 7175, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/a", "bh": 43168, "btc": 31, "btn": 12, "pn": "com/chartboost/sdk"}
+{"dn": 7175, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/a", "bh": 43168, "btc": 31, "btn": 12, "pn": "com/chartboost"}
 {"dn": 242, "lib": "ui;SlidingMenu;https://github.com/jfeinstein10/SlidingMenu", "sp": "com/slidingmenu/lib/app", "bh": 35272, "btc": 31, "btn": 12, "pn": "com/slidingmenu"}
 {"dn": 6366, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games/internal/request", "bh": 24773, "btc": 31, "btn": 12, "pn": "com/google/android/gms"}
 {"dn": 169, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson/databind/c", "bh": 18302, "btc": 31, "btn": 12, "pn": "com/fasterxml"}
@@ -26917,7 +26922,7 @@
 {"dn": 6516, "lib": "da;Authorize.NET;www.authorize.net/", "sp": "net/authorize/data/creditcard", "bh": 28945, "btc": 20, "btn": 12, "pn": "net/authorize"}
 {"dn": 277, "lib": "da;subsplash;www.subsplash.com/", "sp": "com/subsplash/thechurchapp/handlers/system", "bh": 24582, "btc": 20, "btn": 12, "pn": "com/subsplash"}
 {"dn": 145, "lib": "ut;anywheresoftware;", "sp": "anywheresoftware/b4a/agraham/gestures", "bh": 23632, "btc": 20, "btn": 12, "pn": "anywheresoftware"}
-{"dn": 541, "lib": "", "sp": "com/googlecode/mp4parser/boxes/threegpp26245", "bh": 19686, "btc": 20, "btn": 12}
+{"dn": 541, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/threegpp26245", "bh": 19686, "btc": 20, "btn": 12, "pn": "com/googlecode/mp4parser"}
 {"dn": 3843, "lib": "", "sp": "com/tapcontext/analytics/util", "bh": 18533, "btc": 20, "btn": 12}
 {"dn": 327, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/input/touch/controller", "bh": 6889, "btc": 20, "btn": 12, "pn": "org/andengine"}
 {"dn": 732, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/e/a", "bh": 6864, "btc": 20, "btn": 12, "pn": "org/andengine"}
@@ -27026,7 +27031,7 @@
 {"dn": 1006, "lib": "", "sp": "com/mobimento/caponate/section/styles", "bh": 234381, "btc": 527, "btn": 11}
 {"dn": 294, "lib": "", "sp": "org/bouncycastle/asn1/cmp", "bh": 84635, "btc": 288, "btn": 11}
 {"dn": 2281, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/internal", "bh": 306817, "btc": 280, "btn": 11, "pn": "com/google/android/gms"}
-{"dn": 202, "lib": "", "sp": "com/googlecode/mp4parser/h264/model", "bh": 44822, "btc": 268, "btn": 11}
+{"dn": 202, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/h264/model", "bh": 44822, "btc": 268, "btn": 11, "pn": "com/googlecode/mp4parser"}
 {"dn": 988, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/d/b", "bh": 211098, "btc": 254, "btn": 11, "pn": "org/andengine"}
 {"dn": 128, "lib": "", "sp": "repack/org/bouncycastle/asn1/cmp", "bh": 83647, "btc": 250, "btn": 11}
 {"dn": 462, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/internal", "bh": 226272, "btc": 207, "btn": 11, "pn": "com/google/android/gms"}
@@ -27085,17 +27090,17 @@
 {"dn": 146, "lib": "", "sp": "com/adapters/admob", "bh": 25815, "btc": 54, "btn": 11}
 {"dn": 338, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/c", "bh": 17083, "btc": 54, "btn": 11, "pn": "org/apache/http"}
 {"dn": 116, "lib": "", "sp": "com/pagesuite/subscriptionsdk/json", "bh": 145471, "btc": 53, "btn": 11}
-{"dn": 129, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53508, "btc": 53, "btn": 11, "pn": "com/chartboost/sdk"}
+{"dn": 129, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53508, "btc": 53, "btn": 11, "pn": "com/chartboost"}
 {"dn": 129, "lib": "da;Codehaus;www.codehaus.org/", "sp": "org/codehaus/jackson/sym", "bh": 20942, "btc": 53, "btn": 11, "pn": "org/codehaus"}
 {"dn": 163, "lib": "", "sp": "org/apache/sanselan/formats/bmp/pixelparsers", "bh": 232887, "btc": 52, "btn": 11}
 {"dn": 140, "lib": "", "sp": "sfs2x/client/requests/game", "bh": 73184, "btc": 51, "btn": 11}
-{"dn": 203, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53506, "btc": 51, "btn": 11, "pn": "com/chartboost/sdk"}
+{"dn": 203, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53506, "btc": 51, "btn": 11, "pn": "com/chartboost"}
 {"dn": 189, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/games/internal/game", "bh": 47744, "btc": 51, "btn": 11, "pn": "com/google/android/gms"}
 {"dn": 811, "lib": "", "sp": "org/jivesoftware/smack/sasl", "bh": 38142, "btc": 51, "btn": 11}
 {"dn": 24069, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/events", "bh": 32119, "btc": 51, "btn": 11, "pn": "com/google/android/gms"}
 {"dn": 301, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/locale", "bh": 60295, "btc": 50, "btn": 11, "pn": "ti/modules/titanium"}
 {"dn": 135, "lib": "", "sp": "com/heyzap/sdk/extensions/air/functions", "bh": 56348, "btc": 50, "btn": 11}
-{"dn": 173, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53505, "btc": 50, "btn": 11, "pn": "com/chartboost/sdk"}
+{"dn": 173, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53505, "btc": 50, "btn": 11, "pn": "com/chartboost"}
 {"dn": 116, "lib": "", "sp": "org/jivesoftware/smack/sasl", "bh": 38116, "btc": 50, "btn": 11}
 {"dn": 297, "lib": "da;crowdcompass;www.crowdcompass.com/", "sp": "com/crowdcompass/appeaUjo6e8XP/client/model/sync", "bh": 23121, "btc": 50, "btn": 11, "pn": "com/crowdcompass"}
 {"dn": 550, "lib": "", "sp": "edu/emory/mathcs/backport/java/util/concurrent/atomic", "bh": 82518, "btc": 49, "btn": 11}
@@ -27121,7 +27126,7 @@
 {"dn": 200, "lib": "", "sp": "com/tripomatic/sdk/offline", "bh": 25862, "btc": 43, "btn": 11}
 {"dn": 356, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/physics/box2d", "bh": 17800, "btc": 43, "btn": 11, "pn": "com/badlogic"}
 {"dn": 440, "lib": "", "sp": "org/yaml/snakeyaml/events", "bh": 7067, "btc": 43, "btn": 11}
-{"dn": 146, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53497, "btc": 42, "btn": 11, "pn": "com/chartboost/sdk"}
+{"dn": 146, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/unity", "bh": 53497, "btc": 42, "btn": 11, "pn": "com/chartboost"}
 {"dn": 222, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/drive/events", "bh": 31885, "btc": 42, "btn": 11, "pn": "com/google/android/gms"}
 {"dn": 350, "lib": "", "sp": "com/twitterapime/xauth/ui", "bh": 18708, "btc": 42, "btn": 11}
 {"dn": 122, "lib": "", "sp": "de/timroes/axmlrpc/xmlcreator", "bh": 9107, "btc": 42, "btn": 11}
@@ -27181,7 +27186,7 @@
 {"dn": 428, "lib": "", "sp": "org/jasypt/encryption/pbe/config", "bh": 117883, "btc": 31, "btn": 11}
 {"dn": 507, "lib": "da;XML Pull;www.xmlpull.org/", "sp": "org/xmlpull/v1", "bh": 104746, "btc": 31, "btn": 11, "pn": "org/xmlpull"}
 {"dn": 619, "lib": "", "sp": "net/daum/adam/publisher/impl/receiver", "bh": 57922, "btc": 31, "btn": 11}
-{"dn": 341, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Analytics", "bh": 45324, "btc": 31, "btn": 11, "pn": "com/chartboost/sdk"}
+{"dn": 341, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/Analytics", "bh": 45324, "btc": 31, "btn": 11, "pn": "com/chartboost"}
 {"dn": 136, "lib": "", "sp": "com/amax/oge/configuration/scene", "bh": 36647, "btc": 31, "btn": 11}
 {"dn": 1278, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/support", "bh": 36275, "btc": 31, "btn": 11, "pn": "com/j256"}
 {"dn": 102, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/support", "bh": 36274, "btc": 31, "btn": 11, "pn": "com/j256"}
@@ -27205,7 +27210,7 @@
 {"dn": 230, "lib": "", "sp": "com/esri/android/map/osm", "bh": 10557, "btc": 29, "btn": 11}
 {"dn": 225, "lib": "da;Appmakr;https://www.appmakr.com/", "sp": "com/appmakr/app147109/feed/callback", "bh": 64755, "btc": 28, "btn": 11, "pn": "com/appmakr"}
 {"dn": 797, "lib": "ui;GreenDroid;https://github.com/cyrilmottier/GreenDroid", "sp": "greendroid/widget/a", "bh": 61180, "btc": 28, "btn": 11, "pn": "greendroid"}
-{"dn": 462, "lib": "", "sp": "com/googlecode/mp4parser/boxes/ultraviolet", "bh": 57971, "btc": 28, "btn": 11}
+{"dn": 462, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/ultraviolet", "bh": 57971, "btc": 28, "btn": 11, "pn": "com/googlecode/mp4parser"}
 {"dn": 100, "lib": "", "sp": "com/mopub/mobileads/a", "bh": 41188, "btc": 28, "btn": 11}
 {"dn": 281, "lib": "da;Appmakr;https://www.appmakr.com/", "sp": "com/appmakr/app586411/feed/cache", "bh": 37824, "btc": 28, "btn": 11, "pn": "com/appmakr"}
 {"dn": 3225, "lib": "da;J256;https://github.com/j256/ormlite-android", "sp": "com/j256/ormlite/support", "bh": 36197, "btc": 28, "btn": 11, "pn": "com/j256"}
@@ -27238,7 +27243,7 @@
 {"dn": 126, "lib": "da;Fasterxml;fasterxml.com/", "sp": "com/fasterxml/jackson/core/format", "bh": 17116, "btc": 25, "btn": 11, "pn": "com/fasterxml"}
 {"dn": 482, "lib": "", "sp": "com/google/api/client/json/webtoken", "bh": 17018, "btc": 25, "btn": 11}
 {"dn": 568, "lib": "", "sp": "ch/boye/httpclientandroidlib/client/cache", "bh": 13387, "btc": 25, "btn": 11}
-{"dn": 307, "lib": "", "sp": "com/googlecode/mp4parser/boxes/threegpp26244", "bh": 9678, "btc": 25, "btn": 11}
+{"dn": 307, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/threegpp26244", "bh": 9678, "btc": 25, "btn": 11, "pn": "com/googlecode/mp4parser"}
 {"dn": 2644, "lib": "ad;Revmob;https://www.revmobmobileadnetwork.com/", "sp": "com/revmob/ads/fullscreen/b", "bh": 60513, "btc": 24, "btn": 11, "pn": "com/revmob"}
 {"dn": 229, "lib": "ad;Revmob;https://www.revmobmobileadnetwork.com/", "sp": "com/revmob/ads/fullscreen/internal", "bh": 60512, "btc": 24, "btn": 11, "pn": "com/revmob"}
 {"dn": 224, "lib": "", "sp": "org/linphone/mediastream/video/display", "bh": 58338, "btc": 24, "btn": 11}
@@ -27249,7 +27254,7 @@
 {"dn": 225, "lib": "da;Appmakr;https://www.appmakr.com/", "sp": "com/appmakr/app147109/provider", "bh": 29615, "btc": 24, "btn": 11, "pn": "com/appmakr"}
 {"dn": 199, "lib": "ge;badlogic;www.badlogicgames.com/", "sp": "com/badlogic/gdx/graphics/g3d/decals", "bh": 17377, "btc": 24, "btn": 11, "pn": "com/badlogic"}
 {"dn": 132, "lib": "da;retrofit RESTful Library;square.github.io/retrofit/", "sp": "com/octo/android/robospice/persistence/retrofit", "bh": 12284, "btc": 24, "btn": 11, "pn": "retrofit"}
-{"dn": 208, "lib": "", "sp": "com/googlecode/mp4parser/boxes/threegpp26244", "bh": 9677, "btc": 24, "btn": 11}
+{"dn": 208, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/threegpp26244", "bh": 9677, "btc": 24, "btn": 11, "pn": "com/googlecode/mp4parser"}
 {"dn": 234, "lib": "", "sp": "org/jivesoftware/smackx/pubsub/packet", "bh": 8631, "btc": 24, "btn": 11}
 {"dn": 136, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/anddev/andengine/extension/multiplayer/protocol/adt/message/client", "bh": 60084, "btc": 23, "btn": 11, "pn": "org/anddev/andengine"}
 {"dn": 197, "lib": "ad;Revmob;https://www.revmobmobileadnetwork.com/", "sp": "com/revmob/unity", "bh": 50120, "btc": 23, "btn": 11, "pn": "com/revmob"}
@@ -27259,7 +27264,7 @@
 {"dn": 301, "lib": "", "sp": "com/pad/android/xappad/plugin/phonegap", "bh": 32994, "btc": 23, "btn": 11}
 {"dn": 292, "lib": "ut;Aviary photo editing SDK;https://developers.aviary.com/docs/android", "sp": "com/aviary/android/feather/common/a", "bh": 25217, "btc": 23, "btn": 11, "pn": "com/aviary"}
 {"dn": 176, "lib": "ut;Nostra13 Image Loading;https://github.com/nostra13/Android-Universal-Image-Loader", "sp": "com/nostra13/universalimageloader/core/assist", "bh": 23401, "btc": 23, "btn": 11, "pn": "com/nostra13"}
-{"dn": 560, "lib": "", "sp": "com/coremedia/iso/boxes/dece", "bh": 10541, "btc": 23, "btn": 11}
+{"dn": 560, "lib": "ut;CoreMedia;http://www.coremedia.com", "sp": "com/coremedia/iso/boxes/dece", "bh": 10541, "btc": 23, "btn": 11, "pn": "com/coremedia/iso"}
 {"dn": 283, "lib": "", "sp": "com/quoord/tools/bitmap/ui", "bh": 75616, "btc": 22, "btn": 11}
 {"dn": 209, "lib": "", "sp": "org/teleal/cling/mock", "bh": 62082, "btc": 22, "btn": 11}
 {"dn": 320, "lib": "", "sp": "fr/pcsoft/wdjava/framework/h", "bh": 57866, "btc": 22, "btn": 11}
@@ -27270,7 +27275,7 @@
 {"dn": 862, "lib": "da;biznessapps;https://www.biznessapps.com/", "sp": "com/biznessapps/constants", "bh": 37343, "btc": 21, "btn": 11, "pn": "com/biznessapps"}
 {"dn": 250, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/entity/mime/content", "bh": 35980, "btc": 21, "btn": 11, "pn": "org/apache/http"}
 {"dn": 1742, "lib": "ad;Inmobi;http://inmobi.com", "sp": "com/inmobi/commons/analytics/iat/impl/config", "bh": 24290, "btc": 21, "btn": 11, "pn": "com/inmobi"}
-{"dn": 1951, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/a", "bh": 19673, "btc": 21, "btn": 11, "pn": "com/chartboost/sdk"}
+{"dn": 1951, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/a", "bh": 19673, "btc": 21, "btn": 11, "pn": "com/chartboost"}
 {"dn": 1440, "lib": "", "sp": "org/msgpack/util/android", "bh": 13863, "btc": 21, "btn": 11}
 {"dn": 113, "lib": "da;Apache Http;https://hc.apache.org/", "sp": "org/apache/http/nio/params", "bh": 242265, "btc": 20, "btn": 11, "pn": "org/apache/http"}
 {"dn": 239, "lib": "", "sp": "com/pinterest/pinit/assets", "bh": 135827, "btc": 20, "btn": 11}
@@ -27734,7 +27739,7 @@
 {"dn": 155, "lib": "da;Google GData;code.google.com/p/google-gdata/", "sp": "com/google/gdata/client/blogger", "bh": 29768, "btc": 14, "btn": 10, "pn": "com/google/gdata"}
 {"dn": 12985, "lib": "ad;Revmob;https://www.revmobmobileadnetwork.com/", "sp": "com/revmob/ads/b", "bh": 21710, "btc": 14, "btn": 10, "pn": "com/revmob"}
 {"dn": 113, "lib": "", "sp": "com/google/maps/android/quadtree", "bh": 20970, "btc": 14, "btn": 10}
-{"dn": 1366, "lib": "", "sp": "net/hockeyapp/android/adapters", "bh": 19823, "btc": 14, "btn": 10}
+{"dn": 1366, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/a", "bh": 19823, "btc": 14, "btn": 10, "pn": "net/hockeyapp/android"}
 {"dn": 106, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/common/a", "bh": 17758, "btc": 14, "btn": 10, "pn": "com/google/android/gms"}
 {"dn": 106, "lib": "", "sp": "com/artech/externalapi", "bh": 13326, "btc": 14, "btn": 10}
 {"dn": 2624, "lib": "ad;Appflood;appflood.com", "sp": "com/appflood/a", "bh": 12950, "btc": 14, "btn": 10, "pn": "com/appflood"}
@@ -27887,7 +27892,7 @@
 {"dn": 120, "lib": "", "sp": "com/nhn/android/data", "bh": 25991, "btc": 38, "btn": 9}
 {"dn": 156, "lib": "da;Google GData;code.google.com/p/google-gdata/", "sp": "com/google/gdata/data/health", "bh": 13539, "btc": 38, "btn": 9, "pn": "com/google/gdata"}
 {"dn": 859, "lib": "", "sp": "com/mobimento/caponate/tracking", "bh": 13494, "btc": 38, "btn": 9}
-{"dn": 106, "lib": "", "sp": "net/hockeyapp/android/objects", "bh": 8850, "btc": 38, "btn": 9}
+{"dn": 106, "lib": "da;Hockeyapp;http://support.hockeyapp.net/", "sp": "net/hockeyapp/android/c", "bh": 8850, "btc": 38, "btn": 9, "pn": "net/hockeyapp/android"}
 {"dn": 227, "lib": "", "sp": "com/vividsolutions/jts/precision", "bh": 18766, "btc": 37, "btn": 9}
 {"dn": 199, "lib": "", "sp": "com/aetrion/flickr/blogs", "bh": 103052, "btc": 36, "btn": 9}
 {"dn": 124, "lib": "", "sp": "com/quickmobile/conference/search/adapter", "bh": 18084, "btc": 35, "btn": 9}
@@ -27919,6 +27924,7 @@
 {"dn": 1765, "lib": "", "sp": "com/testflightapp/lib/endpoints", "bh": 37062, "btc": 26, "btn": 9}
 {"dn": 1949, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/plus/internal", "bh": 36623, "btc": 26, "btn": 9, "pn": "com/google/android/gms"}
 {"dn": 231, "lib": "", "sp": "com/db4o/internal/encoding", "bh": 32536, "btc": 26, "btn": 9}
+{"dn": 248, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/c/b", "bh": 20218, "btc": 26, "btn": 9, "pn": "com/googlecode/mp4parser"}
 {"dn": 125, "lib": "", "sp": "net/lingala/zip4j/model", "bh": 18928, "btc": 26, "btn": 9}
 {"dn": 125, "lib": "ut;Verizon;https://www.verizon.com/", "sp": "com/verizon/ui/customView/GenericViewPagerFragment/viewPagerAnimation", "bh": 171103, "btc": 25, "btn": 9, "pn": "com/verizon"}
 {"dn": 132, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/extension/multiplayer/protocol/client/connector", "bh": 139453, "btc": 25, "btn": 9, "pn": "org/andengine"}
@@ -28304,7 +28310,7 @@
 {"dn": 156, "lib": "", "sp": "com/tripomatic/ui/archive", "bh": 37383, "btc": 20, "btn": 8}
 {"dn": 2733, "lib": "da;Titanium-Modules;", "sp": "ti/modules/titanium/locale", "bh": 30013, "btc": 20, "btn": 8, "pn": "ti/modules/titanium"}
 {"dn": 121, "lib": "", "sp": "com/lumensoft/kslog", "bh": 25255, "btc": 20, "btn": 8}
-{"dn": 1948, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/c", "bh": 25125, "btc": 20, "btn": 8, "pn": "com/chartboost/sdk"}
+{"dn": 1948, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/c", "bh": 25125, "btc": 20, "btn": 8, "pn": "com/chartboost"}
 {"dn": 426, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/nearby/connection", "bh": 22061, "btc": 20, "btn": 8, "pn": "com/google/android/gms"}
 {"dn": 207, "lib": "", "sp": "com/db4o/internal/fileheader", "bh": 20711, "btc": 20, "btn": 8}
 {"dn": 246, "lib": "", "sp": "com/db4o/internal/mapping", "bh": 19483, "btc": 20, "btn": 8}
@@ -28546,7 +28552,7 @@
 {"dn": 1293, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/auth", "bh": 27832, "btc": 40, "btn": 7, "pn": "com/google/android/gms"}
 {"dn": 635, "lib": "", "sp": "com/vungle/publisher/event", "bh": 16448, "btc": 40, "btn": 7}
 {"dn": 187, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/entity/primitive", "bh": 197595, "btc": 39, "btn": 7, "pn": "org/andengine"}
-{"dn": 338, "lib": "", "sp": "com/googlecode/mp4parser/h264/write", "bh": 19303, "btc": 39, "btn": 7}
+{"dn": 338, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/c/c", "bh": 19303, "btc": 39, "btn": 7, "pn": "com/googlecode/mp4parser"}
 {"dn": 1131, "lib": "ad;Google Ads;https://www.google.com/ads/", "sp": "com/google/ads/mediation/customevent", "bh": 2246, "btc": 38, "btn": 7, "pn": "com/google/ads"}
 {"dn": 125, "lib": "ge;cocos2D;www.cocos2d-x.org/", "sp": "org/cocos2d/transitions", "bh": 64368, "btc": 37, "btn": 7, "pn": "org/cocos2d"}
 {"dn": 672, "lib": "da;htmlCleaner;http://htmlcleaner.sourceforge.net", "sp": "org/htmlcleaner/audit", "bh": 29628, "btc": 37, "btn": 7, "pn": "org/htmlcleaner"}
@@ -28727,6 +28733,7 @@
 {"dn": 315, "lib": "", "sp": "com/automotiontv/tasks", "bh": 15099, "btc": 13, "btn": 7}
 {"dn": 406, "lib": "", "sp": "com/mobimento/caponate/section/dataviews/ARPois/point/impl", "bh": 12315, "btc": 13, "btn": 7}
 {"dn": 6985, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/ads/search", "bh": 11197, "btc": 13, "btn": 7, "pn": "com/google/android/gms"}
+{"dn": 255, "lib": "ut;Joda Time;www.joda.org/joda-time/", "sp": "org/joda/time/a", "bh": 10338, "btc": 13, "btn": 7, "pn": "org/joda/time"}
 {"dn": 575, "lib": "ui;goodbarber;www.goodbarber.com/", "sp": "com/goodbarber/v2/data/ads/admob", "bh": 8960, "btc": 13, "btn": 7, "pn": "com/goodbarber"}
 {"dn": 289, "lib": "", "sp": "com/esri/android/map/event", "bh": 6226, "btc": 13, "btn": 7}
 {"dn": 206, "lib": "", "sp": "com/edmodo/cropper/cropwindow/edge", "bh": 2825, "btc": 13, "btn": 7}
@@ -28998,7 +29005,7 @@
 {"dn": 364610, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/os", "bh": 77, "btc": 12, "btn": 6, "pn": "android/support/v4"}
 {"dn": 645, "lib": "da;Android Support v4;http://developer.android.com/reference/android/support/v4/app/package-summary.html", "sp": "android/support/v4/content/res", "bh": 124338, "btc": 11, "btn": 6, "pn": "android/support/v4"}
 {"dn": 148, "lib": "", "sp": "co/uk/alt236/reflectivedrawableloader/containers", "bh": 34897, "btc": 11, "btn": 6}
-{"dn": 492, "lib": "", "sp": "com/googlecode/mp4parser/boxes/cenc", "bh": 34827, "btc": 11, "btn": 6}
+{"dn": 492, "lib": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/", "sp": "com/googlecode/mp4parser/boxes/cenc", "bh": 34827, "btc": 11, "btn": 6, "pn": "com/googlecode/mp4parser"}
 {"dn": 692, "lib": "", "sp": "com/google/api/client/http/xml", "bh": 34374, "btc": 11, "btn": 6}
 {"dn": 100, "lib": "da;PhoneGap;phonegap.com/", "sp": "com/phonegap", "bh": 31228, "btc": 11, "btn": 6, "pn": "com/phonegap"}
 {"dn": 64750, "lib": "da;Google GMS;https://developers.google.com/android/reference/com/google/android/gms/package-summary", "sp": "com/google/android/gms/k/c/c", "bh": 27502, "btc": 11, "btn": 6, "pn": "com/google/android/gms"}
@@ -29217,12 +29224,12 @@
 {"dn": 185, "lib": "", "sp": "com/vividsolutions/jts/shape/random", "bh": 33399, "btc": 11, "btn": 5}
 {"dn": 3589, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/anddev/andengine/h/h", "bh": 24706, "btc": 11, "btn": 5, "pn": "org/anddev/andengine"}
 {"dn": 221, "lib": "da;Apache James Mail Enterprise Serve;http://james.apache.org", "sp": "org/apache/james/mime4j/util", "bh": 19027, "btc": 11, "btn": 5, "pn": "org/apache/james"}
-{"dn": 5133, "lib": "ut;Tapit;Tapit NFC\u6280\u672f", "sp": "com/tapit/a", "bh": 17714, "btc": 11, "btn": 5, "pn": "com/tapit"}
+{"dn": 5133, "lib": "ut;Tapit NFC\u6280\u672f;", "sp": "com/tapit/a", "bh": 17714, "btc": 11, "btn": 5, "pn": "com/tapit"}
 {"dn": 698, "lib": "da;Baidu APP SDK;developer.baidu.com/", "sp": "com/baidu/platform/comapi/a", "bh": 17314, "btc": 11, "btn": 5, "pn": "com/baidu/platform"}
 {"dn": 4319, "lib": "ad;Inmobi;http://inmobi.com", "sp": "com/inmobi/re/a", "bh": 16434, "btc": 11, "btn": 5, "pn": "com/inmobi"}
 {"dn": 4772, "lib": "ge;Andengine Game Engine;www.andengine.org/", "sp": "org/andengine/g/h", "bh": 15788, "btc": 11, "btn": 5, "pn": "org/andengine"}
 {"dn": 686, "lib": "ad;Adtech;www.adtech.com/", "sp": "com/adtech/mobilesdk/mediation/millennial/internal", "bh": 14352, "btc": 11, "btn": 5, "pn": "com/adtech"}
-{"dn": 527, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/special", "bh": 13281, "btc": 11, "btn": 5, "pn": "com/chartboost/sdk"}
+{"dn": 527, "lib": "ad;ChartBoost;www.chartboost.com/ ", "sp": "com/chartboost/sdk/special", "bh": 13281, "btc": 11, "btn": 5, "pn": "com/chartboost"}
 {"dn": 573, "lib": "", "sp": "com/socialize/networks/facebook/v3", "bh": 12541, "btc": 11, "btn": 5}
 {"dn": 223, "lib": "da;Appbrain;www.appbrain.com/", "sp": "com/appbrain/mediation", "bh": 10759, "btc": 11, "btn": 5, "pn": "com/appbrain"}
 {"dn": 371, "lib": "", "sp": "com/heyzap/sdk/extensions/unity3d", "bh": 10144, "btc": 11, "btn": 5}
