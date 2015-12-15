@@ -19,6 +19,12 @@ input = open(input_d, 'r')
 output = open(output_d, 'w')
 for line in input:
     i = json.loads(line)
+    if i['lib'] == "" and len(i['ps'][0].split('/')) <= 4:
+        print str(i['ps'] ) + str(i['dn'])
+
+    if "ps" in i:
+        if len(i["ps"]) > 2:
+            print i["ps"]
     if "ps" in i:
         del i["ps"]
     output.write(json.dumps(i)+'\n')

@@ -45,9 +45,14 @@ lib_list = {
     "com/squareup/picasso": "da;picasso;https://github.com/square/picasso",
     "com/squareup/dagger": "da;Dagger;http://square.github.io/dagger/",
     "com/squareup/otto": "da;otto;http://square.github.io/otto/",
+    "com/squareup/javawriter": "da;javawriter;https://github.com/square/javapoet/",
     "com/squareup/pollexor": "da;pollexor;http://square.github.io/pollexor/",
     "com/squareup/spoon": "da;spoon;http://square.github.io/spoon/",
     "com/squareup/wire": "da;wire;https://github.com/square/wire",
+    "net/hockeyapp/android": "da;Hockeyapp;http://support.hockeyapp.net/",
+    "org/joda/time": "ut;Joda Time;www.joda.org/joda-time/",
+    "com/coremedia/iso": "ut;CoreMedia;http://www.coremedia.com",
+    "com/googlecode/mp4parser": "ut;Mp4 Parser;https://code.google.com/p/mp4parser/",
     "com/squareup": "pa;SquareUp;https://squareup.com",
     "com/umeng/fb": "ma;Umeng feedback;dev.umeng.com/feedback",
     "com/umeng/analytics": "ma;Umeng Analytics;https://www.umeng.com/analytics",
@@ -147,6 +152,7 @@ lib_list = {
     "com/urbanairship": "ui;urbanairship;https://www.urbanairship.com/",#推送通知栏用的
     "com/startapp": "ad;StartApp;www.startapp.com/",
     "com/newrelic": "da;newrelic;newrelic.com/",
+    "com/parse": "ma;Parse.com;https://parse.com/docs/cn/android/guide",
     "oauth/signpost": "da;Signpost Oauth;https://code.google.com/p/oauth-signpost/",
     "org/cocos2dx": "ge;cocos2DX;www.cocos2d-x.org/",#cocos2d是一个基于MIT协议的开源框架，用于构建游戏、应用程序和其他图形界面交互应用
     "org/cocos2d": "ge;cocos2D;www.cocos2d-x.org/",
@@ -167,7 +173,6 @@ lib_list = {
     "com/adobe/flashplayer": "da;Adobe FlashPlayer;",
     "com/adobe/flashruntime": "da;Adobe FlashPlayer;",
     "com/adobe/plugin": "da;Adobe plugin;",
-    "com/parse": "ma;Parse.com;https://parse.com/docs/cn/android/guide",
     "com/magtab": "ut;Magtab;https://www.magtab.com/",
     "org/appcelerator": "da;Appcelerator;www.appcelerator.org/",
     "com/jirbo": "da;Jirbo;www.jirbo.com/",
@@ -214,14 +219,14 @@ lib_list = {
     "com/ironsource": "da;IronSource;www.ironsrc.com",
     "net/authorize": "da;Authorize.NET;www.authorize.net/",
     "com/sun/mail": "ut;Sun Mail.jar;",
-    "com/tapit": "ut;Tapit;Tapit NFC技术",
+    "com/tapit": "ut;Tapit NFC技术;",
     "com/conduit/app": "da;Conduit App;apps.conduit.com/",
     "com/samsung/spen": "ui;Samsung Spen;developer.samsung.com/galaxy",
     "com/paypal":"pa;PayPal;https://developer.paypal.com/docs/integration/mobile/android-integration-guide/",
     "com/fasterxml": "da;Fasterxml;fasterxml.com/",
     "com/skplanet": "ut;skplanet;www.skplanet.com",
     "net/youmi": "sn;Youmi Ads;www.youmi.net/",
-    "com/chartboost/sdk": "ad;ChartBoost;www.chartboost.com/ ",
+    "com/chartboost": "ad;ChartBoost;www.chartboost.com/ ",
     "cn/domob": "ad;domob;www.domob.cn/",
     "com/astuetz": "ui;Astuetz Pager Sliding Tab Strip;https://github.com/astuetz",
     "com/naef/jnlua": "da;jnlua;Java Lua 互联工具",#With JNLua, you can access Java from Lua and Lua from Java.
@@ -289,64 +294,68 @@ lib_list = {
 
 not_tagged = []
 
+tagged_number = 0
+not_tagged_number = 0
+
 dep_max_list = {}
 
+if __name__ == '__main__':
 
-#for ii in lib_list:
-#    if len(lib_list[ii].split(';')) > 3:
-#        print ii
-#        exit()
-input = open(input_d, 'r')
-output = open(output_d, 'w')
-key_list = sorted(lib_list.keys(), key=lambda lib_key: len(lib_key), reverse=True)
-for line in input:
-    i = json.loads(line)
-    if len(i['pp'][0].split('/')) <= 4:
-        if i['pp'][0] in dep_max_list:
-            dep_max_list[i['pp'][0]] += i['dep_num']
-        else:
-            dep_max_list[i['pp'][0]] = i['dep_num']
-    o = {'lib': ""}
-    paths = i[u'pp']
-    paths.reverse()
-    for s_path in paths:
-        s_lower = s_path.lower()
-        for key in key_list:
-            if key in s_lower:
-                o['lib'] = lib_list[key]
-                o['pn'] = key       # package name
+    #for ii in lib_list:
+    #    if len(lib_list[ii].split(';')) > 3:
+    #        print ii
+    #        exit()
+    input = open(input_d, 'r')
+    output = open(output_d, 'w')
+    key_list = sorted(lib_list.keys(), key=lambda lib_key: len(lib_key), reverse=True)
+    for line in input:
+        i = json.loads(line)
+        if len(i['pp'][0].split('/')) <= 4:
+            if i['pp'][0] in dep_max_list:
+                dep_max_list[i['pp'][0]] += i['dep_num']
+            else:
+                dep_max_list[i['pp'][0]] = i['dep_num']
+        o = {'lib': ""}
+        paths = i[u'pp']
+        paths.reverse()
+        for s_path in paths:
+            s_lower = s_path.lower()
+            for key in key_list:
+                if key in s_lower:
+                    o['lib'] = lib_list[key]
+                    o['pn'] = key       # package name
+                    break
+            if o['lib'] != "":
                 break
-        if o['lib'] != "":
-            break
-    o['sp'] = s_path  # sp: s_path
-    o['bh'] = i['b_hash']  # bh: b_hash
-    o['btn'] = i['b_total_num']     # btn: b_total_num
-    o['btc'] = i['b_total_call']   # btc: b_total_call
-    o['dn'] = i['dep_num'] # dn:dep_num
-    if o['lib'] == "":
-        if len(paths) > 10:
-            o['ps'] = paths[:10]    # ps: paths
-        else:
-            o['ps'] = paths
-        not_tagged.append(o)
-        # if i['dep_num'] > 2000 and i['dep_num'] <= 5000:
-        #     print o
-    output.write(json.dumps(o)+'\n')
+        o['sp'] = s_path  # sp: s_path
+        o['bh'] = i['b_hash']  # bh: b_hash
+        o['btn'] = i['b_total_num']     # btn: b_total_num
+        o['btc'] = i['b_total_call']   # btc: b_total_call
+        o['dn'] = i['dep_num'] # dn:dep_num
+        if o['lib'] == "":
+            if len(paths) > 10:
+                o['ps'] = paths[:10]    # ps: paths
+            else:
+                o['ps'] = paths
+            not_tagged.append(o)
+            # if i['dep_num'] > 2000 and i['dep_num'] <= 5000:
+            #     print o
+        output.write(json.dumps(o)+'\n')
 
-out = open('../raw_data/top_libs.txt', 'w')
-for i in sorted(dep_max_list.items(), key=lambda u: u[1], reverse=True):
-    out.write(json.dumps(i) + '\n')
-out.close()
+    out = open('../raw_data/top_libs.txt', 'w')
+    for i in sorted(dep_max_list.items(), key=lambda u: u[1], reverse=True):
+        out.write(json.dumps(i) + '\n')
+    out.close()
 
-'''
-cnt = 0
-for i in sorted(not_tagged, key=lambda u: u['dep_num'], reverse=True):
-    cnt += 1
-    if cnt > 200:
-        break
-    print i
     '''
+    cnt = 0
+    for i in sorted(not_tagged, key=lambda u: u['dep_num'], reverse=True):
+        cnt += 1
+        if cnt > 200:
+            break
+        print i
+        '''
 
 
-input.close()
-output.close()
+    input.close()
+    output.close()
